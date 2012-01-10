@@ -1,0 +1,1607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<blog root-url="/" date-created="2012-01-05T03:22:54" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.blogml.com/2006/09/BlogML">
+  <title type="text"><![CDATA[Philipp Küng]]></title>
+  <sub-title type="text"><![CDATA[Co-Founder of @bitfondue]]></sub-title>
+  <authors>
+    <author id="Philipp Küng" date-created="2012-01-04T15:36:49" date-modified="2012-01-04T15:36:49" approved="true" email="i@philippkueng.ch">
+      <title type="text"><![CDATA[Philipp Küng]]></title>
+    </author>
+  </authors>
+  <extended-properties>
+    <property name="CommentModeration" value="Anonymous" />
+    <property name="SendTrackback" value="Yes" />
+  </extended-properties>
+  <categories>
+    <category id="1ea27f94-7810-44c3-b930-d488f5627608" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Events]]></title>
+    </category>
+    <category id="0ce0c369-fab6-40b1-a5aa-aebddd8504ae" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Freebies]]></title>
+    </category>
+    <category id="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Internet]]></title>
+    </category>
+    <category id="ce9e5233-593e-4b42-a1d1-29227a7fd061" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Photographie]]></title>
+    </category>
+    <category id="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Projekte]]></title>
+    </category>
+    <category id="66675cd9-d3a1-4cd0-b25c-e02d4b890093" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Foursquare BlogEngine.NET widget]]></title>
+    </category>
+    <category id="12d4405b-4f4d-469d-ab9c-91cbd3120787" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Tutorial]]></title>
+    </category>
+    <category id="29bd325b-9a73-4f6b-b6da-0c690a22fd97" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Verschiedenes]]></title>
+    </category>
+  </categories>
+  <posts>
+    <post id="1bf329f2-a9d6-4209-9303-3bf7ed604a64" date-created="2011-11-11T23:09:00" date-modified="2011-11-11T23:17:00" approved="true" post-url="/post/Taking-care-of-relationships-is-not-outsourceable.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Taking care of relationships is not outsourceable]]></title>
+      <content type="text"><![CDATA[<p>A few days ago a fellow blogger nearby, <a href="http://webwirksam.ch/geburtsanzeigen-tool-fur-weniger-stress--1341/">Sam Steiner, was giving away a startup idea</a>. The goal would be to develop a web platform where upcoming parents can write and design birth announcement letters which will then be sent out through the company as soon as the parents complete the information for example with a picture upload via their mobile. The sending for the inner circle will then be made by sending physical cards whereas the rest will receive a nicely formatted email or facebook wall entry.</p>
+
+<p>After reading his idea I immediately responded via a comment that he should make it happen, after all aren&#8217;t those the successful startups that fullfill an itch that a founder has himself?</p>
+
+<p>Throughout the rest of the day my brain was occupied by coming up with ways to turn this idea into reality, thinking about partners in the printing business who would send out the printed goods and maybe also pre-fill them. What might their pricing requirements look like? - after all their struggling themselves in the world of the internet. 
+After the physical side was mentally figured out the question was how to build the website? - which technology stack to use? - hacking it together over a weekend? - with whom?</p>
+
+<p>Later that day I told my father, a non computer savvy person, about that great idea I saw on the internet today. He was looking at me as if i was out of my mind. He totally disagreed and instead suggested that women, in the week prior to giving birth when being bored and at home, could potentially pre-write the letters so that the husband could then just print out the pictures stick them into the cards and then send them to friends and family.</p>
+
+<p>After having the discussion with my father i think he&#8217;s totally right in terms of not outsourcing the bonding part with people you care about. It&#8217;s not about time you&#8217;d gain by using such a service it&#8217;s about openly investing yourself into the relationships to others by sending a handwritten card rather than wrapping your personal writing in an emotionenless off the shelf card with corporate branding on the back.</p>
+
+<p>On a sidenote to all developers, I know it&#8217;s all too easy to get stuck in the optimization trap without knowing it. We tackle the market analysis with the identical mindset as writing revision one of the service. The approach might work in an emotionless business area but is certainly not suited at all for private relationships. As a hint, talking to people with different backgrounds helps enormously.</p>]]></content>
+      <post-name type="text"><![CDATA[Taking care of relationships is not outsourceable]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="startup" />
+        <tag ref="idea" />
+        <tag ref="relationship" />
+        <tag ref="focus" />
+      </tags>
+    </post>
+    <post id="8cb505d3-c32f-43ce-8c17-05abfd51eadc" date-created="2011-10-23T17:15:00" date-modified="2011-10-23T17:36:40" approved="true" post-url="/post/MAKEOpenDatach-2011.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[MAKE.OpenData.ch 2011]]></title>
+      <content type="text"><![CDATA[<p><a href="http://www.flickr.com/photos/agentcmos/6203132361/" title="MakeOpenData Camp 2011 @ EPFL by Philipp Küng, on Flickr"><img src="http://farm7.static.flickr.com/6153/6203132361_a01dca40de_b.jpg" alt="MakeOpenData Camp 2011 @ EPFL"></a></p>
+
+<p>In an effort to make the world a better place, hackers all around Switzerland joined this years make.opendata.ch hackathon in Zürich and Lausanne. The goal was to use publicly available data, so-called <strong>OpenData</strong> and visualize it in a meaningful way so everyone is able to make sense of it.</p>
+
+<p>Despite of having a french language deficit - it was a dark chapter in grammar school - i travelled all the way to EPF Lausanne which was absolutely worth it.</p>
+
+<p>After the kickoff <a href="http://twitter.com/#!/florin_iorganda">Florin</a>, <a href="http://twitter.com/#!/FredericJacobs">Frederic</a> and I immediately started working on a project to improve the routes suggestion of traditional mapping applications such as Google Maps and OpenStreetMap by providing a way to add obstacles to a map and then calculate a new obstacle-free route to help people on tight schedules arrive on time. While we knew that large companies are working on that we were still looking for a hack to finish something usable until the deadline the day after.</p>
+
+<p><strong>The theoretical solution</strong> - The frontend would be a static website where the user can enter departure and destination location. This then would make an API call to the backend where the hacks are doing its&#8217; part.
+The backend would consist of a webkit process running, controlled by PhantomJS. If a request gets issued PhantomJS loads Google Maps Directions with the start and end location, let the server-side webkit process render the page and then add all the obstacles via Lat/Long with a predefined icon which is easily distinguishable from the map itself. Next, PhantomJS creates a PNG-screenshot of the obstacles and route containing website. It starts the next process which parses the PNG pixel-by-pixel and looks if there is a blue line and an obstacle crossing. If so, make a circle of 300m radius around the obstacle and randomly add a Lat/Long coordinate, being part of the circle border, as a waypoint to the routes call of Google Maps. Then repeat the process above to check if the new route interferes with obstacles. If finally and obstacle-free route is found, return the details to the frontend.</p>
+
+<p>During dinner, about three hours in, we came to the conclusion that it is just too much of a hack to spend valuable hacking time on, so we had to find something more suitable for the next day. Which we did in SwissMap.</p>
+
+<p><a href="http://www.flickr.com/photos/agentcmos/6203706302/" title="MakeOpenData Camp 2011 @ EPFL by Philipp Küng, on Flickr"><img src="http://farm7.static.flickr.com/6153/6203706302_dbd6f92b8e_b.jpg" alt="MakeOpenData Camp 2011 @ EPFL"></a></p>
+
+<p>Full of vim and vigor we then started on Saturday morning, Florin by collecting the interesting data from all over the <a href="http://www.bfs.admin.ch/">bfs website</a>, Frederic by merging and crunching the data into a format which is then processable via Javascript and I took care of the view and the comparing alogrithm. We aimed at building a web application where citizens and data-journalists can compare two different, unrelated datasets and visualize the outcome on a swiss heatmap. Luckily our very intense and focused hacking on day two was enough so that we were able to meet the presentation deadline in the afternoon. Epic Win.</p>
+
+<p><img src="/image.axd?picture=2011%2f10%2fswissmap_screenshot.jpg" alt="SwissMap Screenshot" /></p>
+
+<p>[ <a href="http://swissmap.bitfondue.com/">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:swissmap">wiki</a>, <a href="http://github.com/philippkueng/swissmap">source</a> ]</p>
+
+<p>I hereby thank the sponsors, hackers and especially the team behind the <a href="http://makeopendata.ch/">MAKE.OpenData project</a> Andreas, Hannes, Oleg, Antoine, François, Frederic and Jeremy very much for making the event possible and inspiring us.</p>
+
+<p><strong>Amazing MAKE.OpenData projects others have built</strong></p>
+
+<ul>
+<li>green-street [ <a href="http://opendata.utou.ch/lausanne/">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:green_street">wiki</a>, <a href="http://github.com/loleg/green-street">source</a> ]</li>
+<li>gesagt-im-parlament.ch [ <a href="http://gesagt-im-parlament.ch/">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:parlament">wiki</a>, <a href="http://github.com/gwrtheyrn/gesagt-im-parlament.ch">source</a> ]</li>
+<li>politnetz visualization [ <a href="http://www.riaforweb.com/BTCPOLIT/">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:politnetz">wiki</a> ]</li>
+<li>Swiss Army Contaminated Sites [ <a href="http://lab.interactivethings.com/swiss-army-contaminated-sites/">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:swiss_army_contaminated_sites">wiki</a> ]</li>
+<li>Where Did My Taxes Go [ <a href="http://wheredidmytaxesgo.nelm.io/">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:wheredidmytaxesgo">wiki</a>, <a href="http://github.com/Seldaek/wheredidmytaxesgo">source</a> ]</li>
+<li>openletten [ <a href="http://www.tamberg.org/makeopendata/2011/jquery.html">live</a>, <a href="http://makeopendata.ch/doku.php?id=project:openletten">wiki</a>, <a href="http://bitbucket.org/tamberg/makeopendata/overview">source</a> ]</li>
+</ul>]]></content>
+      <post-name type="text"><![CDATA[MAKE.OpenData.ch 2011]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="opendata" />
+        <tag ref="make.opendata" />
+        <tag ref="makeopendata" />
+        <tag ref="opendataCH" />
+      </tags>
+    </post>
+    <post id="f7e14910-e6ef-4bc6-bf86-b5b76eaf4ecf" date-created="2011-09-19T22:13:00" date-modified="2011-09-19T22:31:00" approved="true" post-url="/post/Photoblog-SFO-2-YVR.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Photoblog - SFO 2 YVR]]></title>
+      <content type="text"><![CDATA[<a href="http://sfo2yvr.github.com"><img src="/image.axd?picture=2011%2f9%2fsfo2yvr-images.jpg" alt="" /></a>
+
+<p>Travelling is supposed to be relaxing right? However there are many things you need to take care of for example writing postcards, sending SMSes to loved ones and keep notes of all the sites, actually this time RL ones, visited.</p>
+
+<p>While I did exactely that for my last vacation in Canada, we were handling it differently this time.</p>
+
+<p>During the <a href="http://sfo2yvr.github.com/2011/08/28/Flug-nach-San-Francisco.html">flight from Frankfurt to San Francisco</a> we came up with the photoblog called <a href="http://sfo2yvr.github.com">sfo2yvr</a>, which includes the airport code of SF and Vancouver in its&#8217; name, creative we know. It is based on Jekyll rather than Tumblr, which we actually wanted to use in the first place. However, we needed a platform to publish articles offline and did not want to rely on third party apps like MarsEdit, with <a href="http://git-scm.com">git</a> and <a href="http://pages.github.com">github pages</a> that is cake.</p>
+
+<p>The idea was to update it once a day, however because US National Parks mostly do not yet offer Wifi, nor electricity or running water (rivers do not count), we sometimes only committed to the local repository and pushed to github when we were in a peopled area later.</p>
+
+<p>This technique for blogging worked pretty well for us so far, however I am really curious what others, maybe you, have done in terms of solving the offline problem or finding the suitable picture for the day.</p>]]></content>
+      <post-name type="text"><![CDATA[Photoblog - SFO 2 YVR]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ce9e5233-593e-4b42-a1d1-29227a7fd061" />
+      </categories>
+      <tags>
+        <tag ref="san francisco" />
+        <tag ref="vancouver" />
+        <tag ref="vacation" />
+        <tag ref="photoblog" />
+        <tag ref="jekyll" />
+        <tag ref="github pages" />
+        <tag ref="sfo2yvr" />
+      </tags>
+    </post>
+    <post id="982b8c8f-0dd4-43e7-a779-49a5dbc7e3d4" date-created="2011-08-18T17:38:00" date-modified="2011-08-18T18:10:14" approved="true" post-url="/post/Agile-Livin-shipped.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Agile Livin' - shipped]]></title>
+      <content type="text"><![CDATA[<p><img src="/image.axd?picture=2011%2f8%2fagilelivin_theme_picture.jpg" alt="agilelivin theme picture" /></p>
+
+<p>Changing habits is difficult. On December 31 you think that in 201x you will stop smoking, start eating healthier food or in my case plain and simple gain weight. (yes, I want to be a sumo wrestler) The only problem is that you are currently within your comfort zone and you are not taking immediate action. You are procastinating. I guess a lot of people, me included, never get out of it and already fail before having started. A tip, which might sound weird, but has worked for me so far, stop thinking about it and put yourself in a position where <a href="http://twitter.com/#!/Weegee/status/66756938066706432">&ldquo;The only way out is through.&rdquo; &mdash; Winston Churchill</a>.</p>
+
+<p>Then secondly as with every habit you want to adapt, it needs to be included in your daily routine. That means if you can keep a daily routine up for about three weeks you are most certainly going to succeed with making it a habit.</p>
+
+<p>About four weeks ago my friend <a href="http://zurcherart.com">Steve</a>, with whom I co-founded <a href="http://bitfondue.com">bitfondue</a>, sent out a <a href="http://twitter.com/#!/zurcherart/status/94798265387720704">tweet</a> which started a discussion between the two of us on how to simplify life by leveraging agile practices with the outcome that we agreed on producing a podcast about that. Still having the two points above in the back of our heads we skipped being procrastinating wusses and started being agile right away. We successfully recorded the first iteration, set up a <a href="http://github.com/agilelivin/agilelivin.github.com">blog</a> using <a href="http://github.com/mojombo/jekyll/">Jekyll</a> (we are nerds what do you expect? Wordpress.) and registered the <a href="http://agileliv.in">domain</a> within the first week after initiating the adventure.</p>
+
+<p>Enough history, now to the meat, if you want to have 30 minutes of LOL I highly recommend listening to <a href="http://agileliv.in/2011/07/29/cluttering-the-internet.html">Iteration 1</a> otherwise give <a href="http://agileliv.in/2011/08/06/the-agile-manifesto.html">Iteration 2</a>  or <a href="http://agileliv.in/2011/08/14/the-priority-of-priorities.html">3</a> (the one below) a try. For more information, future iterations or comments head on over to <a href="http://agileliv.in">agilelivin</a>.</p>
+
+<object height="81" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F21189386&amp;show_comments=false&amp;auto_play=false&amp;color=0A71B2"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F21189386&amp;show_comments=false&amp;auto_play=false&amp;color=0A71B2" type="application/x-shockwave-flash" width="100%"></embed> </object>]]></content>
+      <post-name type="text"><![CDATA[Agile Livin' - shipped]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="agilelivin" />
+        <tag ref="podcast" />
+        <tag ref="zurcherart" />
+        <tag ref="agile" />
+        <tag ref="project" />
+      </tags>
+    </post>
+    <post id="ec2acb01-23e9-4384-abb3-9c6e43aaa50f" date-created="2011-07-25T21:34:00" date-modified="2011-07-29T01:50:50" approved="true" post-url="/post/Procrastination-is-so-yesterday.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Procrastination is so yesterday]]></title>
+      <content type="text"><![CDATA[<p>After writing the last post about the <a href="http://philippkueng.ch/post/Blame-the-Lizard-Brain-But-do-it!.aspx">Lizard Brain</a> I gave myself another episode of <a href="http://5by5.tv/b2w">Back to Work</a> it was <a href="http://5by5.tv/b2w/4">episode number 4</a>, and in there, at the end, Marlin Mann talks about the way he is handling Task Lists which mysteriously worked extremely well for me too.</p>
+
+<p>It works as folling, prior to adding a task to your list go mentally through it and notice every single subtask you need to achieve in order to check that item of your list. That way I accomplished 4 tasks which consumed about 2h of my time without really noticing it and that said those tasks were sitting on my list for 3 weeks already.</p>
+
+<p>Next there is the second and last rule, do not dare to put tasks on your list you know upfront you are not going to do anyway. For me such a thing is sorting my photo library, I used to have an entry for sorting pictures taken while being in Canada (2008) on the list until very recently. By the way decluttering it regularly helps a lot too, believe me.</p>]]></content>
+      <post-name type="text"><![CDATA[Procrastination is so yesterday]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="getting things done" />
+        <tag ref="back to work" />
+        <tag ref="to do list" />
+        <tag ref="procrastination" />
+      </tags>
+    </post>
+    <post id="c666c133-df96-4f1a-b867-7b5f50e3d61b" date-created="2011-07-24T00:34:00" date-modified="2011-07-24T00:45:04" approved="true" post-url="/post/Blame-the-Lizard-Brain-But-do-it!.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Blame the Lizard Brain. But do it!]]></title>
+      <content type="text"><![CDATA[<p>Today I was listening to <a href="http://5by5.tv/b2w">Back to Work</a> by Merlin Mann and Dan Benjamin while coding up the next Big Thing, at least that is what the Lizard Brain tells me. During the <a href="http://5by5.tv/b2w/1">episode</a> they were talking about excuses one might have for not shipping all those unfinished projects.</p>
+
+<p>Among those things standing in the way of letting us succeed with our ambition is the so called Lizard Brain (<a href="http://en.wikipedia.org/wiki/Amygdala">Amygdala</a>). According to <a href="http://sethgodin.typepad.com">Seth Godin</a> it only cares about four things: food, reproduction, safety and of course itself.</p>
+
+<iframe src="http://player.vimeo.com/video/5895898?title=0&amp;byline=0&amp;portrait=0&amp;color=e91c6b" width="655" height="491" frameborder="0"></iframe>
+
+<p>So in order to satisfy the Amygdala one has to minimize risk which is not really arrangeable with having a startup or generally learning new things because leaving our comfort zone is always a part of making progress.</p>
+
+<p>Like with every other unwanted behaviour applying the <a href="http://en.wikipedia.org/wiki/Classical_conditioning">principle of classical conditioning</a> to ourselves might do the trick. In order proove my theory of Lizard Brain-self-conditioning right or wrong I am planning to work with it during the next month, constantly placing myself in unknown or personal flight-situations. </p>
+
+<p>As far as I know it takes about three weeks to get used to something, so the last week should then be pure productivity and joy without procrastination and anxiety. I will let you know if it worked out until then wish me luck. (for the last part, that was clearly the Amygdala speaking ;-)</p>]]></content>
+      <post-name type="text"><![CDATA[Blame the Lizard Brain. But do it!]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="lizard brain" />
+        <tag ref="back to work" />
+        <tag ref="classical conditioning" />
+        <tag ref="amygdala" />
+        <tag ref="getting things done" />
+      </tags>
+      <comments />
+      <trackbacks />
+    </post>
+    <post id="a494b989-d832-40f5-b108-e93c7962ed21" date-created="2011-07-21T03:44:00" date-modified="2012-01-05T09:20:29" approved="true" post-url="/post/Commit-early-and-often.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Commit early and often]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2011%2f7%2fcommit_early_and_often.png" alt="" />
+<p>Last night I had the task to fix a clients custom built website which I wrote quite a while ago on top of an early version of <a href="http://github.com/philippkueng/hammyoncoffeine">hammyoncoffeine</a>.</p>
+
+<p>Nothing difficult you might think, in the end I should be familiar with it, additionally I was using Version Control which
+were even better preconditions. So I thought.</p>
+
+<p>Fact is, the date of the initial commit lies about half a year in the future from the date I actually needed.</p>
+
+<p>Luckily I was playing quite a bit with Backup Tools at that time so going through the zip-archives on Wuala should bring the piece of code to daylight.</p>
+
+<p>Sadly I only compressed ready-to-deploy pakets and yes they're are already compiled. So much for that.</p>
+
+<p>In the end I had to apply non-DRY ducktape patches to meet the deadline, nonetheless I learned a valuable lesson that night, <strong>commit early and often</strong> (even when working on seemingly unimportant files).</p>]]></content>
+      <post-name type="text"><![CDATA[Commit early and often]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="commit" />
+        <tag ref="version control" />
+        <tag ref="lesson learned" />
+        <tag ref="programming" />
+      </tags>
+    </post>
+    <post id="f7c2b3ec-9484-4989-9dd1-e948242f22df" date-created="2011-07-10T10:19:00" date-modified="2011-07-10T15:15:47" approved="true" post-url="/post/Deploy-BlogEngineNET-on-Ubuntu-1004-LTS.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Deploy BlogEngine.NET on Ubuntu 10.04 LTS]]></title>
+      <content type="text"><![CDATA[<p>Lately I&#8217;ve gotten several E-Mails a day from monitoring sites that look after my websites hosted on Genotec containing messages like &#8220;you&#8217;re site is down&#8221;.</p>
+
+<p>So migrating to another hosting provider was the obvious way to go, however since there&#8217;s no other Shared-Hosting company in Switzerland, that I know of, offering .NET hosting I decided to go the Open Source route and run <a href="http://blogengine.codeplex.com/">BlogEngine</a> on Ubuntu.</p>
+
+<p>While I wasn&#8217;t able so far to get the most recent release, version 2.5, to run on Ubuntu I simplified the installation process for doing so with release <a href="http://blogengine.codeplex.com/releases/view/39387">1.6.1</a> by writing a script so that everyone should be able to install it themselves.</p>
+
+<p>Now to the installation process. Take a clean install of <a href="http://www.ubuntu.com/download/server/download">Ubuntu 10.04 LTS</a> either running in the cloud or virtualized on your local machine.</p>
+
+<p>Then go through the steps below to execute the BlogEngine.NET installation script.</p>
+
+<pre><code class="prettyprint"># Login to your VM.
+$ ssh your_username@your_ip
+
+# Gain root privileges.
+$ sudo su
+
+# Go to the root home directory.
+$ cd
+
+# Download the BlogEngine.NET install script
+$ wget http://bit.ly/blogengine_install
+
+# Set Execute-Permissions on the install file.
+$ chmod +x blogengine_install
+
+# Start the setup by executing the installation script.
+$ ./blogengine_install</code></pre>
+
+<p>You should now have an Ubuntu sever running BlogEngine. To validate that it&#8217;s actually working start your browser and enter the VMs IP.</p>
+
+<pre><code class="prettyprint"># Command to get the VMs IP when logged in to the server.
+$ ifconfig eth0</code></pre>
+
+<p>Congratulations on not relying on proprietary software anymore.</p>]]></content>
+      <post-name type="text"><![CDATA[Deploy BlogEngine.NET on Ubuntu 10.04 LTS]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="blogengine" />
+        <tag ref="ubuntu" />
+        <tag ref="mono" />
+        <tag ref="apache" />
+        <tag ref="deploy" />
+        <tag ref="install" />
+      </tags>
+    </post>
+    <post id="fe4f72d6-eec3-498a-9c81-35f30d89d57c" date-created="2011-07-06T17:30:00" date-modified="2011-07-06T17:48:23" approved="true" post-url="/post/A-Mashup-is-not-a-Blog.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[A Mashup is not a Blog]]></title>
+      <content type="text"><![CDATA[<p><img src="/image.axd?picture=2011%2f7%2fDSC_5540.jpg" alt="A quality connection" /></p>
+<p>Most people use a blog to build up a personal brand for whatever reason. Having profiles on various networks (social or not) might help multiplying the impact, however doing so doesn&#8217;t make you any more credible and in the worst case just pollutes the internet, maybe even weakens the goal you&#8217;re aiming for.</p>
+
+<p>Every network is good enough on its own, so while mixing them might make sense in terms of amplification, connecting them should be used carefully and in no way continuously. Really, please don&#8217;t do this.</p>
+
+<p>In order to comply with my statement above, and because I got sick of the old design, I slimmed down my blog drastically and removed all unnecessary UI clutter and got rid of the embedded bits.</p>
+
+<p>Because I think, <strong>Quality is not measured in Quantity</strong>.</p>
+
+<p>I&#8217;m not implying in any way that my writing is quality work, it&#8217;s just a bit cleaner presented that&#8217;s all.</p>]]></content>
+      <post-name type="text"><![CDATA[A Mashup is not a Blog]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="statement" />
+        <tag ref="mashup" />
+        <tag ref="blog" />
+        <tag ref="new design" />
+      </tags>
+    </post>
+    <post id="5fac2a59-0a7e-43ee-821a-45e904abe773" date-created="2011-07-05T21:36:00" date-modified="2011-07-05T22:08:28" approved="true" post-url="/post/Migrate-the-BlogEngineNET-commenting-system-over-to-Disqus.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Migrate the BlogEngine.NET commenting system over to Disqus]]></title>
+      <content type="text"><![CDATA[<p><img src="/image.axd?picture=2011%2f7%2fDSC_6717.jpg" alt="comments" /></p>
+<p>Offloading comments to a third party, namely <a href="http://disqus.com/">disqus</a>, is the initial step I&#8217;ll take for migrating my current blog to a static alternative called <a href="http://github.com/mojombo/jekyll/">Jekyll</a>. But more on my decision in a later post. Let&#8217;s focus on the steps necessary to get those comments up to disqus.</p>
+
+<p><strong>Warning:</strong> Because after the migration the comments are getting injected into the page via Javascript, Google and the rest of the Search-Engine-Mafia won&#8217;t be able index them which basically means users won&#8217;t be able to search for comments in your post when using a search engine.</p>
+
+<p><strong>Disclaimer:</strong> Actually all the tools and most steps used in this post are from <a href="http://blog.prabir.me/post/Migrating-Existing-BlogEngineNet-Comments-to-Disqus.aspx">Migrating Existing BlogEngine.Net Comments to Disqus</a>, however I ran into some issues while following the guide.</p>
+
+<p>Now to the migration part, first of all we&#8217;ll need to extract the existing comments from your blog. For doing so we&#8217;ll use the <a href="http://blog.prabir.me/file.axd?file=2010%2f5%2fDisqusUploaderWithBlogEngineExtensions.zip">CommentExporter BlogEngine Extension</a> by @prabirshrestha. Download and extract the extension, and upload the files inside the <strong>www</strong> directory into the according BlogEngine folders on your webserver. Then log into your blog and head over to the extensions tab of the administration dashboard. Make sure that the extension is <strong>enabled</strong> and then click the  <strong>edit</strong> link next to. In this new window select the option <strong>Intense Debate</strong> from the dropdown menu and continue by pressing Export Comments.</p>
+
+<p>Once you have the file on your desktop open it with you favorite text-editor and check that there is no HTML encoded user name inside the <strong><name></strong> tags. If they&#8217;re encoded I strongly suggest rewrite them into their UTF-8 equivalent, otherwise they&#8217;re getting messed up by disqus.</p>
+
+<p>Now go ahead and create a disqus account for your blog if you haven&#8217;t already.</p>
+
+<p>Let&#8217;s import. Log into your disqus account and select the blog you want the comments to appear on. Then head over to the <strong>Tools</strong> tab and select <strong>Import / Export</strong> on the left hand side. Select IntenseDebate as the format then choose the file and hit <strong>Import</strong>. Depending on the number of comments you have it might take disqus a while to import all of them.</p>
+
+<p>Next up we need to make a minor modification to the BlogEngine source. Open up your FTP browser, select the file post.aspx in the root of your BlogEngine installation and open it. In there remove the following line <strong>var disqus_url = &#8216;&#8230;&#8217;;</strong> and add the line <strong>var disqus_shortname = &#8216;fill in your disqus domain username&#8217;;</strong>.
+The reason for this change is the following: Because we&#8217;ve extracted and uploaded the comments with the pretty url the built in disqus commenting will look for comments matching the ugly but unique guid url, which leads to none of the comments are ever showing up. Of course modifying the export extension, using regex in the text-editor or uploading a URL map to disqus will lead to similar results.</p>
+
+<p>Finally you&#8217;re able to change the moderating system inside the comments tab of the BlogEngine administration dashboard to <strong>Moderated by Disqus</strong>. Now don&#8217;t forget the fill in the <strong>Disqus Website Short Name</strong> and then upgrade your blog by saving the changes.</p>
+
+<p>One last thing to note, if you&#8217;re enabling comments for pages and you want the pretty urls for them too you&#8217;ll need to apply the same modifications for page.aspx as we did with post.aspx.</p>]]></content>
+      <post-name type="text"><![CDATA[Migrate the BlogEngine.NET commenting system over to Disqus]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="disqus" />
+        <tag ref="blogengine" />
+      </tags>
+    </post>
+    <post id="20006761-9119-486b-9e97-7ac1708bec81" date-created="2011-04-17T23:38:00" date-modified="2011-04-18T01:56:58" approved="true" post-url="/post/4sqday-2011-in-Zurich.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[4sqday 2011 in Zürich]]></title>
+      <content type="text"><![CDATA[<p><a title="DSC_6409.jpg by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/5627926784/"><img src="http://farm6.static.flickr.com/5061/5627926784_82eed0c6bd_b.jpg" alt="DSC_6409.jpg" /></a></p>
+<p>Wie bereits letztes Jahr ruf foursquare wiederum gestern alle Checker und Checkerinnen auf, sich f&uuml;r einmal wirklich dort aufzuhalten wo eingecheckt wird.<br />(Ja, ich meine die <a href="http://digitalaffairs.at/2010/09/08/veranstaltungstipp-der-woche-k2-besteigung-samt-swarm-badge/">Super Swarm Badgej&auml;ger vom K2</a>)</p>
+<p><strong>foursquare? Feiertag? #wtf</strong> - dann schau dir mal <a href="http://de.wikipedia.org/wiki/Foursquare">diese Seite</a> an, danach <a href="http://4sqday.com">diese</a>&nbsp;und schliesslich <a href="http://www.foursquareblog.ch/new-yorks-burgermeister-bloomberg-erklart-den-16-april-offiziell-zum-foursquare-day/">diese</a>.</p>
+<p><strong>Tweete - und sie kommen #HowCoolIsThat</strong> -&nbsp;Nicht nur aus Z&uuml;rich (@bindermichi, @pigoni, @mettlerd, @zurcherart, @auge2u) reisten sie an, sondern @cydoniashop aus Graub&uuml;nden und @timbo_SF, @hoomygumb mit Diana aus unserem n&ouml;rdlichen Nachbarland, Deutschland.<br />Das Wetter war eher Nerd-Untauglich, wie mir mein roter Nacken zu verstehen gab, was uns allerdings einen sch&ouml;nen Nachmittag auf der Terrasse der <a href="https://foursquare.com/venue/18994574">Caf&eacute; Des Amis</a> erm&ouml;glichte.</p>
+<p>Neben den obligaten Gespr&auml;chen &uuml;ber Badges, Follower etc. ging's gestern auch um Edellakritze aus D&auml;nemark, Medizinische Maschinen, K&uuml;nstlernamen, Rechtslagen rund um die IT und nicht zuletzt um den Kampf zwischen Python und Ruby. (aka. Whitespace vs. Code)</p>
+<p>Alles in allem ein wundervoller Tag, den ich n&auml;chstes Jahr, oder allenfalls auch fr&uuml;her schon, gerne wiederholen m&ouml;chte. Vielleicht klappt's dann auch mit der <a href="http://twitpic.com/4li0ia">Reservationskarte</a>.</p>
+<p>Danke f&uuml;r's kommen.</p>
+<p><a title="DSC_6412.jpg by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/5627346681/"><img src="http://farm6.static.flickr.com/5268/5627346681_e01334dcf3_b.jpg" alt="DSC_6412.jpg" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[4sqday 2011 in Zürich]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="4sqday" />
+        <tag ref="zürich" />
+        <tag ref="café" />
+        <tag ref="des amis" />
+        <tag ref="meetup" />
+        <tag ref="tweetup" />
+      </tags>
+    </post>
+    <post id="e3c87234-4e80-4ae0-bbe1-45ebb8b6d7b6" date-created="2011-03-01T03:17:00" date-modified="2011-03-01T04:20:05" approved="true" post-url="/post/Facebook-e2809clikee2809d-button-gets-additional-functionality-and-messes-up-the-timeline.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Facebook “like” button gets additional functionality and messes up the timeline]]></title>
+      <content type="text"><![CDATA[<p><a href="http://picplz.com/user/philippkueng/pic/s7nz/"><img src="/image.axd?picture=2011%2f2%2fbc9b685a90f5553b56df7c84fd02df7e082154db_wmlg.jpg" alt="" /></a></p>
+<p><strong>Last week Facebook decided to get rid of their share button and instead add the functionality on top of their like button.</strong> (<a href="http://mashable.com/2011/02/27/facebook-like-button-takes-over-share-button-functionality/">read more about it on Mashable</a>)</p>
+<p style="display: inline !important;">I think it's fair to say that that their photo upload is what drove Facebook&rsquo;s popularity in the first place. They realized early on that they have to trigger certain emotions in order to keep visitors on their site. For this an image is simply much better than a plain line for catching the visitor&rsquo;s eye and encouraging that visitor to stay on the page.</p>
+<p>Now, that Facebook changed the &ldquo;like&rdquo; button functionality, whenever a reader likes a blog post, Facebook starts a spider instance to fetch the content for a specific page and extract the title, the lead text and an image if available.&nbsp;</p>
+<p>The way Facebook grabs the image is not really clear and may change in future iterations. For now it&rsquo;s best to choose one of your images to appear in the Facebook timeline by defining the image in the &lt;head&gt; area of the html. Just add <strong>&lt;meta property="og:image" content="the full url to the image" /&gt;</strong> and whenever your post&rsquo;s page gets parsed, the Facebook bot will include that image in the timeline.&nbsp;</p>
+<p>For more information head on over to the <a href="http://developers.facebook.com/docs/reference/plugins/like/">Facebook Like Button documentation</a>.</p>
+<p>Thanks @zurcherart for proof-reading.</p>]]></content>
+      <post-name type="text"><![CDATA[Facebook “like” button gets additional functionality and messes up the timeline]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="facebook" />
+        <tag ref="like" />
+        <tag ref="button" />
+        <tag ref="share" />
+        <tag ref="timeline" />
+      </tags>
+    </post>
+    <post id="24a5f368-0709-4141-a01e-7f67e2e0cc4e" date-created="2011-01-20T21:06:00" date-modified="2011-01-20T21:06:17" approved="true" post-url="/post/Hacking-for-fun-and-profit.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Hacking for fun and profit]]></title>
+      <content type="text"><![CDATA[<p style="text-align:center;"><a href="http://twitter.com/#!/yabadabidu/status/24911191532896256"><img src="/image.axd?picture=2011%2f1%2fScreen+shot+2011-01-14+at+14.32.56.png" /></a></p>
+<p style="text-align:center;"><a href="http://yfrog.com/h8qp9nj"><img src="/image.axd?picture=2011%2f1%2fqp9n.jpg" alt="" /></a></p>
+<p>At the last&nbsp;<a href="http://techup.ch/98/webtuesday-zurich-lightning-talks">#webtuesday</a>, <a href="http://twitter.com/zurcherart">Steve</a> and I had the opportunity to talk about the 2 day Hackathon we held during the christmas break. (slides below)</p>
+<p>If you want to make a hackday yourself be warned that:</p>
+<ul>
+<li>Setting up your environment (developer and production server) will take you much longer that you expect at the beginning. (took as about half a day)</li>
+<li>Keep in mind that working with new technology (especially if you're doing a hackday to learn something new) might be very cumbersome at the beginning.&nbsp;</li>
+<li>Apart from the lack of knowledge you might have, there can be some delays trying to implement third party libraries (which might contain bugs themselves)</li>
+<li>To keep the team (or just yourself) focused we found it very useful to have a fixed deadline. Sometimes accountability might already be sufficient.</li>
+<li>Before you make your newly developed service public make sure you already have a hosting solution that allows you to scale if demand suddenly increases, furthermore be knowledgeable about where your data gets stored and who can access it. (remove all those "password" passwords at least)</li>
+</ul>
+<div id="__ss_6561530" style="width: 655px;">
+<object id="__sse6561530" width="655" height="547">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=webtuesdaypresentation-110114071424-phpapp01&amp;stripped_title=hacking-for-fun-and-profit&amp;userName=Agentcmos" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" /><embed type="application/x-shockwave-flash" width="655" height="547" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=webtuesdaypresentation-110114071424-phpapp01&amp;stripped_title=hacking-for-fun-and-profit&amp;userName=Agentcmos" name="__sse6561530" allowscriptaccess="always" allowfullscreen="true"></embed>
+</object>
+</div>
+<p>At the end of the talk I demoed a short <a href="https://github.com/philippkueng/nodejs-mongodb-twitter-backup">script to save tweets to a mongoDB database (you'll find the according source on github)</a>.</p>]]></content>
+      <post-name type="text"><![CDATA[Hacking for fun and profit]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="hackathon" />
+        <tag ref="webtuesday" />
+        <tag ref="nodejs" />
+        <tag ref="mongodb" />
+        <tag ref="steve holyer" />
+        <tag ref="hackday" />
+        <tag ref="presentation" />
+      </tags>
+    </post>
+    <post id="f06a0e78-00a2-479a-a5fa-47768b04e7e8" date-created="2010-09-07T21:18:00" date-modified="2012-01-05T08:19:14" approved="true" post-url="/post/How-to-reenable-the-explorer-jump-list-on-Windows-7.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[How to reenable the explorer jump list on Windows 7]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=9-7-2010%202-24-21%20PM.png" /><p>From one day to the other my pinned favorites in the explorer jump list were gone, and with it my workflow. </p><p>In order to fix the mess, open up explorer, insert the path below and press enter.</p> <span class="code">%APPDATA%\Microsoft\Windows\Recent\AutomaticDestinations</span><p><img src="/image.axd?picture=9-7-2010%203-07-11%20PM.png" /></p>  <p>As a next step delete all the files inside this folder. Restart your computer. The jump list will now empty but it should work again.</p>]]></content>
+      <post-name type="text"><![CDATA[How to reenable the explorer jump list on Windows 7]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="windows7" />
+        <tag ref="jump" />
+        <tag ref="list" />
+        <tag ref="explorer" />
+        <tag ref="pinned" />
+      </tags>
+    </post>
+    <post id="5652e6b0-5b7a-4ad0-ba68-29181733c600" date-created="2010-08-12T03:16:48" date-modified="2010-08-12T03:16:48" approved="true" post-url="/post/Google-Killer-des-eigenen-Fortschritts.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Google - Killer des eigenen Fortschritts]]></title>
+      <content type="text"><![CDATA[<a title="Jet Engine by wwarby, on Flickr" href="http://www.flickr.com/photos/wwarby/4782920540/" ;=";"><img alt="Jet Engine" src="http://farm5.static.flickr.com/4135/4782920540_1fc6a1a0dd_b.jpg" ;=";" /></a>   <p>Das Titelbild ist von <a href="http://www.flickr.com/photos/wwarby">wwarby</a> und steht unter <a href="http://creativecommons.org/licenses/by/2.0/">CC-BY 2.0</a>.</p>  <p><strong>Google’s Irrfahrt</strong>    <br />Es werden zu diesem Zeitpunkt wohl alle Wissen, dass Google das Wave Projekt offiziell für beendet erklärt hat. An dieser Stelle lässt sich streiten ob wirklich die vermeintlich wenigen Nutzer, oder ein Entscheider in der Chefetage dem innovativen Produkt den Todesstoß verpasste.     <br />Ähnlich verwirrt agiert Google mit ihrem Hosting Angebot, der AppEngine. Die Sprachen Python und Java sind vielen Programmierern ein Begriff, zudem ist die angebotene Datenbank auf BigTable aufgebaut und somit schnell und gut skalierbar. Zu guter letzt wird das Paket AppEngine mit vielen APIs ausgestattet die dem Entwickler wiederum mögliche Sorgen abnehmen können. Klingt nach einem Programmierer Traum, oder?</p>  <p><strong>Gratis was will man mehr?</strong>    <br />Um Unternehmen dazu zu bewegen ihre Software auf die Google Cloud Plattform zu migrieren, wird zusätzlich eine gratis Quota angeboten. Bei Projekten mit geringer Nutzung und Anforderungen können daher durchaus Seiten mit finanziellem Nutzen entstehen ohne, dass dafür selbst monetäre Ressourcen benötigt werden.</p>  <p><strong>Der Teufel steckt im Detail</strong>    <br />Die Limitierungen der Plattform treten teilweise erst während der Entwicklung ans Tageslicht. Beispielsweise ist die Datenbank durchaus performant, erlaubt allerdings nicht mehr als 1000 Einträge pro Entity (quasi Tabelle bei einer sonst üblichen relationalen Datenbank) zu speichern und stellt sich somit für viele Projekte als untauglich heraus. Ein weiterer Punkt ist die 30 Sekunden Regel, die eine Seite vom Server bekommt, bis der den jeweiligen Prozess stoppt. Für etwas aufwendigere Datenverarbeitung oder laden einer externen Ressource lässt sich AppEngine somit auch nicht wirklich einsetzen.</p>  <p><strong>Was jetzt?</strong>    <br />An dieser Stelle frage ich mich, sollen wir uns neben der Lösung des eigentlichen Problems (des Programmierens) zusätzlich den Kopf zerbrechen wie die jeweilige Logik an die komplett verschiedene Umgebung angepasst werden kann, und uns womöglich sogar einem massiven Vendor-Lock-In unterwerfen oder von Beginn an auf eigens konfigurierte virtuelle Server setzen? </p>  <p>Habt ihr auch schon Erfahrungen mit AppEngine oder ähnlichen Anbietern gemacht? Auf welches Pferd habt ihr schlussendlich gesetzt?</p>]]></content>
+      <post-name type="text"><![CDATA[Google - Killer des eigenen Fortschritts]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="google" />
+        <tag ref="appengine" />
+        <tag ref="server model" />
+        <tag ref="cloud" />
+      </tags>
+      <comments>
+        <comment id="373e6de6-b28b-4771-ad9c-eb922f7f7265" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-10-12T16:54:51" date-modified="2010-10-12T16:54:51" approved="true" user-name="Phil" user-email="pstark@ethz.ch" user-ip="85.1.219.59" user-url="http://codechaos.ch/">
+          <title type="text"><![CDATA[re: Google - Killer des eigenen Fortschritts]]></title>
+          <content type="text"><![CDATA[wie meinst du &quot;killer des eigenen fortschritts&quot;. Google wave war unbrauchbar und seiner zeit weit voraus. wieso sollten sie es nicht offline nehmen? 
+und wegen appengine... t&#246;nt f&#252;r mich als ob es ideal w&#228;re f&#252;r kleine, zusammengehackte rapid prototyping sachen. (wof&#252;r es vermutlich auch geplant wurde...)
+
+cheers
+PhiL]]></content>
+        </comment>
+        <comment id="77facbc1-e19e-4b9d-b5bf-715abe7e6290" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-10-12T20:42:59" date-modified="2010-10-12T20:42:59" approved="true" user-name="Philipp K&amp;#252;ng" user-email="i@philippkueng.ch" user-ip="82.130.76.88" user-url="http://philippkueng.ch/">
+          <title type="text"><![CDATA[re: Google - Killer des eigenen Fortschritts]]></title>
+          <content type="text"><![CDATA[Google ist fortschrittlich in der Datenbanktechnik und k&#246;nnte Gesch&#228;ftskunden problemlos Datenbanken anbieten die &#252;ber mehrere Rechner spannen. In der Realit&#228;t k&#252;rzt Google die Datenbank leider recht zusammen, sodass Problemlos kleine Projekte mit wenig, aber schnell verf&#252;gbaren Daten erstellt werden k&#246;nnen. F&#252;r gr&#246;ssere Projekte auf der anderen Seite w&#252;rde sich der Einsatz der Technik ebenfalls lohnen, das bezahlen ist dabei kein Problem, leider sind da aber die Limiten an den wichtigen Ecken und Enden. D.h. ich m&#246;chte mit dem Titel darauf hinweisen, dass Google das Potential h&#228;tte ebenfalls ein grosser Hoster zu werden und Geld neben dem Werbungsgesch&#228;ft zu machen, stattdessen scheint es als ob AppEngine ein eher vernachl&#228;ssigtes Nebenprojekt sei.]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="c79261f1-3293-45a9-860b-21c2d7024036" date-created="2010-07-30T15:37:00" date-modified="2012-01-05T00:26:18" approved="true" post-url="/post/Good-bye-failwhale.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[good bye failwhale]]></title>
+      <content type="text"><![CDATA[<object width="654" height="491"> <param name="flashvars" value="offsite=true&lang;=en-us&amp;page_show_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157624489307725%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157624489307725%2F&amp;set_id=72157624489307725&amp;jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157624489307725%2Fshow%2F&page_show_back_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157624489307725%2F&set_id=72157624489307725&jump_to=" width="654" height="491"></embed></object>  <p>Der failwhale, das Twitter Maskottchen welches jeweils bei Problemen mit dem Dienst auftaucht, entstand für das <a href="http://twittboat.wordpress.com/">#twittboat</a> innerhalb von 4 Tagen mit viel Zeitung, Kleister und der Hilfe meiner Mutter (habe 2 linke Hände ;)</p>  <p>Skeptisch ob der Hut nicht doch etwas zu geeky ist, erschien ich mit dem Wal im eigens angefertigten <a href="http://www.flickr.com/photos/agentcmos/4843192966/in/set-72157624489307725/">Twitterbag</a> auf der Rudolf-Brun Brücke. Glücklicherweise freuten sich die Twittboater aber über das Maskottchen, was auf etlichen <a href="http://www.flickr.com/groups/twittboat/pool/">Bildern des #twittboat</a> zu sehen ist.</p> <img title="failwhale-ebay-auktion" alt="failwhale-ebay-auktion" src="/image.axd?picture=failwhale-ebay-auktion.png" />   <p>Um den failwhale Hype positiv zu nutzen wurde dieser, wie im Beitrag <a href="http://philippkueng.ch/post/twittboat-2010.aspx">#twittboat 2010</a> erwähnt, auf Ebay versteigert um damit Gutes zu tun. Dank zahlreichen Helferinnen und Helfern kletterte der Preis innerhalb einiger Tage auf 51 Franken die nun der Gruppe <a href="http://www.kiva.org/team/swisstweets">swisstweets</a> auf <a href="http://www.kiva.org/">Kiva</a> zugute kommen.</p>  <p>An dieser Stelle ein grosses Dankeschön an die Gewinnerin der Wal-Auktion @rhinnen (<a href="http://monah.ch/">Blog</a>). Ebenfalls danke den zahlreichen Mitbieterinnen und Mitbietern, sowie den Helfern die, die failwhale Tweets aktiv Retweetet haben.</p>  <p>Unten: Das neue Zuhause des #failwhale bei @brack_ch – Bild von @rhinnen zur Verfügung gestellt.</p> <a title="das neue zuhause des #failwhale bei @brack_ch - danke an den creator @philippkueng by monah.ch, on Flickr" href="http://www.flickr.com/photos/48550088@N05/4819949289/"><img alt="das neue zuhause des #failwhale bei @brack_ch - danke an den creator @philippkueng" src="http://farm5.static.flickr.com/4079/4819949289_07081ee66c_z.jpg" /></a>]]></content>
+      <post-name type="text"><![CDATA[good bye failwhale]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="failwhale" />
+        <tag ref="twittboat" />
+        <tag ref="ebay" />
+        <tag ref="auktion" />
+        <tag ref="rhinnen" />
+      </tags>
+      <comments>
+        <comment id="774aeb60-24c2-41ff-9b57-c07e10f90bfd" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-08-03T01:59:16" date-modified="2010-08-03T01:59:16" approved="true" user-name="@10Ender" user-email="charlyzehnder@gmail.com" user-ip="217.194.51.143" user-url="http://10ender.tumblr.com/">
+          <title type="text"><![CDATA[re: good bye failwhale]]></title>
+          <content type="text"><![CDATA[Philipp dein #failwhale ist schlicht und einfach Kult]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="1dafeefc-0404-4ebd-8120-26cfd039a620" date-created="2010-07-21T19:51:00" date-modified="2010-07-21T19:52:07" approved="true" post-url="/post/Binare-Firmen-sind-erfolgreicher.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Binäre Firmen sind erfolgreicher]]></title>
+      <content type="text"><![CDATA[<p>Es ist durch Studien erwiesen dass Menschen mit weniger Auswahl durchweg zufriedener sind. Anstatt sich zwischen 100 Zahnpasta Sorten zu entscheiden greift der Grossteil der Konsumenten zu dem im TV beworbenen Markenprodukt oder der Sorte die schon seit Ewigkeiten verwendet wird. Der Grund für diese Käufer Reaktion unterliegt dem Gedanken, dass sich Menschen nicht gerne Entscheiden und falls sie dies doch tun müssen, sie am glücklichsten sind bei möglichst wenigen Optionen.</p>  <p><strong>“keep it simple”</strong>     <br />Ich denke in diesem Gebiet hat Apple wissentlich oder per Zufall den richtigen Weg gefunden. So muss beispielsweise bei einer Neuanschaffung eines Macbook lediglich zwischen 3 Grössen entschieden werden. Nach dem Klick auf Kaufen und dem Start des Bestellvorgangs werden erst die verschiedensten weiteren Konfigurationsoptionen angezeigt wobei wiederum nur zwischen einigen wenigen entschieden werden kann. So ist es Apple möglich eine gewaltige Palette von Optionen abzudecken ohne dass sich der geneigte Käufer bereits im Vorfeld zwischen 20 unterschiedlichen Varianten zu entscheiden hat.</p>  <p><strong>Die Schattenseite der Entscheidungsfreiheit</strong>     <br />Ich tue mich schwer, es zu sagen, aber das negativ Beispiel par excellence ist in diesem Fall die Firma Microsoft mit den unendlich differenzierten Windows und Office Versionen bei denen sich der Kunde bereits beim Kauf im klaren sein muss was im Laufe der Nutzung alles gebraucht wird. Einfach nur #epic #fail.</p>  <p><strong>Alles in allem, Entscheidungen werden nie leichter, der Fragende kann aber alles daran setzten damit sie uns leichter erscheinen.</strong></p>  <p>Das folgende <a href="http://www.ted.com/">TED</a> Video zeigt eine Präsentation von Barry Schwartz der genau diesen Entscheidungsüberfluss thematisiert.</p> <object width="654" height="515"><param name="movie" value="http://www.youtube.com/v/VO6XEQIsCoM&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VO6XEQIsCoM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="654" height="516"></embed></object>]]></content>
+      <post-name type="text"><![CDATA[Binäre Firmen sind erfolgreicher]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="optionen" />
+        <tag ref="entscheidungen" />
+        <tag ref="erfolg" />
+        <tag ref="ted" />
+        <tag ref="barry schwartz" />
+      </tags>
+      <comments>
+        <comment id="deb9d1c4-cf3f-4fa8-b271-b5e3f02b1693" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-07-22T00:29:55" date-modified="2010-07-22T00:29:55" approved="true" user-name="initcap" user-email="mail@initcap.ch" user-ip="92.104.10.205" user-url="http://www.initcap.ch/">
+          <title type="text"><![CDATA[re: Binäre Firmen sind erfolgreicher]]></title>
+          <content type="text"><![CDATA[Apple macht das wirklich sehr gut. Ich finde, beim iPhone sieht man das am besten: Eine Serie pro Jahr mti wenigen Optionen, und das Gesch&#228;ft l&#228;uft so gut wie nirgendwo sonst - Qualit&#228;t statt Quantit&#228;t. Ein Gegenbeispiel ist von mir aus gesehen nicht nur Microsoft, sondern auch HTC. Die bringen fast jeden Monat wieder ein neues Modell auf den Markt, was viele Konsumenten garantiert verunsichert - die Auswahl ist da einfach fast zu gross. Doch auch HTC bringt nat&#252;rlich trotzdem Qualit&#228;t. &quot;Quantit&#228;t statt Qualit&#228;t&quot; trifft da sicher nicht zu.]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="67bdf19f-ba08-401b-a775-9c583f51031d" date-created="2010-07-19T00:07:00" date-modified="2010-07-19T00:11:15" approved="true" post-url="/post/qdds-aka-Quer-durch-die-Schweiz-mit-bireweich.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[#qdds - aka. Quer durch die Schweiz mit @bireweich]]></title>
+      <content type="text"><![CDATA[<p>Als am <a href="http://twtvite.com/twuplu3">#twuplu</a> auskam, dass das GA von @bireweich auslaufen würde, zögerten wir nicht lange und machten uns am 13. Juli auf den Weg quer durch die Schweiz (#qdds). Das Ziel war nicht möglichst weit zu fahren, sondern möglichst viele Twitterer und Blogger spontan auf dem Weg zu treffen.</p>
+
+<p>So trafen wir uns um 7.45 in Thalwil und setzten den ersten Tweet in die Welt: </p>
+<!-- http://twitter.com/bireweich/status/18415363542 --> <style type='text/css'>.bbpBox18415363542 {background:url(http://a1.twimg.com/profile_background_images/57099250/Kopie_von_birne-t9553.jpg) #000000;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style> <div class='bbpBox18415363542'><p class='bbpTweet'>Quer durch die Schweiz mit @<a class="tweet-url username" href="http://twitter.com/phillipkueng" rel="nofollow">phillipkueng</a>! Wer tauscht mit uns in der Region Zürich Gipfeli gegen Kaffee? <a href="http://twitter.com/search?q=%23qdds" title="#qdds" class="tweet-url hashtag" rel="nofollow">#qdds</a><span class='timestamp'><a title='Tue Jul 13 05:52:35 +0000 2010' href='http://twitter.com/bireweich/status/18415363542'>less than a minute ago</a> via <a href="http://twitter.com/" rel="nofollow">Twitter for iPhone</a></span><span class='metadata'><span class='author'><a href='http://twitter.com/bireweich'><img src='http://a3.twimg.com/profile_images/1074233751/image_normal.jpg' /></a><strong><a href='http://twitter.com/bireweich'>Danny</a></strong><br/>bireweich</span></span></p></div> <!-- end of tweet -->
+
+<p><a title="Apple Store an der Bahnhofstrasse in Zürich by Philipp Küng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4805141408/"><img alt="Apple Store an der Bahnhofstrasse in Zürich" src="http://farm5.static.flickr.com/4135/4805141408_1b03340c61_b.jpg" /></a></p>
+
+<p>Da uns gerade niemand Antwortete begaben wir uns nach Zürich in den Apple Store, was btw. mein erster Besuch in der Höhle des Löwen war. Nachdem wir alle möglichen Gerätschaften ausprobierten bewegten wir uns Richtung Hauptbahnhof weiter, lustigerweise dauerte es nicht lange bis sich das #qdds Team im Dataquest befand mit einem iPad in der Hand am twittern. </p>
+<!-- http://twitter.com/philippkueng/status/18421088823 --> <style type='text/css'>.bbpBox18421088823 {background:url(http://s.twimg.com/a/1279047709/images/themes/theme1/bg.png) #9ae4e8;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style> <div class='bbpBox18421088823'><p class='bbpTweet'>...was der @<a class="tweet-url username" href="http://twitter.com/bireweich" rel="nofollow">bireweich</a> kann, kann ich schon lange... Tweet vom <a href="http://twitter.com/search?q=%23ipad" title="#ipad" class="tweet-url hashtag" rel="nofollow">#ipad</a> im <a href="http://twitter.com/search?q=%23dataquest" title="#dataquest" class="tweet-url hashtag" rel="nofollow">#dataquest</a> in Zürich <a href="http://twitter.com/search?q=%23qdds" title="#qdds" class="tweet-url hashtag" rel="nofollow">#qdds</a><span class='timestamp'><a title='Tue Jul 13 08:03:04 +0000 2010' href='http://twitter.com/philippkueng/status/18421088823'>less than a minute ago</a> via <a href="http://mobile.twitter.com" rel="nofollow">mobile web</a></span><span class='metadata'><span class='author'><a href='http://twitter.com/philippkueng'><img src='http://a3.twimg.com/profile_images/979630681/philippkueng_normal.jpg' /></a><strong><a href='http://twitter.com/philippkueng'>Philipp Küng</a></strong><br/>philippkueng</span></span></p></div> <!-- end of tweet -->
+
+<p><a title="@AbtMartin und @bireweich im Gespräch by Philipp Küng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4804515545/"><img alt="@AbtMartin und @bireweich im Gespräch" src="http://farm5.static.flickr.com/4122/4804515545_5536c9115c_b.jpg" /></a></p>
+
+<p>Um 11.12 fand dann der langersehnte erste Kontakt mit einem anderen Twitterer statt und nicht einfach irgendjemandem sondern es war @AbtMartin vom Kloster Einsiedeln höchstpersönlich. Während der Zugfahrt wurde über Twitter und die damit verbundenen Möglichkeiten diskutiert. Wie beispielsweise Monitoring betrieben werden kann und was für Werkzeuge es dafür gibt. Punkt 12 Uhr lieferten wir in vor dem Kloster ab und begaben uns völlig planlos zum nächsten Zug.</p>
+
+<p><a title="DSC_1877 by Philipp Küng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4805156366/"><img alt="DSC_1877" src="http://farm5.static.flickr.com/4135/4805156366_6ab3a1b9b4_b.jpg" /></a></p>
+
+<p>Ab Einsiedeln fuhren wir über Wädenswil - Pfäffikon nach Rapperswil mit der Hoffnung auf ein Nest von möglichen Twitterern zu treffen. Da sich niemand meldete beschlossen @bireweich und ich über den Steg wiederum nach Pfäffikon zu gehen und danach Richtung Zürich zu Reisen. </p>
+<a title="DSC_1884 by Philipp Küng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4805158896/"><img alt="DSC_1884" src="http://farm5.static.flickr.com/4101/4805158896_0b666e42bb_b.jpg" /></a> 
+
+<p>Auf dem Weg von Pfäffikon nach Zürich verliessen uns zudem unsere digitalen Helfer, womit kein Kontakt mehr mit Twitterern hergestellt werden konnte. Aus der Not gingen wir an die ETH um uns und den Akkus etwas Stärkung zu gönnen. </p>
+<!-- http://twitter.com/philippkueng/status/18436024732 --> <style type='text/css'>.bbpBox18436024732 {background:url(http://s.twimg.com/a/1279047709/images/themes/theme1/bg.png) #9ae4e8;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style> <div class='bbpBox18436024732'><p class='bbpTweet'>@<a class="tweet-url username" href="http://twitter.com/bireweich" rel="nofollow">bireweich</a> und ich sitzen in der ETH Cafeteria am Akkus laden, daher Notfallbedingter Tweet mit dem Zune... <a href="http://twitter.com/search?q=%23qdds" title="#qdds" class="tweet-url hashtag" rel="nofollow">#qdds</a><span class='timestamp'><a title='Tue Jul 13 13:18:09 +0000 2010' href='http://twitter.com/philippkueng/status/18436024732'>less than a minute ago</a> via <a href="http://www.zune.net" rel="nofollow">Zune HD</a></span><span class='metadata'><span class='author'><a href='http://twitter.com/philippkueng'><img src='http://a3.twimg.com/profile_images/979630681/philippkueng_normal.jpg' /></a><strong><a href='http://twitter.com/philippkueng'>Philipp Küng</a></strong><br/>philippkueng</span></span></p></div> <!-- end of tweet -->
+
+<p>Aufgrund der fortgeschrittenen Zeit brach @bireweich um 17 Uhr bereits wieder nach Luzern auf, sodass ich den 2. und letzten Twitter Besuch am #qdds alleine durchführte. Weil ich mich als Digital Native generell sträube Fahrpläne zu lesen oder überhaupt eine Reise im Vorfeld zu planen, liess ich mich vom Bahnhof Altstetten per Google Maps an den Firmensitz der <a title="Kublé AG" href="http://kuble.ch">Kublé AG</a> lotsen. War wahrscheinlich sehr amüsant mir beim navigieren zuzuschauen ;-). Dort angekommen gabs kühle Getränke und tolle Gespräche mit @gustavosalami, @christophhess und dem restlichen Team über mögliche Chancen in der Schweizer Software Branche.</p>
+
+<p>Alles in allem war es ein schöner Tag. Nachträglich kann man sagen, dass wenn wir den Tag etwas länger im Vorraus geplant hätten, uns wahrscheinlich einige Twitterer mehr über den Weg gelaufen wären. </p>
+
+<p>Mehr Bilder sind auf <a title="Bilder des qdds auf flickr" href="http://www.flickr.com/photos/agentcmos/sets/72157624403300133/">flickr</a> zu finden</p>
+<strong>Zukunftsgedanken
+  <br /></strong>Während der Reise hatte ich die Idee von einer verteilten Twitterreise, d.h. jeder steigt in seinem Wohnort in den Zug, trifft einige andere und reist ca. 3 Stunden in dieser Gruppe weiter. Am Abend treffen sich dann alle Twitterteams an einem Ort der erst am Tag selbst per twtpoll abgemacht wird.&#160; Das dafür nötige GA könnte bei der Gemeinde für 30 Franken ausgeliehen werden, es entstehen also nicht unnötig hohe Kosten für nicht ÖVler. Was haltet ihr von dieser &quot;verteilten Twitterreise&quot;? 
+
+]]></content>
+      <post-name type="text"><![CDATA[#qdds - aka. Quer durch die Schweiz mit @bireweich]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="qdds" />
+        <tag ref="bireweich" />
+        <tag ref="abtmartin" />
+        <tag ref="kubleag" />
+      </tags>
+      <comments>
+        <comment id="7043f4c2-c2c8-4a3d-bbe3-501235c7f0ac" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-07-21T02:36:27" date-modified="2010-07-21T02:36:27" approved="true" user-name="Christoph Hess" user-email="christoph.hess@kuble.com" user-ip="85.3.2.118" user-url="http://kuble.com/">
+          <title type="text"><![CDATA[re: #qdds - aka. Quer durch die Schweiz mit @bireweich]]></title>
+          <content type="text"><![CDATA[Nochmals vielen Dank f&#252;r den Besuch letzte Woche!
+
+Vielleicht sollten wir f&#252;r diese &quot;verteilte Twitterreise&quot; versuchen die SBB ins Boot zu holen zwecks Sponsoring von Tages-GA? Es w&#252;rde an diesem Tag so viel getwittert, dass sich diese Aktion f&#252;r die SBB bestimmt aus Marketinggeldern finanzieren liesse.]]></content>
+        </comment>
+        <comment id="298437f5-df9f-4f35-b522-6945cd18a229" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-07-21T16:45:28" date-modified="2010-07-21T16:45:28" approved="true" user-name="Philipp K&amp;#252;ng" user-email="i@philippkueng.ch" user-ip="62.203.199.35" user-url="http://philippkueng.ch/">
+          <title type="text"><![CDATA[re: #qdds - aka. Quer durch die Schweiz mit @bireweich]]></title>
+          <content type="text"><![CDATA[Ebenfalls vielen Dank f&#252;r die Einladung. Euer Balkon ist einfach Klasse ;-)
+
+Btw. das mit dem GA Sponsoring ist eine geniale Idee. Es w&#228;re wirklich eine Werbeaktion sondergleichen. ]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="40d0a008-7f15-4b93-a0d2-c3b2166b5571" date-created="2010-07-09T22:27:00" date-modified="2012-01-05T00:26:54" approved="true" post-url="/post/twittboat-2010.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[#twittboat 2010]]></title>
+      <content type="text"><![CDATA[<a title="AN5E0555 by x-foto.ch, on Flickr" href="http://www.flickr.com/photos/x-foto/4760952132/"><img alt="AN5E0555" src="http://farm5.static.flickr.com/4097/4760952132_2f94a8a76b_b.jpg" /></a>   <p>Schön war es das <a href="http://twittboat.wordpress.com/">#twittboat</a>, da werden mir wohl alle zupflichten. Dies war neben den herausragenden Leistungen der Paddlerinnen und Paddlern auch den Sponsoren <a href="http://www.daydeal.ch/">daydeal.ch</a>, <a href="http://www.sib.ch/">sib.ch</a>, <a href="http://www.nine.ch/">nine.ch</a>, <a href="http://www.amboss-bier.ch/">amboss bier</a>, <a href="http://kochenmitshibby.ch/">kochen mit shibby</a>, <a href="http://www.sweet-temptations.ch/">Rahel’s sweet temptations</a>, <a href="http://www.carpathia.ch/">carpathia</a>, <a href="http://fruehjahr.ch/">frühjahr</a> und der grossartigen Organisation von @dhaitz_ch zu verdanken.</p> <a href="http://cgi.ebay.ch/ws/eBayISAPI.dll?ViewItem&amp;item=110557314074&amp;ssPageName=STRK:MESELX:IT#ht_500wt_1154"><img style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px" title="failwhale" border="0" alt="failwhale" src="/image.axd?picture=DSC_1350.jpg" width="654" height="434" /></a>   <p>Mit dem <a href="http://www.flickr.com/groups/twittboat/pool/">#twittboat</a> haben wir der Welt gezeigt, dass Twitterer nicht (nur) Nerds sind die sich Tag ein Tag aus im Keller aufhalten und die Sonne nur vom hörensagen kennen.     <br />Ich möchte sogar noch einmal einen Schritt weitergehen und der Welt beweisen, dass wir uns auch für soziale Projekte abseits des Internets einsetzen. Daher wird das Maskottchen (der failwhale)welches uns jeweils auf den Rennen begleitete auf <a href="http://cgi.ebay.ch/ws/eBayISAPI.dll?ViewItem&amp;item=110557314074&amp;ssPageName=STRK:MESELX:IT#ht_500wt_1154">Ebay</a> versteigert und der Gewinn der Gruppe <a href="http://www.kiva.org/team/swisstweets">swisstweets</a> auf Kiva überwiesen.&#160; <br />Die <a href="http://cgi.ebay.ch/ws/eBayISAPI.dll?ViewItem&amp;item=110557314074&amp;ssPageName=STRK:MESELX:IT#ht_500wt_1154">failwhale Auktion</a> dauert 10 Tage, also nichts wie los und mitsteigern.</p>]]></content>
+      <post-name type="text"><![CDATA[#twittboat 2010]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="twittboat" />
+        <tag ref="failwhale" />
+        <tag ref="auktion" />
+      </tags>
+    </post>
+    <post id="c52fdc0f-8fb7-4395-b1c1-915a9828dbea" date-created="2010-07-09T19:19:00" date-modified="2012-01-05T00:27:14" approved="true" post-url="/post/creativemorning-in-Zurich.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[@creativemorning in Zürich]]></title>
+      <content type="text"><![CDATA[<img title="creativemorning in Zürich" alt="creativemorning in Zürich" src="/image.axd?picture=creative_morning_gipfeli.jpg" />   <p>Nachdem ich schon einiges von <a href="http://www.swiss-miss.com/">Tina Roth Eisenberg</a> aka. <a href="http://twitter.com/swissmiss">swissmiss</a> und den <a href="http://creativemornings.com/">creativemornings</a> gehört habe, war es nun an der Zeit selbst an einem teilzunehmen zumal es gerade vor der Haustür stattfindet. </p> <a href="http://www.flickr.com/photos/agentcmos/4777077582/"><img alt="creativemorning" src="http://farm5.static.flickr.com/4073/4777077582_9c041e1e65_b.jpg" /></a>   <p>Der Gastgeber Rolf Hiltl, stellte den ca. 200 Teilnehmern seine Firma <a href="http://www.hiltl.ch">Hiltl</a> und <a href="http://tibits.ch">Tibits</a> vor und erklärte warum auf der Speisekarte auch nach ca. 120 Jahren noch immer nur Gemüse steht, obwohl sich Gäste teilweise über das fehlende Fleisch beklagten.</p> <a href="http://www.flickr.com/photos/agentcmos/4776457871/"><img alt="creativemorning" src="http://farm5.static.flickr.com/4117/4776457871_d5d009e799_b.jpg" /></a>   <p>Wie von Tina bemerkt wurde gibt sich Hiltl für eine schweizer Firma generell enorm innovativ. Ich denke sie hat da nicht ganz unrecht, so wird man nicht in jedem Restaurant eine Twitterwall vorfinden #ilike. Ob bald anstatt mit einer Karte aus Papier per iPad bestellt werden kann, liess Rolf Hiltl dagegen offen. </p>  <p>Weitere Bilder vom Event findet man <a href="http://www.flickr.com/photos/agentcmos/sets/72157624455974016/">hier</a> oder in der <a href="http://www.flickr.com/groups/creativemornings/">creativemorning Gruppe auf flickr</a>.</p>]]></content>
+      <post-name type="text"><![CDATA[@creativemorning in Zürich]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="creativemorning" />
+        <tag ref="zürich" />
+        <tag ref="swissmiss" />
+        <tag ref="hiltl" />
+      </tags>
+    </post>
+    <post id="583c8ffc-a6be-451e-8a14-2b3f2ec8bc6c" date-created="2010-06-30T22:53:00" date-modified="2012-01-05T00:27:42" approved="true" post-url="/post/Bringt-uns-Microsoft-das-Synchronisations-Nirvana.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Bringt uns Microsoft das Synchronisations-Nirvana?]]></title>
+      <content type="text"><![CDATA[<img title="Live_Sync_Nirvana" alt="Live_Sync_Nirvana" src="/image.axd?picture=Live_Sync_Nirvana.png" />   <p>Schon seit einer Weile wird in Szene-Blogs immer wieder von der neuen <a href="http://windowslivepreview.com/essentials">“Wave 4”</a> der Windows Live Essentials geschrieben, dabei handelt es sich um neue, verbesserte Versionen der Photo, Video, Chat, Blog und Synchronsations Software die gratis erhältlich sind.</p>  <p>Aufgrund der bevorstehenden finalen Version, möchte ich an dieser Stelle kurz die Vor- und Nachteile von <a href="http://windowslivepreview.com/essentials/sync/">Live Sync</a> aufzeigen, und insbesondere mit der möglichen Konkurrenz (<a href="https://www.dropbox.com/referrals/NTEwMzUxOTk">Dropbox</a> und <a href="http://www.wuala.com/referral/AN647NN4JHN3PBAGNGHC">Wuala</a>) vergleichen. Es ist mir dabei klar, dass die Zielgruppen und Aufgabengebiete der hier verwendeten Konkurrenz-Anbieter nicht zwingend den selben wie Live Sync entsprechen.</p>  <p><strong>Kein Live Sync auf Linux</strong>     <br />Anders als Wuala, wo auf Java gesetzt wird und Dropbox die einen nativen Client haben, funktioniert Live Sync nicht auf Linux obwohl es dank dem <a href="http://www.mono-project.com">Mono Projekt</a> teilweise möglich wäre .NET Applikationen unter Linux zu betreiben.</p>  <p><strong>Kein Cloud-Backup von versteckten Dateien</strong>     <br />Gerade beim programmieren schätze ich Synchronisationsdienste unheimlich, so füge ich den Code erst dann zum Subversion Archiv hinzu wenn ein Feature fertig programmiert und nicht schon früher wegen dem Wechsel des Arbeitsgerätes.&#160; <br />Wie bei Wuala ist es auch mit Live Sync leider nicht möglich versteckte Dateien über die Cloud zu synchronisieren, der Konkurrent Dropbox erlaubt dies jedoch. Sollen auch mit Live Sync versteckte Ordner wie Subversion Verzeichnisse auf andere Rechner übertragen geht dies nur über eine direkte P2P Verbindung und ohne Cloud Backup.</p>  <p><strong>Synchronisation von Programm Einstellungen</strong>     <br />Früher war <a href="http://delicious.com/">deli.cio.us</a> das Mass aller Dinge wenn es um Lesezeichen ging, egal an welchem Computer man sass die Favouriten sind immer übers Netz erreichbar. Als Chrome Beta Nutzer konnte ich einige Zeit später die Bookmarks sogar im Programm selbst synchronisieren und sparte mir somit das immer wiederkehrende Anmelden bei deli.cio.us. Endlich ist nun auch die Lesezeichen Synchronisierung beim Internet Explorer angekommen, man kann mir allerdings nicht vorwerfen dass ich daher wieder auf IE wechseln würde, dafür muss klar mehr getan werden.     <br />Das mit der Bookmark synchronisierung geht noch etwas weiter und zwar hat Microsoft mit Live Sync einen Weg geschaffen wie auch andere Programme ihre Einstellungen über mehrere Computer hinweg einheitlich führen können, so könnte ein Administrator der Firma XY in der Konfigurationsdatei einer x-beliebigen Firmen Applikation eine Änderung machen und fast instantan wird dies auf den Rechnern der Angestellten angewandt. Mit Dropbox wäre dies ebenfalls möglich, falls die Konfigurationsdateien in den Ordner ‘My Dropbox’ verschoben werden können.</p>  <p><strong>Sync-Ordner sind frei wählbar      <br /></strong>Jedem Dropbox Nutzer ist bekannt, dass nur Dateien im Ordner ‘My Dropbox’ resp. dem Ordner der bei der Installation angegeben wird, synchronisiert werden. Das Team arbeitet allerdings schon seit einiger Zeit an einer Lösung bei dem auch x-beliebige Ordner miteinander abgeglichen werden können. Live Sync auf der anderen Seite kann dies schon jetzt. Beliebige Ordner sind entweder mit der Cloud und anderen Rechnern oder einfach nur mit bis zu 30 anderen Computern synchronisierbar.</p>  <p><strong>Remote Desktop      <br /></strong>Als weiteres Killer Feature bekommt Live Sync den aus <a href="http://www.mesh.com">Mesh</a> bekannten Remote Desktop. Dies ist vorallem praktisch um dem Kunden übers Internet den Computer zu reparieren oder einfach Geeklike aus dem Büro den Heimrechner zu steuern. </p>  <p><strong>Fazit</strong>     <br />Microsoft hat sicherlich hie und da noch etliche Schachstellen auszubügeln um im Markt gegen innovative Produkte wie Dropbox und Wuala bestehen zu können. Ein weiteres absolutes Killer Feature wäre beispielsweise, dass per Live Sync in die Cloud hochgeladene Dokumente auch mit den <a href="http://philippkueng.ch/post/Docscom-der-Google-Docs-Killer.aspx">Office Web Apps</a> per Browser editiert werden könnten, womit die ganze Nutzungs-Bandbreite unterstützt würde.     <br />Man darf allerdings nicht vergessen, dass Live Sync momentan noch im Beta Status ist und hoffentlich auf die finale Version hin noch um einiges Attraktiver wird, ob es der Beginn des Synchronisations-Nirvana ist, diese Entscheidung überlasse ich dabei gerne euch. </p>]]></content>
+      <post-name type="text"><![CDATA[Bringt uns Microsoft das Synchronisations-Nirvana?]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="live sync" />
+        <tag ref="microsoft" />
+        <tag ref="synchronisation" />
+        <tag ref="backup" />
+        <tag ref="beta" />
+      </tags>
+    </post>
+    <post id="a06e8a43-9db2-421d-9302-042ca883bba5" date-created="2010-06-13T20:41:00" date-modified="2012-01-05T00:28:33" approved="true" post-url="/post/GPS-Tagging-fur-Bilder-auf-dem-HTC-HD2-aktivieren.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[GPS Tagging für Bilder auf dem HTC HD2 aktivieren]]></title>
+      <content type="text"><![CDATA[<a href="http://www.flickr.com/groups/mobilecitywalkzuerich/pool/map?mode=group"><img alt="flickr GPS Karte" src="/image.axd?picture=flickr_gps_map.png" /></a>   <p>Beim <a href="http://www.pixelfreund.ch/2010/04/mobile-city-walk-zuerich/">Mobile City Walk Zürich</a> (<a href="http://www.flickr.com/groups/mobilecitywalkzuerich/">flickr Gruppe</a>) von Gestern war eine der Anforderungen, dass die Bilder mit GPS Daten versehen, hochgeladen werden. GPS Tagging mag bei anderen Smartphones Standard sein, leider nicht so bei meinem Modell dem HTC HD2, was auf Windows Mobile 6.5 basiert.</p>  <p>Um dennoch die Bilder mit GPS Informationen in den EXIF Daten zu versehen muss eine kleine Registry Änderung auf dem Smartphone vollzogen werden. Dafür wird <a href="http://ceregeditor.mdsoft.pl">CERegEdit</a> gebraucht, was nicht Open Source, jedoch gratis erhältlich ist.     <br />Nach dem herunterladen und installieren von CERegEdit, wird das Smartphone per ActiveSync mit dem Computer verbunden und CERegEdit gestartet. Auf Windows Vista oder Windows 7 sollte CERegEdit unbedingt mit Administrator Rechten gestartet werden, da die Applikation ansonsten nicht richtig funktioniert. </p> <img alt="htc_camera_app" src="/image.axd?picture=htc_camera_app.jpg" />   <p>Anschliessend nun die Schritte um GPS Tagging für Bilder zu aktivieren.</p>  <ol>   <li>Wähle in CERegEdit links oben <strong>Connection</strong> und anschliessend <strong>Connect</strong>, was die Registry vom Gerät lädt. </li>    <li>Suche in den Ordnern in der linken Spalte nach dem Ordner <strong>HKEY_LOCAL_MACHINE </strong>&gt;<strong> Software </strong>&gt;<strong> HTC</strong> &gt;<strong> Camera</strong> &gt;<strong> P10</strong>. </li>    <li>Markiere den Ordner <strong>P10</strong> in der rechten Spalte und doppelklicke auf <strong>Enable</strong> in der rechten Spalte. </li>    <li>Setze nun den Wert von <strong>Value data</strong> von 0 auf <strong>1</strong> und bestätige mit OK. </li>    <li>Schliesse die Applikation und kappe die Verbindung mit dem Computer. </li>    <li>Öffne die Kamera App auf dem Smartphone, tippe rechts unten auf auf Einstellungen und nachher auf die Kamera resp. die Aufnahmemodus Auswahl. Hier kann nun der Modus GPS-Foto gewählt werden. Die GPS Bilder befindet sich übrigens nicht im selben Ordner wie die anderen, nicht GPS getaggten, sondern auf den Speicherkarte unter My Documents &gt; My POI. </li> </ol>]]></content>
+      <post-name type="text"><![CDATA[GPS Tagging für Bilder auf dem HTC HD2 aktivieren]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ce9e5233-593e-4b42-a1d1-29227a7fd061" />
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="mcw" />
+        <tag ref="mobile city walk" />
+        <tag ref="htc" />
+        <tag ref="hd2" />
+        <tag ref="windows mobile" />
+        <tag ref="gps" />
+        <tag ref="tagging" />
+        <tag ref="exif" />
+      </tags>
+    </post>
+    <post id="bc7f8b3c-11c3-4105-af52-b635a9b25cda" date-created="2010-06-08T21:55:00" date-modified="2012-01-05T00:28:52" approved="true" post-url="/post/Livestream-vs-kein-Livestream-nicht-Erfolg-vs-Erfolg.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Livestream vs. kein Livestream - nicht Erfolg vs. Erfolg]]></title>
+      <content type="text"><![CDATA[<a href="http://www.flickr.com/photos/acaben/541444577/"><img alt="541444577_ffd86b5a25_b[1]" src="/image.axd?picture=541444577_ffd86b5a25_b%5B1%5D.jpg" /></a>   <p>Am 7. Juni 2010, traute ich mich als nicht Apple-Gerät-Besitzer nach Bern an das <a href="http://twtvite.com/wwdcbe">#wwdcbe</a> Tweetup wo die WWDC Keynote von Steve Jobs per Liveticker verfolgt wurde. Anstatt die Demos von Steve als Video zu schauen, besprachen wir die Features untereinander oder checkten die Twitter Timeline. Am Ende des Abends wussten wir, sofern ich es jetzt sagen kann, über alles Bescheid obwohl nur kurze Meldungen und Bilder zu uns durchsickerten.</p>  <p><strong>Ist der Fakt, dass Apple keinen Livestream anbietet eine Kosten Frage oder allenfalls eine geschickte Marketingstrategie?</strong> </p>  <p>Bisher hatten die Apple Konkurrenten sprich Google und Microsoft jeweils ihre Keynotes Live an jeweils 10'000 bis 20'000 Zuschauer gestreamt. Da sich bei einem Streaming die Bandbreiten für jeden Nutzer addieren, muss bei 20'000 Zuschauern mit ca. 1.5 Mbit/s eine Bandbreite von 30'000 Mbit/s also 30 Gbit/s bereit stehen. Da Apple ebenfalls verschiedenste Kinotrailer hostet, sollte die Bandbreite die gebraucht wird und die daraus resultierenden Kosten nicht wirklich entscheidend sein.   <br />Auf der anderen Seite kann &quot;kein Livestreaming&quot; viele positive Effekte haben. Erstens sind die Sitze in dem Saal viel begeehrter, da die anderen Ausserhalb warten müssen bis das Keynote Video online ist. Zudem ist Twitter, und sind andere Quellen, voll von Neuigkeiten, vornehmlich in indexierbarem Text, was die Werbewirkung noch einmal maximieren kann.</p>  <p><strong>Meine Frage nun, würde diese Taktik auch bei anderen Firmen und Events funktionieren?</strong> </p>  <p>Warum bieten beispielsweise Microsoft oder Google einen Livestream an, wäre doch günstiger und besser wenn nicht?    <br />Die einzige Erklärung auf diese Frage beruht bisher darin, dass Google ihre Youtube Plattform und Microsoft ihren Silverlight Streaming Service promoten möchten und es sich daher nicht leisten können keinen Livestream anzubieten.</p>  <p>Was sind eure Meinungen zu diesem Thema? Pro oder Kontra Livestream?</p>]]></content>
+      <post-name type="text"><![CDATA[Livestream vs. kein Livestream - nicht Erfolg vs. Erfolg]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="wwdc" />
+        <tag ref="livestream" />
+        <tag ref="streaming" />
+      </tags>
+    </post>
+    <post id="7944de83-3344-4e62-a82a-daeb2330c79c" date-created="2010-06-07T02:01:00" date-modified="2012-01-05T00:29:09" approved="true" post-url="/post/Website-mit-WGET-und-einer-Batch-Datei-im-Parallel-Modus-sichern.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Website mit WGET und einer Batch Datei im Parallel-Modus sichern]]></title>
+      <content type="text"><![CDATA[<img alt="festplatte" src="/image.axd?picture=festplatte.jpg" />   <p>Im Januar 2010 habe ich hier auf diesem Blog eine Möglichkeit vorgestellt wie mithilfe einer Batchdatei und des Open Source Programms WGET die eigenen Webseiten offline gesichert werden können. <a href="http://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Website mit WGET und einer Batch Datei sichern</a></p>  <p>Bei vielen verschiedenen Webseiten kann der Sicherungsvorgang leider ganz schön viel Zeit beanspruchen da <a href="http://www.gnu.org/software/wget/">WGET</a> und das Batch Skript lediglich seriell ausgeführt werden. Es gibt allerdings eine Möglichkeit wie das Backup quasi parallel ausgeführt wird. Als Ausgangspunkt brauchen wir das schon erstellte Backup Skript vom Januar 2010 (backup_skript), welches ungefähr so aussieht:</p> <span class="code">&quot;C:\wget ordner\wget.exe&quot; -P&quot;C:\website sicherung 1&quot; ftp://admin1:passwort1@ftp.example1.com/ –m    <br />    <br />“C:\wget ordner\wget.exe&quot; -P&quot;C:\website sicherung 2&quot; ftp://admin2:passwort2@ftp.example2.com/ –m</span>   <p>Im Ordner, in welcher sich diese Datei befindet, erstellen wir nun einen Unterordner, in meinem Falle <strong>website_backup</strong>. In dem Ordner website_backup wird für jede einzelne Website eine eigene Batch Datei erstellt, bsp.: example1.bat. In example1.bat kommen nun die Anweisungen, welche nur diese eine Seite betreffen, in unserem Beispiel also:</p> <span class="code">&quot;C:\wget ordner\wget.exe&quot; -P&quot;C:\website sicherung 1&quot; ftp://admin1:passwort1@ftp.example1.com/ –m</span>   <p>Diese Schritte werden wiederholt bis alle Anweisungen im Skript backup_skript in einzelnen Batch Dateien im Ordner website_backup vorhanden sind.</p>  <p>Zum Schluss öffnet man die Datei backup_skript mit einem Editor und es wird pro Batch Datei im Ordner website_backup eine Linie eingefügt. </p> <span class="code">START website_backup\example1.bat    <br />START website_backup\example2.bat     <br />etc.</span>   <p>Falls nun das Skript backup_skript aufgerufen wird, öffnen sich viele verschiedene Fenster gleichzeitig, wodurch der Backupprozess eine gewisse Parallelität gewinnnt.</p>]]></content>
+      <post-name type="text"><![CDATA[Website mit WGET und einer Batch Datei im Parallel-Modus sichern]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="wget" />
+        <tag ref="backup" />
+        <tag ref="command line" />
+        <tag ref="batch" />
+        <tag ref="skript" />
+        <tag ref="website" />
+      </tags>
+    </post>
+    <post id="6fe90f10-c96a-4a99-88e1-57a7b62e9d8f" date-created="2010-06-06T22:12:00" date-modified="2012-01-05T00:29:24" approved="true" post-url="/post/Mathematik-Formeln-mit-Word-und-Shortcuts-erstellen.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Mathematik Formeln mit Word und Shortcuts erstellen]]></title>
+      <content type="text"><![CDATA[<img alt="Mathematikformeln in Word Screenshot" src="/image.axd?picture=mathematikformeln_in_word.png" /> <p>Da ich es leid bin dauernd den ganzen Regenwald an die Vorlesungen mitzuschleppen stellte ich auf Digital um. Es ist nämlich möglich mit Word und einigen Shortcuts den Text, den der Professor an die Tafel schreibt, recht fliessend abzutippen. Die Tastenkürzel sind dabei in MathML, einer an LaTeX angelehnten Sprache verfasst. </p>  <p>Dank Thomas Co, von der Michigan Technological University und seiner handlichen <a href="http://www.chem.mtu.edu/~tbco/cm416/EquationEditor_main.pdf" title="Word MathML Zusammenfassung">Zusammenfasssung</a> sollte dabei die MathML ausdrucksweise rasch erlernbar sein.</p>]]></content>
+      <post-name type="text"><![CDATA[Mathematik Formeln mit Word und Shortcuts erstellen]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="word" />
+        <tag ref="mathml" />
+        <tag ref="mathematik" />
+        <tag ref="formeln" />
+        <tag ref="shortcuts" />
+      </tags>
+    </post>
+    <post id="8c1b2375-ec64-4448-9a6f-36b8214a7f66" date-created="2010-06-04T20:01:00" date-modified="2010-06-04T20:04:04" approved="true" post-url="/post/SPAM-Filter-in-Gmail-ausschalten.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[SPAM Filter in Gmail ausschalten]]></title>
+      <content type="text"><![CDATA[<p>Beim Zugriff auf Google Mail per IMAP lädt der Client (Thunderbird, Outlook, etc.) auch die SPAM E-Mails herunter, sodass Benutzer diese ebenfalls zu Gesicht bekommen. Falls allerdings, aus Tradition, auf POP gesetzt wird um E-Mails vom Server zu holen, gehen SPAM verdächtige E-Mails eventuell am Nutzer vorbei. Hinzu kommt, dass Google SPAM nach ca. 60 Tagen automatisch löscht.
+<p></p>
+Damit keine Nachrichten verloren gehen, ist es sinnvoll den SPAM Filter mit einem kleinen Kniff zu umgehen.
+<p>
+<img src="/image.axd?picture=2010%2f6%2fremove_spam_filter_in_gmail_step1.png" alt="Google Mail Filter Einstellungen" />
+</p>
+Melde dich dafür unter <a href="http://mail.google.com" title="Google Mail">mail.google.com</a> an, klicke oben rechts auf <strong>Einstellungen</strong> und wähle den Tab Reiter <strong>Filter</strong> aus.</p>
+<img src="/image.axd?picture=2010%2f6%2fremove_spam_filter_in_gmail_step2.png" alt="Google Mail Filter Einstellungen is:spam" />
+<p>Erstelle einen <strong>neuen Filter</strong> und fülle dabei im Feld <strong>Mit diesen Wörtern</strong> den Begriff <strong>is:spam</strong> ein. Klicke anschliessend auf <strong>Nächster Schritt</strong>.
+<p>
+<img src="/image.axd?picture=2010%2f6%2fremove_spam_filter_in_gmail_step3.png" alt="Google Mail Filter Einstellungen Warnung" />
+</p>
+Die erscheinende Meldung muss mit <strong>OK</strong> bestätigt werden, damit alle E-Mails erfasst werden.
+<p>
+<img src="/image.axd?picture=2010%2f6%2fremove_spam_filter_in_gmail_step4.png" alt="Google Mail Filter erstellen" />
+</p>
+Im letzten Schritt sollte das Häckchen bei <strong>Niemals als Spam einstufen</strong> gesetzt werden, bevor mit einem Klick auf <strong>Filter erstellen</strong> der SPAM Filter endgültig umgangen wird. Ab diesem Zeitpunkt sollten nun alle E-Mails im Posteingang landen egal ob POP oder IMAP benutzt wird.</p>
+]]></content>
+      <post-name type="text"><![CDATA[SPAM Filter in Gmail ausschalten]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="google mail" />
+        <tag ref="gmail" />
+        <tag ref="spam" />
+        <tag ref="filter" />
+        <tag ref="ausschalten" />
+      </tags>
+    </post>
+    <post id="1b834ad4-5f2d-4f2b-be57-318a86ff4fa6" date-created="2010-06-03T23:49:00" date-modified="2010-06-04T00:02:18" approved="true" post-url="/post/bethemayorcom.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[bethemayor.com]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f6%2fbe_the_mayor_screenshot.png" alt="bethemayor.com Website Screenshot" />
+<p>
+Da foursquare eine relativ stabile statische <a title="foursquare API" href="http://groups.google.com/group/foursquare-api/web/api-documentation">API</a> besitzt, (anders als Gowalla) erstellten Entwickler, schon seit geraumer Zeit, Services die den täglichen 4sq-Nutzer untersützen.
+<p></p>
+Der neueste Spross unter den foursquare Webseiten ist <a href="http://bethemayor.com" title="bethemayor.com">http://bethemayor.com</a>, der Dienst nutzt die OAuth Architektur als Authentifizierung, wie sich dies für einen seriösen Anbieter gehört, und zeigt wieviele Check-Ins noch benötigt werden, bis man sich am jeweiligen Ort Mayor nennen darf. In meinem Fall werde ich wohl beim Hauptbahnhof Zürich nur schwerlich eine Chance gegen @phogenkamp haben. 
+<p>
+</p>
+<strong>Tipp</strong>
+ - Nebenbei verrät bethemayor.com, das zum Mayor nur ein Check-In pro Tag gezählt wird. Geht wohl daher mehr um Ausdauer als um fleissiges Treiben. <a href="http://search.twitter.com/search?q=nicetoknow" title="Twitter Hashtag: nicetoknow">#nicetoknow</a>
+</p>]]></content>
+      <post-name type="text"><![CDATA[bethemayor.com]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="foursquare" />
+        <tag ref="service" />
+        <tag ref="website" />
+        <tag ref="mayor" />
+      </tags>
+    </post>
+    <post id="40fa803e-8b09-4285-bb11-a29b1de9e7d0" date-created="2010-05-21T20:50:00" date-modified="2010-07-09T19:21:43" approved="true" post-url="/post/Erstes-tweetupaarau.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Erstes #tweetupaarau]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f5%2ftweetupaarau-geheimprojekt-praesentation.jpg" alt="tweetupaarau Geheimprojekt Präsentation" />
+<p>
+Gestern am 20. Mai wurde das wahrscheinlich erste Tweetup auf Argauer Boden durchgeführt, das <a href="http://twtvite.com/tweetupaarau">#tweetupaarau</a>. Die Location wahr angenehm nahe am Bahnhof und konnte auch sonst überzeugen. 
+<p></p>
+Wie nicht anders zu erwarten, mit 2 iPads als spezial Gäste, war der Abend eher Apple lastig und Gadgets, wie den von mir mitgebrachten, ZuneHD fasste man teilweise gar nicht an. Verzeihe es @renatomitra dieses eine mal... ;-)
+<p></p>
+Ebenfalls schätzte ich die anregenden Diskussionen zum Thema "Cloud Computing", wobei wir mit @avongunten einen Kenner der Szene unter uns hatten.
+<p></p>
+Der wahre Grund allerdings, weswegen alle nach Aarau reisten, waren nicht die iPads sondern das Geheimprojekt von @purzlbaum. Womit dies leider auch schon alles ist, was man aktuell dazu schreiben darf. (NDAs)
+<p></p>
+Abschliessend, das erste #tweetupaarau war eines der grösseren Tweetups die ich bisher besuchte und Gespräche mit Tech-Affinen Menschen zu führen, auch wenn es Apple Nutzer sind ;-), ist für mich halt immer wieder ein Highlight. 
+<br/>In diesem Sinne, vielen Dank den beiden Organisatoren @retovogel und @renatomitra, am 8. Juni gerne wieder.
+</p>]]></content>
+      <post-name type="text"><![CDATA[Erstes #tweetupaarau]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="tweetup" />
+        <tag ref="aarau" />
+        <tag ref="tweetupaarau" />
+        <tag ref="twitter" />
+      </tags>
+      <comments>
+        <comment id="d6762061-e45b-4222-949b-f4f2c78b3367" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-05-21T22:16:09" date-modified="2010-05-21T22:16:09" approved="true" user-name="Bendy" user-email="bendy@bendy.ch" user-ip="81.221.74.1" user-url="http://www.bendy.ch/">
+          <title type="text"><![CDATA[re: Erstes #tweetupaarau]]></title>
+          <content type="text"><![CDATA[Yep, es war ein sehr angenehmer abend. Man konnte wieder viele neue und vorallem interessante Pers&#246;nlichkeiten kennenlernen. Schade nur ,dass es nie reicht, mit allen pers&#246;nlich zu reden.
+Einziger Wermuthstropfen waren die Fischknusperli: die waren etwas sehr gesund :-)
+
+Auf ein baldiges wiedersehen ;-)]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="5b1b0954-e760-4846-a442-d23cf842a709" date-created="2010-05-20T20:59:00" date-modified="2010-05-20T21:09:34" approved="true" post-url="/post/Chrome-Web-Store-der-Anfang-vom-Ende-von-Apple.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Chrome Web Store - der Anfang vom Ende von Apple?]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f5%2fchrome-web-store.png" alt="Chrome Web Store" />
+<p>Gestern an der <a href="http://code.google.com/events/io/2010/" title="Google I/O">Google I/O</a>, der alljährlichen Entwicklerkonferenz des Suchmaschinenriesen, wurde bekanntgegeben, dass nun auch Chrome einen <a href="http://chrome.google.com/webstore " title="Chrome Web Store">Web Store</a> bekommt aka. Goldesel für IT Firmen. Das Konzept an sich ist sicher nicht neu, da Apple schon seit einigen Jahren einen solchen für das iPhone und nun auch deren Tablet betreibt, und genau da wird es spannend. Google hat mit dem Chrome eine relativ einfache Umgebung geschaffen in der mit HTML (neu HTML5) etwas CSS und Javascript voll funktionsfähige Applikationen erstellt werden können die danach gewinnbringend an den Nutzer weiterverkauft werden.</p>
+
+<p>Meine Vermutung geht nun dahingehend, dass diese Web Store Applikationen nachher out-of-the-box auf einem Tablet mit ChromeOS laufen. Für Entwickler denen das nicht genug ist, kommt vielleicht sogar noch Java Support hinzu, was im Endeffekt das Google Tablet zu einer ernsthaften Konkurrenz für das Apple iPad machen könnte.</p>
+
+<p>Es ist mir klar, dass die Prognose aktuell viele unbekannte Variabeln enthält, doch bin ich interessiert was ihr zu diesem Thema denkt. Hat Google das Potential, Apple aus dem Mobil Geräte Markt zu verdrängen?</p>
+]]></content>
+      <post-name type="text"><![CDATA[Chrome Web Store - der Anfang vom Ende von Apple?]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="google" />
+        <tag ref="i/o" />
+        <tag ref="chrome" />
+        <tag ref="web store" />
+        <tag ref="chrome os" />
+        <tag ref="tablet" />
+        <tag ref="apple" />
+      </tags>
+    </post>
+    <post id="d71243c4-dbf6-44ba-b30f-c48e3455ab2e" date-created="2010-05-19T19:50:00" date-modified="2010-08-18T00:34:49" approved="true" post-url="/post/Subversion-Verzeichnisse-in-Filezilla-ausblenden.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Subversion Verzeichnisse in Filezilla ausblenden]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f5%2ffilezilla-hide-hidden-folders-step1.png" alt="Subversion Verzeichnis in Filezilla ausblenden - Schritt 1"  />
+<p>Normalerweise schreibt man etwas Code auf dem eigenen Rechner, testet diesen und f&uuml;gt ihn zum <a title="Subversion" href="http://en.wikipedia.org/wiki/Subversion_(software)">Subversion</a> Verzeichnis hinzu, danach wird die aktuelle Version exportiert und per <a title="Filezilla Client" href="http://filezilla-project.org/download.php?type=client">Filezilla</a> auf den eigenen Server hochgelden. Dies macht Sinn, da somit fixe Versionen vorhanden sind auf die allf&auml;llig wieder zur&uuml;ck gewechselt werden k&ouml;nnte.</p>
+<p>Sch&ouml;n und gut, doch was wenn die Applikation schon w&auml;hrend dem programmieren laufend auf dem Server getestet werden will? L&auml;dt man dann die ganzen SVN Verzeichnisse auch hoch? Oder jeweils einfach Datei um Datei, sodass die Subversion Daten nur auf dem eigenen Rechner bleiben.</p>
+<p>Es gibt eine viel einfachere L&ouml;sung. Zuerst wird <strong>View</strong> im Menu ausgew&auml;hlt und danach auf <strong>Filename filters</strong> geklickt. Alternativ geht auch der Tastatur Shortcut <strong>Ctrl + I</strong>. Im neu erscheindenen Fenster aktiviert man das <strong>H&auml;ckchen bei CVS and SVN directories</strong> und schon werden die Subversion Verzeichnisse von Filezilla ignoriert.</p>
+<img src="/image.axd?picture=2010%2f5%2ffilezilla-hide-hidden-folders-step2.png" alt="Subversion Verzeichnis in Filezilla ausblenden - Schritt 2" />
+<p>Nun ist es m&ouml;glich einen Ordner, welcher ein SVN Verzeichnis beinhaltet auf den Webserver zu laden ohne dass dabei die Subversion Dateien ebenfalls &uuml;bertragen werden.</p>]]></content>
+      <post-name type="text"><![CDATA[Subversion Verzeichnisse in Filezilla ausblenden]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="filezilla" />
+        <tag ref="subversion" />
+        <tag ref="hidden folder" />
+        <tag ref="hidden files" />
+        <tag ref="svn" />
+        <tag ref="cvs" />
+        <tag ref="upload" />
+      </tags>
+      <comments>
+        <comment id="49c67664-83f1-4021-85fa-e60e97c86e0a" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-07-16T23:05:41" date-modified="2010-07-16T23:05:41" approved="true" user-name="Ingo Siebeck" user-email="ingo.siebeck@kalandro.de" user-ip="88.217.137.16" user-url="http://www.kalandro.de/">
+          <title type="text"><![CDATA[re: Subversion Verzeichnisse in Filezilla ausblenden]]></title>
+          <content type="text"><![CDATA[Prima, genau das hab ich gesucht :-) Und direkt auf Anhieb gefunden. Top!]]></content>
+        </comment>
+        <comment id="6e110395-e761-4cfd-ae85-420b473fafdb" parentid="00000000-0000-0000-0000-000000000000" date-created="2011-04-13T18:27:59" date-modified="2011-04-13T18:27:59" approved="true" user-name="Alex" user-email="alex.bitsche@vol.at" user-ip="91.130.16.87" user-url="http://www.preisjaeger.at/">
+          <title type="text"><![CDATA[re: Subversion Verzeichnisse in Filezilla ausblenden]]></title>
+          <content type="text"><![CDATA[Danke! Das nervt mich schon seit jeher und heute war es dann soweit, dass ich endlich mal google angeworfen habe. Und dann find ich auch noch direkt die passende L&#246;sung :)]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="ad064598-0712-44fd-9eda-cee693cfeae8" date-created="2010-05-18T19:40:00" date-modified="2010-06-08T14:52:39" approved="true" post-url="/post/Docscom-der-Google-Docs-Killer.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Docs.com - der Google Docs Killer?]]></title>
+      <content type="text"><![CDATA[<p><img src="/image.axd?picture=2010%2f5%2fdocs.com.jpg" alt="docs.com auf einem HP 2710P" /></p>
+<p>Am 21. April stellte Microsoft auf der <a title="facebook f8" href="http://www.facebook.com/f8">facebook f8 Konferenz</a> eine Beta Version ihrer <a title="docs.com" href="http://docs.com">Office Web Apps</a> vor. Die Online Version der bekannten Office Suite beinhaltet bis dato die gebr&auml;uchlichsten Office Anwendungen wie Word, Excel und Powerpoint.</p>
+<p>Die Schw&auml;chen von Office Web Apps (OWA) sind momentan die st&auml;rken von Google Docs (GD), so blockiert beispielsweise OWA bei jedem speichern das Fenster wie man dies schon von Office Workspace her kennt, GD hat mit der &Uuml;bernahme von <a title="Etherpad" href="http://etherpad.com/">Etherpad</a>&nbsp;(danke an @_giu, @LiFrT und @dan_graf) auf der anderen Seite eine Speichertechnik welche sehr schnell ist und das weiterschreiben erlaubt. Ebenso habe ich pers&ouml;nlich M&uuml;he mit der Fullscreen Darstellung von OWA, so passen ganze Abs&auml;tze auf eine Linie (24&rdquo;). GD hat dieses Problem erkannt und ihre Version bedeutend schreib- und lesefreundlicher gestaltet.</p>
+<p>St&auml;rken von OWA gegen&uuml;ber GD sehe ich in der grossen Verbreitung der Offline Version von Office. So k&ouml;nnen Nutzer ihre Daten kostenlos auf Skydrive ablegen, diese bei Bedarf mit OWA ab&auml;ndern und sind dabei niemals gezwungen sich in ein neues Programm einzuarbeiten weil &uuml;berall die bekannte Ribbon Oberfl&auml;che zu sehen ist. Ebenso ist es m&ouml;glich die neuesten Office Effekte sowohl off- wie online zu verwenden, somit ist der Nutzer nicht wie bei GD gezwungen die jeweiligen interaktiven Elemente in statische Bilder umzuwandeln. Zus&auml;tzlich hat Microsoft durch die Integration in Facebook eine gute Basis um eine solide Kundenbindung zu erreichen.</p>
+<p><strong>Mein Fazit&nbsp;</strong>&mdash;&nbsp;Trotz der teilweise schlechten Unterst&uuml;tzung und dem derzeit abgeschalteten Offline Modus ist mein Favorit durchaus Google Docs. Dies aus dem Grund, dass Google Docs deutlich schneller ist und mir Docs.com den Anschein macht ledigleich ein erweitertes TinyMCE zu sein, welches durch zu viel Javascript an Performance einb&uuml;sst.&nbsp;</p>
+<p>Sowohl das von mir getestete Google Docs wie auch Docs.com sind aktuell nicht in einer &ldquo;Business Ready&rdquo; Phase, daher k&ouml;nnen sich bei beiden noch die einen oder anderen Dinge verbessern. D&uuml;rfen daher noch bei beiden auf Einsicht hoffen...</p>
+<p><strong>Update vom 8. Juni 2010</strong>&nbsp;&mdash;&nbsp;Office Web Apps sind ab jetzt ebenfalls auf <a href="http://office.live.com">office.live.com</a> verfügbar. Mit Office 2010 können die Dateien nun direkt dort gespeichert und freigegeben werden. Genauere Details kann man durch den <a href="http://windowsteamblog.com/windows_live/b/windowslive/archive/2010/06/07/office-is-now-live-on-skydrive.aspx">offiziellen Blog Beitrag</a> oder durch durchs selber ausprobieren erhalten.</p>]]></content>
+      <post-name type="text"><![CDATA[Docs.com - der Google Docs Killer?]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="docs.com" />
+        <tag ref="office web apps" />
+        <tag ref="google docs" />
+        <tag ref="online" />
+        <tag ref="text editor" />
+        <tag ref="microsoft" />
+        <tag ref="google" />
+      </tags>
+    </post>
+    <post id="37e05471-7d42-4bae-a836-7085a513851f" date-created="2010-05-17T16:50:00" date-modified="2010-05-20T17:53:23" approved="true" post-url="/post/philippkuengch-in-neuem-Glanz.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[philippkueng.ch in neuem Glanz]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f5%2fnew_blog_design_for_philippkueng.ch.jpg" alt="Neues Blog Theme für philippkueng.ch" />
+<p>Nun ist die Zeit gekommen und mein Blog verabschiedet sich von seinem orangen Kleid (pubertäre Phase) und zieht ein blaues professioneller wirkendes Gewand an.</p>
+
+<p>Für das CSS benutzte ich das BlogEngine.NET Standard Stylesheet und erweiterte es mit einigen CSS3 Elementen wie text-shadow, box-shadow und rounded-border. Ebenso wird ab diesem Moment der <a href="http://developers.facebook.com/docs/reference/plugins/like" title="Facebook Like Button">Facebook Like Button</a> und <a href="http://tweetmeme.com/about/retweet_button" title="Tweetmeme Retweet">Tweetmeme Retweet</a> eingeführt. Bin gespannt ob es allenfalls mehr Konversationen hervorbringt.</p>
+
+<p>Das HTML resp. XHTML erfuhr wenige Änderungen und ist, sofern keine Flash Videos oder Widgets von Drittanbietern eingebunden werden, völlig <a href="http://www.w3.org/" title="World Wide Web Consortium (W3C)">W3C</a> konform.</p>
+
+<p>That’s it. Wie gefällt es euch? Evtentuell Anregungen für eine weitere Interationen?</p>]]></content>
+      <post-name type="text"><![CDATA[philippkueng.ch in neuem Glanz]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="new" />
+        <tag ref="theme" />
+        <tag ref="template" />
+        <tag ref="facebook" />
+        <tag ref="like" />
+        <tag ref="tweetmeme" />
+        <tag ref="w3c" />
+      </tags>
+      <comments>
+        <comment id="b7c9f688-0dcb-468b-be66-2397ad0904b4" parentid="00000000-0000-0000-0000-000000000000" date-created="2011-03-02T04:04:23" date-modified="2011-03-02T04:04:23" approved="true" user-name="Phil" user-email="vlupsus@gmail.com" user-ip="83.78.57.253" user-url="">
+          <title type="text"><![CDATA[re: philippkueng.ch in neuem Glanz]]></title>
+          <content type="text"><![CDATA[Suit up, eh?]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="46a6e38a-3d4d-4568-a9cf-af42be85016d" date-created="2010-05-06T05:20:00" date-modified="2010-05-06T05:23:16" approved="true" post-url="/post/Designer-und-Entwickler-vs-Designer-oder-Entwickler.aspx" type="normal" hasexcerpt="false" views="0" is-published="False">
+      <title type="text"><![CDATA[Designer und Entwickler vs. Designer oder Entwickler]]></title>
+      <content type="text"><![CDATA[<a href="http://www.flickr.com/photos/agentcmos/4338313289/" title="Spaghetti Bolognese by Philipp Küng, on Flickr"><img src="http://farm3.static.flickr.com/2720/4338313289_5175debc44_b.jpg" alt="Spaghetti Bolognese" /></a>
+<p>Als Alleinunternehmer (Freelancer), mit kleinem Budget ist man gezwungen alle Entwickler und Designer Arbeiten selbst zu machen. Lange Zeit tat ich mich schwer mit diesem Umstand und suchte stets nach einem Geschäftspartner welcher sich in einem gewissen Gebiet besser auskannte.</p>
+<p>Heute, ca. 6-7 Jahre später, bin ich dankbar, dass ich niemals jemanden an meiner Seite wusste. So musste ich mich im Laufe der Zeit wohl oder übel in Materien einarbeiten die definitiv nicht zu meinen Lieblingsbeschäftigungen gehörten, wie Beispielsweise das Texten für eine Webseite, SEO oder das Thema Accessability. Momentan bin ich sehr froh diese initiale Arbeit investiert zu haben, sodass heute Projekte alleine, von Anfang bis Ende selbst erstellt, überwacht und optimiert werden können.<br/>
+Den einzigen sogenannten Vorteil in einer Arbeitsteilung zwischen Designer, Entwickler, SEO Experte, etc. sehe ich daher nicht unbedingt in höherer Qualität sondern nur in einer schnelleren Realisation eines schon abgestecken Projekts. Bei einem neuen Projekt ist dagegen eine Person welche sich in allen Welten auskennt unverzichtbar, da nur so Design Skizzen entstehen, die zu fast 100 Prozent durch den Programmierer umgesetzt werden können.</p>
+<p>Die Fragestellung Designer und Entwickler vs. Designer oder Entwickler verhält sich wie Spaghetti mit Sauce vs. Spaghetti oder Sauce, wobei mir sicherlich jedereiner Zustimmt das nur Spaghetti oder nur Sauce einfach keinen Sinn machen. Eine statische Webseite ohne CSS (Spaghetti) braucht ein wenig CSS und JS (Sauce) um vollkommen zu wirken. Dabei ist klar ersichtlich das ein Saucenmeister nicht automatisch gute Spaghetti Bolognese macht, sondern auch das Gespür für die Pasta braucht, analog eine gute Website.</p>
+<p>BTW, wie einfache Designs schätze ich auch einfache Saucen zu Spaghetti, z.B. Butter mit Tomatenpüree ;-)</p>]]></content>
+      <post-name type="text"><![CDATA[Designer und Entwickler vs. Designer oder Entwickler]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+    </post>
+    <post id="9f5e4531-cea8-4137-8ee1-75356c73daec" date-created="2010-04-16T07:14:00" date-modified="2010-04-16T07:22:50" approved="true" post-url="/post/FoursquareDay.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[FoursquareDay]]></title>
+      <content type="text"><![CDATA[<p>Heute am 16.4 feiert <a href="http://foursquare.com/">foursquare</a>, der beste Location Dienst ;-), seinen eigenen Feiertag, den <a href="http://4sqday.com/">foursquareDay</a>. Der Tag ist keineswegs zuf&auml;llig gew&auml;hlt, sondern unterliegt rein mathematischen Gesetzm&auml;ssigkeiten. So heisst 4 auf Englisch four und four-squared daher 4 im Quadrat was nichts anderes als 16 ist. </p><p>Leider gibt es in der Schweiz keinen <a href="http://4sqday.com/cities">Ort</a> wo man auch mitfeiern kann, vielleicht ja n&auml;chstes Jahr. Als Ersatz pr&auml;sentiere ich euch heute die erste Episode der Foursquare Cops.</p>
+
+<object width="666" height="395"><param name="movie" value="http://www.youtube.com/v/N4rfzYul9O8&hl=en_US&fs=1&rel=0&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/N4rfzYul9O8&hl=en_US&fs=1&rel=0&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="666" height="395"></embed></object>
+
+<p>Falls ihr noch nicht genug foursquare habt gibt es hier noch mein <a href="http://squarebewidget.codeplex.com">widget f&uuml;r blogengine</a>.</p>]]></content>
+      <post-name type="text"><![CDATA[FoursquareDay]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="foursquare" />
+        <tag ref="foursquareday" />
+        <tag ref="4sqday" />
+      </tags>
+    </post>
+    <post id="5b0329d2-5c10-430a-a09a-060090c7a225" date-created="2010-04-13T00:18:00" date-modified="2010-04-13T00:28:13" approved="true" post-url="/post/nervige-Email-Signatur-auf-Windows-Mobile-HTC-ausschalten.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[nervige Email-Signatur auf Windows Mobile HTC ausschalten]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f4%2fwindows-mobile-email-signatur-ausschalten-htc-00.jpg" alt="" />
+<p>Bei meinem in der Schweiz erstandenen HTC HD2 war standardmässig die folgende Email Signatur eingestellt: <strong>Gesendet von meinem HTC</strong>.<br />
+Die Signatur an sich ist nicht wirklich schlimm, doch sobald man Services wie flickr, posterous und eat.ly benutzt welche Emails parsen, hat man die Email-Signatur plötzlich auf allen Bildern resp. Beiträgen in der
+Beschreibung. Natürlich könnte man den Spruch auch einfach jedesmal von Hand löschen, doch warum kompliziert wenn es auch einfach geht.</p>
+<img src="/image.axd?picture=2010%2f4%2fwindows-mobile-email-signatur-ausschalten-htc-01.jpg" alt="" />
+<p>Um die Signatur zu deaktivieren resp. ändern tippe auf <strong>Start</strong> und nachher auf das Menu <strong>E-Mail</strong>. Wähle nun <strong>Menu</strong> (rechts unten) an.</p>
+<img src="/image.axd?picture=2010%2f4%2fwindows-mobile-email-signatur-ausschalten-htc-02.jpg" alt="" />
+<p>Tippe auf <strong>Optionen</strong> um ins nächste Fenster zu gelangen. Dort kann nun das Konto ausgewählt werden für welches die Signatur geändert werden soll. Nach der Auswahl einfach auf <strong>Signaturen</strong> tippen und es ist schon fast geschafft.</p>
+<img src="/image.axd?picture=2010%2f4%2fwindows-mobile-email-signatur-ausschalten-htc-03.jpg" alt="" />
+<p>Im letzten Schritt hat man die Möglichkeit die Signatur ganz zu deaktivieren oder einfach eine eigene zu definieren. (Auswahl nach belieben) Nach einmal tippen auf OK ist die nervige Standard Signatur verschwunden.</p>
+
+<p>Nebenbei die Screenshots dieses Post wurden mit der Software <a href="http://www.iliumsoft.com/site/fp/freeware.php">Ilium Software Screen Capture</a> gemacht die gratis heruntergeladen werden kann. (Leider nicht OSS...)</p>]]></content>
+      <post-name type="text"><![CDATA[nervige Email-Signatur auf Windows Mobile HTC ausschalten]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="windows mobile" />
+        <tag ref="winmo" />
+        <tag ref="htc" />
+        <tag ref="hd2" />
+        <tag ref="screen capture" />
+        <tag ref="screenshot" />
+      </tags>
+    </post>
+    <post id="74a1a0ea-c478-4354-b722-da614c517817" date-created="2010-04-11T19:17:00" date-modified="2012-01-05T00:15:34" approved="true" post-url="/post/Foursquare-BlogEngineNET-widget-version-03.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Foursquare BlogEngine.NET widget version 0.3]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010/2/foursquare-logo.png" alt="foursquare logo" />
+<p>Hi users of blogengine. I'd like to announce another minor update to the <a href="http://4squarebewidget.codeplex.com/releases/view/43399" title="foursquare blogengine.net widget">foursquare widget</a> for your favourite blogging platform which can be downloaded from <a href="http://4squarebewidget.codeplex.com/releases/view/43399" title="foursquare blogengine.net widget">codeplex</a>. 
+By the way this will be the last release working with the feeds, the next release will be running with the foursquare API.</p>
+<p><strong>out-of-the-box usage</strong><br />Now everyone is able to use the plugin with your out-of-the-box BE installation, because I've changed the parts which were using LINQ to use .NET 2.0 methods.
+So there's no need to change the framework version to 3.5 anymore...</p>
+<p><strong>W3C compliant</strong><br />The other thing I'd like to announce is that the widget is now fully W3C compliant, like BE itself.</p>
+<p><strong>Icons are back</strong><br />Last I want to mention that the icons are getting embedded again, because they disappeared in some browsers while displayed via css.</p>
+<p><strong>Important</strong><br />
+    You probably have to reset the blogengine application after you've uploaded the widget to your hosting provider.
+    Sorry for that.</p>]]></content>
+      <post-name type="text"><![CDATA[Foursquare BlogEngine.NET widget version 0.3]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="foursquare" />
+        <tag ref="4square" />
+        <tag ref="playfoursquare" />
+        <tag ref="blogengine" />
+        <tag ref="blogengine.net" />
+        <tag ref="widget" />
+      </tags>
+      <comments />
+      <trackbacks />
+    </post>
+    <post id="13a34cf6-bdb8-45f8-b2be-ad1ae6988026" date-created="2010-03-17T23:45:00" date-modified="2010-07-09T19:22:23" approved="true" post-url="/post/Autosalon-2010-Sind-reine-Elektroautos-die-Zukunft.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Autosalon 2010 - Sind reine Elektroautos die Zukunft?]]></title>
+      <content type="text"><![CDATA[<a href="http://www.flickr.com/photos/agentcmos/4431779918/" title="Auto Salon 2010 Tilt Shift" class="image"><img src="http://farm3.static.flickr.com/2758/4431779918_6410cd734a_b.jpg" alt="Auto Salon 2010 Tilt Shift" /></a>
+<p>Am letzten Freitag habe ich die Vorlesungen für einmal ausfallen lassen und mich auf Genf zum <a href="http://salon-auto.ch/de">internationalen Autosalon</a> begeben.  Ist ja auch nicht jeden Tag… 
+</p>
+<p>Neben all den schnellen Rennboliden lag der Trend dieses Jahr in umweltschonenden, ökologischen Autos, so präsentiere zu meinem verwundern sogar Ferrari ein hybrides Auto.</p>
+<a href="http://www.flickr.com/photos/agentcmos/4440398517/" title="Ferrari Hybrid" class="image"><img src="http://farm3.static.flickr.com/2720/4440398517_08ee731529_b.jpg" alt="Ferrari Hybrid" /></a>
+<p>Das hybride Auto mag gut sein, doch ich denke für Frau und Herr Schweizer wäre eine andere Lösung noch effizienter, z.B. die Autos welche ganz auf Strom als Antriebskraft setzen, wie dies die Firma <a href="http://www.protoscar.com/">Protoscar</a> vorstellte. Okay, das Auto an sich könnte etwas vorteilhafter aussehen, doch sind es nicht die inneren Werte die zählen ;-)</p>
+<a href="http://www.flickr.com/photos/agentcmos/4441040334/" title="Protoscar Lampo2" class="image"><img src="http://farm5.static.flickr.com/4038/4441040334_d352736324_b.jpg" alt="Protoscar Lampo2" /></a>
+<p>
+Die technischen Daten des Lampo2 verheissen nämlich ein maximales Drehmoment von 640Nm welches das 1.5 Tonnen Elektro-Auto in ca. 5 Sekunden von 0 auf 100km/h beschleunigen kann. Der einizige Minuspunkt sehe in der geringen Reichweite von 200km, danach müssen die Akkus wieder geladen werden, dies dürfte aber bei unserem dichten Tankstellennetz kein Problem darstellen.</p><p> 
+Neben der Entwicklung des Prototypen beschäftigte sich Protoscar ebenfalls mit der Lade-Frage. So konnten mithilfe von Partnern, 3 verschiedene Ladetechniken, in Form von Strom-Tankstellen, entwickelt werden. Die offensichtlichste und günstigste Variante, das Aufladen über Nacht; daneben sind auch Ladestationen an öffentlichen Parkplätzen vorgesehen. Die schnellste Methode um den Akku wieder zu füllen soll eine 15 Minuten Schnellladung sein, so à la 'drink and drive' (nicht zu verwechseln mit <a href="http://www.vsr.ch/Kampagne2005/deutsch/index.htm">drink or drive</a>)</p><p> 
+Bei den aktuellen Strompreisen schlagen dabei, laut Protoscar, 100km Fahrdistanz mit ungefähr 2.40 Franken zu Buche, also im Endeffekt ein vielfaches weniger als was herkömmliche Brennstoffe kosten. Ich nehme jedoch an, sollten eines Tages ein Grossteil der Bevölkerung wirklich auf Elektroautos wie den Lampo2 umsteigen, so müssten die Stromlieferanten ihre Netzinfrastruktur nochmals für die nun grösseren Verbraucher umbauen, was bei der Stromladung eine Preiskorrektur nach oben bedeuten würde.</p>
+
+<p>Ich kann mir vorstellen, das solche Autos besonders für kleinere regional agierende Unternehmen und für Familien interessant sein werden. Bis ich das Kleingeld besitze um mir so ein Gefährt anzuschaffen muss ich wohl noch ein wenig Zug fahren, ist ja sowieso nochmals besser als jedes Elektro-Auto.</p>
+
+<p>Was ist eure Meinung zum Thema Autos mit Elektro-Antrieben? Eine Option bei der nächsten Anschaffung? Was spricht dagegen?
+</p>]]></content>
+      <post-name type="text"><![CDATA[Autosalon 2010 - Sind reine Elektroautos die Zukunft?]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+        <category ref="1ea27f94-7810-44c3-b930-d488f5627608" />
+      </categories>
+      <tags>
+        <tag ref="autosalon" />
+        <tag ref="genf" />
+        <tag ref="auto" />
+        <tag ref="protoscar" />
+        <tag ref="lampo2" />
+        <tag ref="elektroauto" />
+      </tags>
+    </post>
+    <post id="85df68da-72ee-42fe-b75e-f839de743067" date-created="2010-03-14T17:29:00" date-modified="2010-08-18T00:34:52" approved="true" post-url="/post/Foursquare-BlogEngineNET-Widget-Version-02.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Foursquare BlogEngine.NET widget version 0.2]]></title>
+      <content type="text"><![CDATA[<p><strong>Notice</strong><br/>
+There's a <a href="http://philippkueng.ch/post/Foursquare-BlogEngineNET-widget-version-03.aspx">newer release</a> available.</p>
+<img src="/image.axd?picture=2010%2f3%2ffoursquare-blogengine-widget-version-0.2.png" alt="Foursquare BlogEngine widget version 0.2" />
+<p>During the last week I've added <a href="http://maps.bing.com">Bing Maps</a> to the widget, so that you're last check-ins can be displayed on there.</p>
+<p><strong>Can I deactivate the map?</strong><br/>
+I've assumed that not all of you, would like to show your check-ins on the map aswell, so I've implemented the option to turn the map off.</p>
+<p><strong>Will the map play nicely with my current theme?</strong><br/>
+For everyone with a custom designed theme it sometimes can be frustrating adding another widget because you have to alter design settings everytime a new version comes out, to make this part easier, you can now edit the height and width settings in the edit section of the foursquare blogengine widget.</p>
+<p><strong>Where can I find the widget?</strong><br/>The <a href="http://4squarebewidget.codeplex.com/releases/view/41923">new release</a>, as all the other releases, is available at the <a href="http://4squarebewidget.codeplex.com">according codeplex site</a>.</p>
+<p><strong>Important</strong><br/>
+With the current version you'll still need to reset the application after you've uploaded the widget. Sorry for that.</p>
+]]></content>
+      <post-name type="text"><![CDATA[Foursquare BlogEngine.NET widget version 0.2]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="foursquare" />
+        <tag ref="4square" />
+        <tag ref="playfoursquare" />
+        <tag ref="blogengine" />
+        <tag ref="blogengine.net" />
+        <tag ref="widget" />
+      </tags>
+      <comments />
+      <trackbacks />
+    </post>
+    <post id="d7a71dd9-fd37-422d-b780-b455bced3d02" date-created="2010-03-08T23:00:00" date-modified="2010-03-08T06:51:33" approved="true" post-url="/post/TED-Vortrag-uber-Augmented-Reality-Karten.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[TED Vortrag von Microsoft über Augmented Reality Karten]]></title>
+      <content type="text"><![CDATA[<p>
+Heute möchte ich euch das <a href="http://www.ted.com/talks/blaise_aguera.html">TED Video über Augmented Reality Karten</a> präsentieren (Karten mit erweiterter Realität).  Weiss schon, Microsoft, da werden sicher wieder alle Apple und Google Fanatiker wegklicken, allerdings ist das deren Verlust, denn es lohnt sich allemal sich dieses Video zu Gemüte zu führen. Gezeigt wird die neueste Generation von Bing Maps (BM), die nun zumindest in den Städten der USA, einiges zu bieten hat und eventuell eine ernstzunehmende Konkurrenz für Google Maps (GM) werden könnte.
+</p>
+
+<img src="/image.axd?picture=2010%2f3%2fworld-wide-telescope-bing-maps.png" alt="WorldWideTelescope in Bing Maps" />
+<p><strong>WorldWideTelescope</strong><br/>
+Implementiert wurden unter anderem altbekannte Dinge wie Streetview, allerdings auch wirklich neue Features wie <a href="http://www.worldwidetelescope.org">WordWideTelescope</a> sobald in der Streetview Ansicht in den Himmel geschaut wird.
+</p>
+<img src="/image.axd?picture=2010%2f3%2fbackpack-bing-maps.png" alt="Rucksack Streetview in Bing Maps" />
+<p><strong>Lokale Photosynths und Indoor Streetview</strong><br/>
+Desweiteren sind diejenigen <a href="http://photosynth.net">Photosynths</a>, sogenannte 3-dimensionale Fotocollagen ,die mit GEO Daten versehen sind besonders herausgehoben, sodass die Gegend noch besser als mit Streetview erkundet werden kann, somit können auch Innenräume und Büros der Öffentlichkeit zugänglich gemacht werden. An den hochfrequentierten Orten setzte Microsoft teilweise schon Rucksackkameras ein, und das Resultat kann sich durchwegs sehen lassen.
+</p>
+
+<img src="/image.axd?picture=2010%2f3%2fflickr-integration-bing-maps.png" alt="Flickr Integration in Bing Maps" />
+<p><strong>Flickr Bilder präzise in Streetview eingebunden</strong><br/>
+In der Präsentation werden zudem Interaktionen mit GEO getaggten Flickr Bildern gezeigt, hier sehe ich den Anwendungszweck besonders in der Darstellung der Veränderung eines Ortes. So könnte man sich sicher schneller wieder an Orten zurechtfinden, die man seit Jahrzehnten nicht mehr besucht hat oder aber auch einfach um der Bevölkerung die Geschichte eines Ortes näherzubringen.
+</p>
+
+<img src="/image.axd?picture=2010%2f3%2fvideo-bing-maps.png" alt="Live Video Integration in Bing Maps" />
+<p><strong>Live Video in Karten Material eingebettet</strong><br/>
+Zuletzt folgt das beste, die Live-Video Integration. Keine Ahnung wie die das Signal immer richtig an den schon vorhandenen BM Bildern ausgerichtet haben, allerdings wäre so was an einem Live Event der Hit, man stelle sich sowas an Olympischen Spielen vor.
+</p>
+
+<p><strong>Eingeschränkte Nutzung da Silverlight nicht überall installiert ist</strong><br/>
+Der einzige negativ Punkt sehe ich in der konsequenten Verwendung von Silverlight (SL). Kann mir schon vorstellen das Video Integration mir Javascript (JS) wohl eher eine ungemütliche Angelegenheit wäre, doch schliesst SL bereits wieder einige Internet Benutzer aus. Vielleicht wäre hier eine HTML5 Version denkbar? 
+Die Basis Version von BM ist aber nach wie vor in der HTML mit JS Version verfügbar, halt ohne Glossy Features.
+</p>
+<p>Bis dato gelang es mir leider nicht diese Features selbst zu testen da die Version die präsentiert wurde eine private TP (Technology Preview) war. Da hilft wohl nur warten und Däumchen drehen.
+</p>
+<p>Was meint ihr zu den Augmented Reality Karten? Traut euch, nur zu...
+</p>
+
+<object width="666" height="454">
+        <param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf">
+        </param>
+        <param name="allowFullScreen" value="true" />
+        <param name="wmode" value="transparent"></param>
+        <param name="bgColor" value="#ffffff"></param>
+        <param name="flashvars" value="vu=http://video.ted.com/talks/dynamic/BlaiseAguerayArcas_2010-medium.mp4&su=http://images.ted.com/images/ted/tedindex/embed-posters/BlaiseAgueraYArcas-2010.embed_thumbnail.jpg&vw=652&vh=368&ap=0&ti=766&introDuration=16500&adDuration=4000&postAdDuration=2000&adKeys=talk=blaise_aguera;year=2010;theme=the_creative_spark;theme=a_taste_of_ted2010;theme=new_on_ted_com;event=TED2010;&preAdTag=tconf.ted/embed;tile=1;sz=512x288;" />
+        <embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" pluginspace="http://www.macromedia.com/go/getflashplayer"
+            type="application/x-shockwave-flash" wmode="transparent" bgcolor="#ffffff" width="666"
+            height="468" allowfullscreen="true" flashvars="vu=http://video.ted.com/talks/dynamic/BlaiseAguerayArcas_2010-medium.mp4&su=http://images.ted.com/images/ted/tedindex/embed-posters/BlaiseAgueraYArcas-2010.embed_thumbnail.jpg&vw=652&vh=368&ap=0&ti=766&introDuration=16500&adDuration=4000&postAdDuration=2000&adKeys=talk=blaise_aguera;year=2010;theme=the_creative_spark;theme=a_taste_of_ted2010;theme=new_on_ted_com;event=TED2010;"></embed></object>]]></content>
+      <post-name type="text"><![CDATA[TED Vortrag von Microsoft über Augmented Reality Karten]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="ted" />
+        <tag ref="augmented reality" />
+        <tag ref="bing" />
+        <tag ref="maps" />
+        <tag ref="streetview" />
+      </tags>
+    </post>
+    <post id="8240c56f-53fa-4d55-961a-3936afa01698" date-created="2010-03-01T03:04:00" date-modified="2010-08-18T00:34:50" approved="true" post-url="/post/Foursquare-BlogEngineNET-Widget.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Foursquare BlogEngine.NET widget]]></title>
+      <content type="text"><![CDATA[<p><strong>Notice</strong><br/>There's a <a href="http://philippkueng.ch/post/Foursquare-BlogEngineNET-widget-version-03.aspx">newer release</a> available.</p>
+<img src="/image.axd?picture=2010%2f2%2ffoursquare-logo.png" alt="foursquare log" />
+<p>Last Sunday I decided to build a <a href="http://foursquare.com">foursquare</a> sidebar widget for <a href="http://www.dotnetblogengine.net/" alt="BlogEngine.NET">BlogEngine.NET</a> since there wasn't anything around yet. The <a href="http://4squarebewidget.codeplex.com/releases/view/41093">current version</a> simply shows the last places you've checked-in and is mostly based on the twitter widget from <a href="http://madskristensen.net/">Mads Kristensen</a>.</p> 
+<img src="/image.axd?picture=2010%2f2%2ffoursquare-blogengine-widget.png" alt="blogengine sidebar widget for foursquare" />
+<p><strong>Requirements</strong><br/>
+In order to use the widget you will need to have .NET 3.5 installed on your server. I will probably  port everything to .NET 2.0 later, but since I was used to work with LINQ, I implemented everything in .NET 3.5.
+</p>
+<p><strong>Installation</strong><br/>
+First of all download the current version available at <a href="http://4squarebewidget.codeplex.com/">codeplex</a>. Extract it and upload everything to your BlogEngine directory into the widgets folder. If you've uploaded the files and switched your current BlogEngine installation to .NET 3.5 you're ready to open your site in the browser and add the widget to the sidebar.<br/>
+After you've added the widget, you'll have to specify some settings regarding your foursquare feeds. Simply open <a href="http://feeds.foursquare.com" alt="foursquare feeds">http://feeds.foursquare.com</a> and copy-paste the urls for the rss and kml feeds into the according input fields inside the foursquare widget edit section. Then go to your foursquare page by clicking on me in the navigation bar at the top, copy and paste the url into the account url input field. Next decide how much your feed should be requested from foursquare. But keep in mind, that if you choose the number of request per hour to high you might get blocked by foursquare. I guess every 15 minutes should already be enough for the average user. Finally choose how many check-ins you want to display on your blog. Next save your settings, and then you're ready to enjoy foursquare together with BlogEngine.NET.
+
+</p>
+<p><strong>Important</strong><br/>
+It's possible that the BlogEngine application has to be restarted, after you have added the foursquare widget.
+</p>
+<p>If you have any suggestions or ideas how the widget can be extended or improved please feel free to leave a comment, <a href="http://philippkueng.ch/contact.aspx">send me an email</a> or contact me via <a href="http://twitter.com/agentcmos">twitter</a>.</p>]]></content>
+      <post-name type="text"><![CDATA[Foursquare BlogEngine.NET widget]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="af99e3c2-ae34-4a23-aa4f-404e4a9f21f1" />
+      </categories>
+      <tags>
+        <tag ref="foursquare" />
+        <tag ref="4square" />
+        <tag ref="playfoursquare" />
+        <tag ref="blogengine" />
+        <tag ref="blogengine.net" />
+        <tag ref="widget" />
+      </tags>
+      <comments />
+      <trackbacks />
+    </post>
+    <post id="f55e0d06-3db4-4088-9424-a0f0cd22af69" date-created="2010-02-22T16:06:00" date-modified="2010-02-22T16:12:33" approved="true" post-url="/post/Widescreen-Wallpaper-von-British-Columbia-Canada.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Widescreen Wallpaper von Alberta und British Columbia, Canada]]></title>
+      <content type="text"><![CDATA[<p><img src="/image.axd?picture=2010%2f2%2fbritish-columbia-canada.png" alt="" /></p>
+<p>Im Sommer 2008 gerade nach erfolgreich bestandener Matur war ich zusammen mit einem Freund im Westen Canadas unterwegs. Dabei entstanden einige Panoramas welche nun endlich zusammengesetzt wurden. (ich weiss... k&ouml;nnte schneller gehen ;-)</p>
+<p>Diese Panoramas lassen sich exzellent f&uuml;r Dualscreen PC Systeme als Hintergrundbild nutzen. Die maximale Aufl&ouml;sung ist jeweils 3840x1200 Pixel was f&uuml;r zwei 24 Zoll Monitore ausreichen sollte. Damit nicht alle Bilder einzeln heruntergeladen werden m&uuml;ssen, kann man auch das <br /><a href="/file.axd?file=2010/2/Widescreen-Wallpaper-Alberta-und-British-Columbia,-Canada.themepack">Windows 7 Themepack</a> herunterladen.</p>
+<p><br /><strong>Whistler Blackcomb mit Ilanaaq links</strong></p>
+<p><a class="image" title="Whistler Blackcomb mit Ilanaaq links by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355823919/"><img src="http://farm3.static.flickr.com/2726/4355823919_0aeee47ee7_b.jpg" alt="Whistler Blackcomb mit Ilanaaq links" /></a></p>
+<p><br /><strong>Nanaimo auf Vancouver Island</strong></p>
+<p><a class="image" title="Nanaimo auf Vancouver Island by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355932321/"><img src="http://farm5.static.flickr.com/4002/4355932321_6595d4312f_b.jpg" alt="Nanaimo auf Vancouver Island" /></a></p>
+<p><br /><strong>Kelowna</strong></p>
+<p><a class="image" title="Kelowna by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355930295/"><img src="http://farm5.static.flickr.com/4050/4355930295_fa9f59db39_b.jpg" alt="Kelowna" /></a></p>
+<p><br /><strong>Drumheller</strong></p>
+<p><a class="image" title="Drumheller by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4356620810/"><img src="http://farm5.static.flickr.com/4072/4356620810_0040162104_b.jpg" alt="Drumheller" /></a></p>
+<p><br /><strong>Maligne Lake</strong></p>
+<p><a class="image" title="Maligne Lake by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4356617890/"><img src="http://farm5.static.flickr.com/4005/4356617890_db84978ba6_b.jpg" alt="Maligne Lake" /></a></p>
+<p><br /><strong>Valley of the five lakes</strong></p>
+<p><a class="image" title="Valley of the five lakes by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4356614516/"><img src="http://farm5.static.flickr.com/4013/4356614516_d31c036eff_b.jpg" alt="Valley of the five lakes" /></a></p>
+<p><br /><strong>Valley of the five lakes</strong></p>
+<p><a class="image" title="Valley of the five lakes by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355859493/"><img src="http://farm3.static.flickr.com/2660/4355859493_bbc337c730_b.jpg" alt="Valley of the five lakes" /></a></p>
+<p><br /><strong>See oberhalb von Lake Louise</strong></p>
+<p><a class="image" title="See oberhalb von Lake Louise by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355850417/"><img src="http://farm5.static.flickr.com/4064/4355850417_300760d494_b.jpg" alt="See oberhalb von Lake Louise" /></a></p>
+<p><br /><strong>Lake Minnewanka</strong></p>
+<p><a class="image" title="Lake Minnewanka in der n&auml;he von Banff by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355847587/"><img src="http://farm3.static.flickr.com/2769/4355847587_5770f64c7b_b.jpg" alt="Lake Minnewanka in der n&auml;he von Banff" /></a></p>
+<p><br /><strong>Lake Minnewanka</strong></p>
+<p><a class="image" title="Lake Minnewanka in der n&auml;he von Banff by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355845207/"><img src="http://farm3.static.flickr.com/2736/4355845207_58ce39c637_b.jpg" alt="Lake Minnewanka in der n&auml;he von Banff" /></a></p>
+<p><br /><strong>See auf dem Weg von Vancouver auf Banff</strong></p>
+<p><a class="image" title="See auf dem Weg von Vancouver auf Banff by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4356588258/"><img src="http://farm5.static.flickr.com/4069/4356588258_4c5eafabee_b.jpg" alt="See auf dem Weg von Vancouver auf Banff" /></a></p>
+<p><br /><strong>See in der n&auml;he von Whistler Bungee</strong></p>
+<p><a class="image" title="See in der n&auml;he von Whistler Bungee by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355840019/"><img src="http://farm3.static.flickr.com/2687/4355840019_823aa7fbed_b.jpg" alt="See in der n&auml;he von Whistler Bungee" /></a></p>
+<p><br /><strong>Grouse Mountain bei Vancouver</strong></p>
+<p><a class="image" title="Grouse Mountain bei Vancouver by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4356567192/"><img src="http://farm5.static.flickr.com/4012/4356567192_2c95f9b5f3_b.jpg" alt="Grouse Mountain bei Vancouver" /></a></p>
+<p><br /><strong>Insel nahe Tofino auf Vancouver Island</strong></p>
+<p><a class="image" title="Insel nahe Tofino auf Vancouver Island by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355801673/"><img src="http://farm5.static.flickr.com/4054/4355801673_a93e0891d3_b.jpg" alt="Insel nahe Tofino auf Vancouver Island" /></a></p>
+<p><br /><strong>Vancouver Island</strong></p>
+<p><a class="image" title="Vancouver Island by Philipp K&uuml;ng, on Flickr" href="http://www.flickr.com/photos/agentcmos/4355793519/"><img src="http://farm3.static.flickr.com/2703/4355793519_b604bc0db7_b.jpg" alt="Vancouver Island" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[Widescreen Wallpaper von Alberta und British Columbia, Canada]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ce9e5233-593e-4b42-a1d1-29227a7fd061" />
+      </categories>
+      <tags>
+        <tag ref="wallpaper" />
+        <tag ref="dualscreen" />
+        <tag ref="canada" />
+        <tag ref="vancouver" />
+        <tag ref="whistler" />
+        <tag ref="vancouver island" />
+        <tag ref="banff" />
+        <tag ref="panorama" />
+      </tags>
+    </post>
+    <post id="1840ff5f-26cd-4dbe-8bf2-6915f94d23e8" date-created="2010-02-16T03:02:00" date-modified="2012-01-05T08:26:30" approved="true" post-url="/post/Zune-Software-Cache-verschieben.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Zune Software Cache verschieben]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f2%2fzune-software-quickplay.png" alt="Zune Software Quickplay" style="border: none;"/>
+<p>Die Zune Software das schöne Pendant zu Apples iTunes ist bei mir die wahrscheinlich am meisten genutzte Applikation neben dem Twitterclient, Outlook und dem Browser. 
+<br/>Damit das Programm schön flüssig läuft und die <a href="http://de.wikipedia.org/wiki/Vodcast">Vodcasts</a> auch möglichst schnell mit dem Gerät synchronisiert werden können, werden die Videos vorkonvertiert und im Cache gespeichert.</p>
+<p>Falls man ohnehin schon knapp an Speicherplatz auf dem C Laufwerk ist dürfte das cachen womöglich eine mittlere Katastrophe auslösen. Damit es nicht so weit kommt kann man den Cache Speicher einschränken was eine Performance einschränkung bedeutet oder man verschiebt den Cache Ordner einfach auf ein anderes Laufwerk. Somit gewinnt man ruckzuck ca. 7GB an Speicherplatz was den Computer unter umständen wieder recht beschleunigen kann.</p>
+<p><strong>Wie verschiebt man den Cache der Zune Software?</strong><br/>
+Nach dem starten der Applikation klickt man rechts oben auf <strong>Einstellungen</strong></p><img src="/image.axd?picture=2010%2f2%2fzune-software-einstellungen.png" alt="Zune Software Einstellungen" /><p>und danach auf <strong>gerät</strong></p><img src="/image.axd?picture=2010%2f2%2fzune-software-geraet.png" alt="Zune Software Gerät Einstellungen" /><p>und nun auf <strong>Konvertierungseinstellungen</strong>. Unter dem Punkt <strong>Konvertierungsort</strong> ist es möglich den neuen Speicherort des Caches festzulegen.</p><img src="/image.axd?picture=2010%2f2%2fzune-software-konvertierungseinstellungen-und-cache.png" alt="Zune Software Konvertierungseinstellungen" /><p>Nach dem Klick auf OK werden sämtliche Cache Dateien an den neuen Speicherort verschoben.
+</p>]]></content>
+      <post-name type="text"><![CDATA[Zune Software Cache verschieben]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="zune" />
+        <tag ref="software" />
+        <tag ref="cache" />
+        <tag ref="verschieben" />
+        <tag ref="microsoft" />
+      </tags>
+    </post>
+    <post id="47421f53-076d-4c6c-8d81-d3d8e295e7cd" date-created="2010-02-02T03:06:00" date-modified="2010-02-02T03:07:38" approved="true" post-url="/post/Automatische-MySQL-Backups-mit-MySQL-Administrator-unter-Windows-Vista-7.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Automatische MySQL Backups mit MySQL Administrator unter Windows Vista / 7]]></title>
+      <content type="text"><![CDATA[<p>Letzte Woche haben wir gesehen wie man den <a href="http://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Webspace sichern</a> kann. Dieses mal werden wir uns ums Backup der MySQL Datenbank kümmern. 
+Kurz vorweg, ich werde ich in diesem Beitrag nur über das sichern einer von aussen zugänglichen Datenbank schreiben. Ebenfalls ist das hier gezeigte für Windows Vista / 7 vorgesehen.
+</p>
+<p>
+Bevor wir mit der eigentlichen Sicherung beginnen können, muss ein Passwort für das aktuelle Benutzerkonto vergeben werden. Um dies zu bewerkstelligen auf <i>Start > Systemsteuerung > Benutzerkonten</i> klicken und <i>Kennwort für das eigene Konto erstellen</i> anwählen. Passwort eingeben und bestätigen.
+</p>
+<p>
+<strong>Hinweis:</strong> Durch das hinzufügen eines Passwortes wird nun jedes mal nach dem Ruhezustand oder beim Hochfahren nach dem Kennwort gefragt. Für die Eingabe beim Hochfahren gibt es allerdings einen Trick sodass man es nie wieder eingeben muss und der Computer immer direkt ins Konto startet. 
+</p>
+<p>
+<strong>Lösung:</strong> Klicke auf Start und gib ins Suchfeld <i>netplwiz</i> ein. Wähle nun das aktuelle Konto an, und entferne das Häkchen bei <i>Benutzer müssen Benutzernamen und Kennwort eingeben</i>. Nach einem klick auf Übernehmen sollte der Computer beim nächsten Starten nicht wieder nach dem Kennwort verlangen.
+</p>
+<p>Nachdem die Passwort Angelegenheiten geklärt sind können wir endlich mit der Sicherung der DB beginnen. Dafür benötigen wir das Programm MySQL Administrator welches Bestandteil der <a href="http://dev.mysql.com/downloads/gui-tools/5.0.html">MySQL GUI Tools</a> ist. Am einfachsten die Windows (x86) Variante (aktuell Version 5.0-r17) auswählen und herunterladen.
+</p>
+<p>
+<strong>Passwort Speicher</strong><br/>Sobald das Software Paket installiert ist, kann man den MySQL Administrator mit der Angabe der Datenbank Daten starten. Damit die Backups automatisch ablaufen, müssen die Passwörter für den Windows Benutzer Account und die MySQL Datenbanken gespeichert werden. Klicke dafür in der Menüleiste auf <i>Tools</i> gefolgt von <i>Options</i>. Aktiviere das Häkchen bei <i>Store passwords</i> und wähle für <i>Password storage method</i> die Option <i>Obscured</i> aus. Bestätige alles mit einem klick auf <i>Apply</i> und anschliessend <i>Close</i>.
+</p>
+<img src="/image.axd?picture=2010%2f2%2fmysql-administrator-options-password.png" alt="MySQL Administrator Options Window" />
+<p>
+<strong>Sicherungsprojekt erstellen</strong><br/>Nun zum Backup, klicke in der linken Spalte auf <i>Backup</i> und dann auf den Knopf <i>New Project</i>.Gib einen Namen für die Sicherung ein und füge zu sichernde Datenbanken mit eine klick auf den <i>></i> Knopf hinzu. Sobald alle notwendigen DBs hinzugefügt wurden, kann auf den Tab Reiter <i>Schedule</i> geklickt werden um die Sicherungsintervalle festzulegen. 
+</p>
+<img src="/image.axd?picture=2010%2f2%2fmysql-administrator-create-backup.png" alt="MySQL Administrator Backup erstellen" />
+<p><strong>Sicherungsintervalle einstellen</strong><br/>Setze zuerst das Häkchen bei <i>Schedule this backup project</i> und gib den Pfad und den Dateinamen an unter welchem die MySQL Datei auf dem Computer abgelegt werden soll. Weiter unten findet man die ziemlich selbst erklärenden Einstellungen wo festgelegt werden kann wann und in welchen Abständen eine Sicherungskopie gemacht wird. Falls alle Variablen gemäss den individuellen Anforderungen eingestellt sind genügt ein klick auf <i>Save</i> und die Angabe des Passwortes des aktuellen Windows Benutzerkontos um die automatischen Backups zu aktivieren.
+</p>
+<img src="/image.axd?picture=2010%2f2%2fmysql-administrator-schedule-backup.png" alt="" />
+<p>
+<strong>Tipp:</strong> Der Speicherort für die .sql Datei sollte falls möglich nicht auf dem C Laufwerk liegen, da das Backup sonst aus Grund ungenügender Rechte scheitern könnte.
+</p>]]></content>
+      <post-name type="text"><![CDATA[Automatische MySQL Backups mit MySQL Administrator unter Windows Vista / 7]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="sicherung" />
+        <tag ref="backup" />
+        <tag ref="mysql" />
+        <tag ref="datenbank" />
+        <tag ref="administrator" />
+        <tag ref="windows" />
+        <tag ref="automatisch" />
+      </tags>
+    </post>
+    <post id="8c496bfb-5625-462a-bbdc-8c76e262af5a" date-created="2010-01-26T03:55:00" date-modified="2010-04-28T08:03:37" approved="true" post-url="/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Website mit WGET und einer Batch Datei sichern]]></title>
+      <content type="text"><![CDATA[<p>Computer Backups sind wie gesunde Ern&auml;hrung. Man <s>verdr&auml;ngt</s> vergisst sie aus Bequemlichkeit bis es zu sp&auml;t ist. Dabei w&auml;ren zumindest Website Backups so einfach zu bewerkstelligen. Wie das genau geht werde ich in mehreren Teilen zeigen.</p>
+<p>Um den Speicherplatz mit all den wichtigen Bildern und Dateien zu sichern bedienen wir uns des unter der <a href="http://en.wikipedia.org/wiki/GPLv3#Version_3">GPL Version 3 Lizenz</a> stehenden <a href="http://www.gnu.org/software/wget/">WGET</a> Programms. Da WGET in <a href="http://de.wikipedia.org/wiki/C_(Programmiersprache)">C</a> geschrieben ist, sollten &auml;hnliche Backup Methoden mit diesem Programm auch auf anderen Betriebssystemen m&ouml;glich sein. Der Einfachheit halber (und weil ich kein Mac besitze) werde ich hier jedoch nur die Sicherung unter Windows demonstrieren.</p>
+<p><strong>Zuerst einmal was ist eine Batch Datei?</strong><br/>
+Eine Batch Datei ist eine normale Text Datei mit der Endung .txt. Der einfachste Weg die Text Datei in eine Batch Datei zu verwandeln ist, diese in Notepad zu &ouml;ffnen, und danach auf Datei &gt; Speichern unter zu klicken. Im nun erscheinenden Dialog w&auml;hlt man f&uuml;r Dateityp Alle Dateien (*.*) aus. Nun kann der neue Dateinamen mit der Endung .bat eingegeben werden. <i>Bsp.: website-sicherung.bat</i>. Danach auf Speichern klicken und man hat eine eigene Batch Datei erstellt.</p><img src="/image.axd?picture=2010%2f1%2fwebsite-sicherung-bat-notepad.png" alt="Batch Datei in Notepad erstellen" /><p>Die Anweisungen, welche in die Batch Datei kommen sind aufgebaut wie folgt. <br/><strong>Wichtig:</strong> Es gilt alles auf nur eine Linie zu schreiben, da dies sonst als 2 verschiedene Befehle interpretiert wird. <span class="code">[Speicherort der wget.exe Datei] -P[Speicherort der lokalen Website Kopie] ftp://[FTP Benutzername]:[FTP Passwort]@[FTP Domain] -m</span></p>
+<p><strong>Speicherort der WGET Datei</strong><br/>
+Dabei gilt es zu beachten, dass falls der Pfad der WGET Datei Leerzeichen enth&auml;lt, alles mit Anf&uuml;hrungszeichen geschrieben werden muss ansonsten interpretiert der Computer die Zeichen nach dem ersten Leerzeichen als Variable f&uuml;r das Programm. <i>Bsp.: "C:\wget ordner\wget.exe"</i></p>
+<p><strong>Speicherort der lokalen Website Kopie</strong><br/>
+Das Zeichen -P kennzeichnet den nachfolgenden Pfad als Speicherort f&uuml;r die heruntergeladenen Dateien. Es ist wichtig das kein Leerzeichen zwischen -P und dem Nachfolgenden Pfad ist, da WGET sonst annimmt der Speicherort sei Leer. <i>Bsp.: -P"C:\website sicherung"</i></p>
+<p><strong>FTP</strong><br/>
+Nach dem Speicherort der Daten kommen die FTP Angaben. Da diese sehr unterschiedlich von der eigentlichen Website sein k&ouml;nnen, empfehle ich hier das jeweilige Datenblatt vom Hosting Anbieter anzuschauen. <i>Bsp.: ftp://admin:passwort@ftp.example.com/</i></p>
+<p><strong>Kopierverfahren</strong><br/>
+Zum Schluss folgen die Zeichen -m, was bedeutet das ein Mirroring (exakte Kopie) erstellt wird.</p>
+<p>Nachdem nun alle Parameter gekl&auml;rt sind, kann das Beispiel Kommando zusammengesetzt werden. <span class="code">"C:\wget ordner\wget.exe" -P"C:\website sicherung" ftp://admin:passwort@ftp.example.com/ -m</span></p><p><strong>Tipp f&uuml;r Windows Vista / 7 Benutzer:</strong> Falls die Website Kopie auf dem C Laufwerk gespeichert werden sollen, sind evt. Administrator Rechte notwendig.</p>
+<p>Schritt 2 wird sich um das sichern der Datenbank drehen und n&auml;chsten Montag hier erscheinen.</p>]]></content>
+      <post-name type="text"><![CDATA[Website mit WGET und einer Batch Datei sichern]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="wget" />
+        <tag ref="gnu" />
+        <tag ref="batch" />
+        <tag ref="backup" />
+        <tag ref="website" />
+        <tag ref="webspace" />
+      </tags>
+    </post>
+    <post id="5f5db259-52bb-43d5-b1be-1711015dc54c" date-created="2010-01-19T22:03:00" date-modified="2010-03-10T01:41:09" approved="true" post-url="/post/Oracle-Sun-und-OpenOfficeorg.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Oracle, Sun und OpenOffice.org]]></title>
+      <content type="text"><![CDATA[<p>Wer an der ETH Zürich studiert muss sich wärend seiner Zeit Punkte in Geisteswissenschaftlichen Fächern (sogenannten <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/sucheLerneinheiten.do?lang=de&search=on&semkez=2010S&studiengangTyp=&deptId=&studiengangAbschnittId=37801&bereichAbschnittId=&unterbereichAbschnittId=&lerneinheitstitel=&lerneinheitscode=&famname=&rufname=&wahlinfo=&lehrsprache=&katalogdaten=&search=Suchen">D-GESS</a>) erarbeiten, damit soll das züchten von ahnungslosen Elite-Zombies verhindert werden. 
+Um meine Punkte zu sammeln trug ich mich in das Pflichtwahlfach <a href="http://digisus.info/blog/">'Digitale Nachhaltigkeit in der Wissensgesellschaft' von Marcus M. Dapp</a> ein. 
+Getreu dem Motto, D-GESS ist nicht einfach eine weitere Vorlesung, war auch die Aufgabenstellung innerhalb des Semesters eine andere. Gefragt war eine Schriftliche Arbeit und eine dazugehörige Präsentation. Was natürlich schon Welten besser ist als die sonst üblichen Semester Prüfungen. 
+Nach einigem Überlegen wählte ich die aktuelle Thematik rund um die Übernahme von Sun durch Oracle und was dies für Sun's OpenOffice.org (kurz OO.o) bedeuten wird. Ob eine Software Stiftung allenfalls in Frage kommt? Was sind andere erfolgreiche Stiftungen im Software Sektor? Was sind deren Vor- und Nachteile? - Dies und weitere Fragen werden sich hoffentlich nach dem lesen <a href="/file.axd?file=2010%2f1%2fDigitale+Nachhaltigkeit+-+Oracle+Sun+und+Open+Office_final.pdf">meiner Arbeit</a> erübrigen (ca. 90kB). Zusätzlich sind unten auch die Slides eingebettet, jedoch leider ohne Ton, da ich den vergessen habe aufzunehmen (ist vielleicht auch besser so ;-)
+</p>
+<div style="width:666px;text-align:left" id="__ss_2928863"><object style="margin:0px" width="666" height="556"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=oraclesunundopenoffice-org-100116093101-phpapp02&rel=0&stripped_title=oracle-sun-und-openofficeorg" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=oraclesunundopenoffice-org-100116093101-phpapp02&rel=0&stripped_title=oracle-sun-und-openofficeorg" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="666" height="556"></embed></object></div>
+<p>Das Highlight war jedoch, als eine Woche später <a href="http://en.wikipedia.org/wiki/Simon_Phipps_(programmer)">Simon Phipps</a> von der OpenSource Abteilung von Sun Microsystems an der ETH zu Besuch war, und auch die Vorlesung besuchte. Da er weitestgehend derjenige ist, der Entscheiden muss / kann wie OO.o zukünftig behandelt wird. Leider konnte er sich nicht wirklich zu der Übernahme äussern da diese noch nicht abgeschlossen ist. Doch vermittelte er uns Anwesenden viel prektisches Wissen wie Firmen mit OpenSource umgehen, und damit trotz allen Widerständen gut Gewinn erzielt werden kann.</p>
+<img src="/image.axd?picture=2010%2f1%2fSimon-Phipps.jpg" alt="Simon Phipps - Sun Microsystems" />
+<p><strong>Korrektur</strong><br/>Wie Stephan in dem Forum Eintrag <a href="http://de.openoffice.info/viewtopic.php?f=16&t=34701">'Zukunft von OpenOffice nach Sun-Übernahme'</a>  hingewiesen hat, kann eine bestehende GPL Lizenz (auch LPGL und dessen verwandte) nicht zurückgezogen werden. D.h. Oracle könnte die Lizenz der aktuellen, unter der GPL Lizenz erhältlichen, Version nicht ändern, sondern lediglich eine spätere Version unter einer neuen Lizenz veröffentlichen.</p>]]></content>
+      <post-name type="text"><![CDATA[Oracle, Sun und OpenOffice.org]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+      <tags>
+        <tag ref="sun" />
+        <tag ref="oracle" />
+        <tag ref="openoffice.org" />
+        <tag ref="oo.o" />
+        <tag ref="eth" />
+        <tag ref="ethz" />
+      </tags>
+    </post>
+    <post id="e0324203-2f05-4165-a734-f4cac88ae2db" date-created="2010-01-18T21:05:00" date-modified="2010-01-18T22:44:36" approved="true" post-url="/post/Landschaftstreffen-2010-in-Siebnen.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Landschaftstreffen 2010 in Siebnen]]></title>
+      <content type="text"><![CDATA[<p>Am 16.-17.01.2010 war mein Zuhause ganz im Zeichen der Fasnacht. Über 4000 regionale und internationale kostümierte besuchten uns anlässlich des Landschaftstreffens und marschierten bei der über 3 stündigen Parade durch Siebnen (SZ) mit.</p>
+<object width="666" height="500"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157623234246576%2Fshow%2F&page_show_back_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157623234246576%2F&set_id=72157623234246576&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157623234246576%2Fshow%2F&page_show_back_url=%2Fphotos%2Fagentcmos%2Fsets%2F72157623234246576%2F&set_id=72157623234246576&jump_to=" width="666" height="500"></embed></object>
+<p>Die deutsche Hexengruppe (in den 2 letzten Bildern der Slideshow sichtbar) enterte sogar unseren Balkon indem sie über den Wasserabfluss Schacht hochkletterten.</p>
+<p>Auch das Fernsehen von <a href="http://www.telezueri.ch">Tele Züri</a> war mit <a href="http://www.telezueri.ch/index.php?id=60814">Benno Kaelin</a> anwesend und berichtete in den Abendnachrichten davon.</p>
+<object width="666" height="401"><param name="movie" value="http://www.youtube.com/v/2t6TAJ0YxGo&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2t6TAJ0YxGo&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="666" height="401"></embed></object>]]></content>
+      <post-name type="text"><![CDATA[Landschaftstreffen 2010 in Siebnen]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="fasnacht" />
+        <tag ref="landschaftstreffen" />
+        <tag ref="siebnen" />
+        <tag ref="narren" />
+      </tags>
+    </post>
+    <post id="c9d1255f-6a53-4815-b4b5-32bed451ac68" date-created="2010-01-06T22:06:00" date-modified="2012-01-05T08:32:15" approved="true" post-url="/post/Eine-Woche-mit-Jolicloud-Erfahrungsbericht.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Eine Woche mit Jolicloud - Ein Erfahrungsbericht]]></title>
+      <content type="text"><![CDATA[<img src="/image.axd?picture=2010%2f1%2fjolicloud-logo.png" alt="" />
+<p>In der letzten Semesterwoche vor den Studienferien habe ich mich einem radikalen Test unterzogen. Die Idee war eine Woche nur mit <a href="http://www.jolicloud.com">Jolicloud</a> OS zu arbeiten (wenigstens auf dem Laptop) um danach objektiv ein Urteil über das Produkt fällen zu können.</p>
+<strong>Microsoft OneNote und Windows Live Writer vs. OpenOffice.org</strong><br/>
+<img src="/image.axd?picture=2010%2f1%2fOneNote_und_Windows_Live_Writer_vs_OOo_und_Dropbox_Sketch.jpg" alt="" />
+<p>Zu allererst mussten natürlich passende Programme gefunden werden wie ich sie in der Windows Welt verwende. Trotz <a href="http://de.wikipedia.org/wiki/Wine">Wine</a> das per Jolicloud problemlos installiert werden konnte brachte ich es nicht fertig Microsoft OneNote oder <a href="http://download.live.com">Windows Live Writer</a> zu installieren, wäre wohl auch zu einfach gewesen ;-). Das Problem hätte mit einer virtuellen Windows Machine gelöst werden können. Jedoch virtuelle Maschine auf Netbook, keine besonders gute Idee! Daher musste ich wohl oder übel darauf verzichten.</p>
+<p>Doch zum Glück gab es da noch Evernote, das sogar auch per Jolicloud installiert werden konnte. Naiv installierte ich es mit einem klick auf das schöne Evernote Icon, doch musste danach feststellen das dies lediglich ein Bookmark für Firefox war das auf <a href="http://www.evernote.com">Evernote.com</a> verwies. Das ganze wäre nicht weiter schlimm, könnte ich ein Mobiles Internet Abo mein eigen nennen, ohne ist es dann aber einfach nur nutzlos. Evernote aufgeben stand noch nicht zur Debatte, so versuchte ich es mit der Evernote Beta Installation 3.5 unter Wine. Die Beta benötigte leider das .NET Framework 3.5 SP1 woran dann auch dieser Versuch scheiterte. Glücklicherweise funktionierte dann die letzte Variante, nämlich die finale 3.1 Version für Windows unter Wine. Zum schreiben genügt Evernote 3.1 gerade, doch brauchte es Aufgrund der Emulation viel mehr Batterie, hat komische PNG Fehler wie in IE6 und ist auch nicht sonderlich schnell. Daher entschied ich mich nach noch einer anderen Alternative zu suchen.</p>
+<p>OpenOffice.org im Zusammenhang mit Dropbox war die nächstliegende und vermutlich beste Wahl. Die 1-Klick installation per Jolicloud funktionierte Problemlos und auch Dropbox lies sich ohne murren einrichten.</p>
+<p><em>Nebenbei auch das Team von Jolicloud findet diese Lösung genial, sodass sie sie ausbauen wollen wie, im Interview mit Techcrunch Michael Arrington, verkündet wurde (Video unten).
+</em></p><object width="666" height="400"><param name="movie" value="http://www.youtube.com/v/5-foFuQkL1I&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5-foFuQkL1I&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="666" height="400"></embed></object>
+<br/><br/><strong>Gute Performance</strong><br/>
+<img src="/image.axd?picture=2010%2f1%2fJolicloud_Performance.jpg" alt="" />
+<p>Bezüglich der Geschwindigkeit kann ich nur bedingt Auskunft geben, da Jolicloud auf einem 16GB USB Stick installiert wurde und nicht wie normalerweise auf der internen Festplatte. Auch die Hardware ein HP 2710P (obwohl schon 1.5 Jahre alt) liegt in der Leistungsklasse einiges höher als ein Durchschnitts-Netbook.</p><p>Die Startzeiten bei meiner Konstellation ist bei ca. 40 Sekunden verglichen mit dem Windows 7 das auf der internen Festplatte installiert ist und ca. 50 Sekunden benötigt.
+Jolicloud muss glücklicherweise nach dem hochfahren nicht mehr unnötig Programme oder deren Teile nachladen, sodass angeklickte Programme starten wie wenn der Computer schon einige Zeit gelaufen wäre. (Was ja bei Windows nicht immer der Fall ist ;-) <br/>Das allerdings auch Jolicloud nicht perfekt ist zeigte sich, als ich den Standby oder Ruhezustand Betrieb wechseln wollte. Die Abschaltphase dauerte ungefähr so lange wie wenn man den Computer ganz herunterfahren wollte. Der spätere Warm-Start benötigte danach ungefähr so lange wie wenn man den Computer kalt neustartete. Somit verstehe ich nun auch endlich warum die meisten Mitstudenten die Linux verwenden ihre Laptops immer herunterfahren.
+</p>
+<strong>Doppelte Anmeldungen sind einfach nur nervig (und unnötig)</strong><br/>
+<p>Nachdem man das eine Passwort zum starten der Machine verwendet hat, wird beim starten der Jolicloud Anwendung wiederum nach einem anderen Passwort gefragt. Das ganze ist völlig verständlich, da die Jolicloud Anwendung eine Webseite ist die im modifizierten Firefox geöffnet wird. Allerdings wiederspricht das meinem Verständnis von Cloud OS massiv. Wenn die Jolicloud Entwickler schon den Firefox modifizieren sollten sie sicherlich auch in der Lage sein diesen Prozess zu vereinfachen. Oder worin sollte sonst der Unterschied zwischen einem normalen Linux und dem Jolicloud bestehen?</p>
+<strong>Worin besteht nun der Mehrwert von Jolicloud (PreBeta) gegenüber einer ‚normalen‘ Linux Distribution?</strong><br/>
+<p>Dies habe ich mich die ganze Woche ohne Ergebnis gefragt. Bin jedoch offen für Vorschläge. 
+</p>
+<strong>Mein Fazit</strong><br/>
+<p>In dieser Woche wurde mir bewusst, dass ich trotz der Abhängigkeit vom Internet nicht alles nur per Internet erledigen kann resp. will. Gerade Backup Katastrophen in der jüngsten Vergangenheit sollten uns doch darauf hinweisen, dass es eine Firma relativ wenig stört wenn Benutzerdaten verloren gehen, dies andererseits für Benutzer weniger der Fall sein wird.
+</p>]]></content>
+      <post-name type="text"><![CDATA[Eine Woche mit Jolicloud - Ein Erfahrungsbericht]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="ab442b65-1b8f-4bde-ae41-3c04c0a6fa9c" />
+      </categories>
+    </post>
+    <post id="abcb589d-25c5-4575-96d5-4d280af09250" date-created="2009-12-27T20:57:00" date-modified="2012-01-05T09:15:40" approved="true" post-url="/post/Starten-des-Scanvorgangs-beim-drucken-der-Schnellwahltaste-an-einem-Canon-Scanner-unter-Windows-Vista-7.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></title>
+      <content type="text"><![CDATA[<p><img title="CanoScan Programmauswahl Fenster" src="/image.axd?picture=CanoScan%20Programmauswahl%20Fenster.png" alt="CanoScan Programmauswahl Fenster" /></p>
+<p>Mein Scanner, ein Canon CanoScan 8800F hat direkt auf dem Deckel verschiedene Direktwahl-Tasten, damit man beim scannen nicht immer zum Computer und wieder zur&uuml;ck rennen muss. Was ganz nett klingt hat unter Windows Vista / 7 mit installiertem Photoshop allerdings so seine T&uuml;cken. Nach dem dr&uuml;cken der Schnellwahltaste f&uuml;r PHOTO/FILM erscheint auf dem Computer eine Auswahl Box in welcher MP Navigator EX Ver1.0 angew&auml;hlt werden muss damit der Scanvorgang endlich startet.</p>
+<p>Soviel zur Ausgangslage, nun zu den L&ouml;sungen des Problems. Zuerst sollte der <strong>Scanner angeschaltet</strong> sein. Dann geht man auf <strong>Start &gt; Ger&auml;te und Drucker</strong>.</p>
+<p><img title="Windows 7 Ger&auml;te und Drucker" src="/image.axd?picture=Windows_7_Geraete_und_Drucker.png" alt="Windows 7 Ger&auml;te und Drucker" /></p>
+<p>Hier <strong>klickt</strong> man <strong>rechts</strong> auf den <strong>Scanner</strong> und w&auml;hlt <strong>Scaneigenschaften</strong> an.</p>
+<p><img title="Windows Vista 7 Ger&auml;te und Drucker Scaneigenschaften" src="/image.axd?picture=Windows_Vista_7_Geraete_und_Drucker_Scaneigenschaften.png" alt="Windows Vista 7 Ger&auml;te und Drucker Scaneigenschaften" /></p>
+<p>Nun kann man das gew&uuml;nschte <strong>Ereignis ausw&auml;hlen</strong>, in meinem Fall CanoScan PHOTO/FILM Button und das Programm welches gestartet werden soll falls die PHOTO/FILM Taste auf dem Scanner gedr&uuml;ckt wird.</p>
+<p><img title="CanoScan Scaneigenschaften" src="/image.axd?picture=CanoScan%20Scaneigenschaften.png" alt="CanoScan Scaneigenschaften" /></p>
+<p>Nun kommen wir zum zweiten Problem, nach dem dr&uuml;cken auf OK erscheint n&auml;mlich die Meldung <strong>Fehler beim Registrieren des Ereignisses</strong>.</p>
+<p><img title="Fehler beim Registrieren des Ereignisses" src="/image.axd?picture=Fehler%20beim%20Registrieren%20des%20Ereignisses.png" alt="Fehler beim Registrieren des Ereignisses" /></p>
+<p>Dies ist ein Berechtigungsproblem und kann gel&ouml;st werden indem man die <strong>Windows Taste</strong> dr&uuml;ckt und <strong>regedit</strong> eingibt, um den Registry Editor aufzurufen.</p>
+<p><em><strong>Warnung</strong> In der Registry ist Vorsicht geboten, da falsche &Auml;nderungen, neu aufsetzen des Betriebssystems bedeuten k&ouml;nnen.</em></p>
+<p>In der Registry geht sucht man den obersten Knoten <strong>HKEY_LOCAL_MACHINE</strong> und danach die folgenden Unterknoten <strong>SYSTEM &gt; CurrentControlSet &gt; Control &gt; Class</strong>. Ab hier stehen nur noch vom Computer generierte Namen und diese k&ouml;nnen bei jedem Computer anders sein. Daher muss der <strong>Knoten Class angeklickt</strong> werden. Nun w&auml;hlt man oben <strong>Bearbeiten &gt; Suchen</strong> an, und schreibt ins Suchfeld <strong>imaging devices</strong>. Nach dem Klick auf <strong>Suchen</strong> &ouml;ffnet sich ein Ordner. (wie unten im Bild)</p>
+<p><img title="Registry Imaging Devices" src="/image.axd?picture=Registry%20Imaging%20Devices.png" alt="Registry Imaging Devices" /></p>
+<p>Nach einem <strong>Rechtsklick auf diesen Ordner</strong> (in meinem Fall {6BDD1FC6-810F-11D0-BEC7-08002BE2092F} ) w&auml;hlt man die Option <strong>Berechtigungen&hellip;</strong></p>
+<p><img title="Registry Berechtigungen" src="/image.axd?picture=Registry%20Berechtigungen.png" alt="Registry Berechtigungen" /></p>
+<p>Klickt unter Gruppen- und Benutzernamen, <strong>Benutzer</strong> an und<strong> setzt den Hacken bei Vollzugriff Zulassen</strong>. Nach dem <strong>&Uuml;bernehmen</strong> der &Auml;nderungen sollte nun auch das Zuweisen der verschiedenen Programme funktionieren sodass bei einem Klick auf die Scantaste auch wirklich das Scanprogramm auf dem Computer startet und auch effektiv Zeit eingespart werden kann.</p>]]></content>
+      <post-name type="text"><![CDATA[Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="canon" />
+        <tag ref="scanner" />
+        <tag ref="windows" />
+        <tag ref="berechtigungen" />
+        <tag ref="fehler beim registrieren des ereignisses" />
+      </tags>
+      <comments>
+        <comment id="7aeee4c0-91d0-4646-863c-dd0622ed072b" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-01-19T02:45:48" date-modified="2010-01-19T02:45:48" approved="true" user-name="Res Rickli" user-email="rr@maerchenstund.ch" user-ip="84.75.105.153" user-url="http://www.maerchenstund.ch/">
+          <title type="text"><![CDATA[re: Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></title>
+          <content type="text"><![CDATA[Herzlichen Dank f&#252;r deinen Tipp, es hat auf Anhieb funktioniert. Eine Riesenerleichterung - und eigentlich eine ganze Kiste Bier wert!
+Res]]></content>
+        </comment>
+        <comment id="148c7bf3-a070-434b-b6a0-fa16f0a7767d" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-01-19T02:57:49" date-modified="2010-01-19T02:57:49" approved="true" user-name="Philipp K&amp;#252;ng" user-email="i@philippkueng.ch" user-ip="83.76.149.196" user-url="http://philippkueng.ch/">
+          <title type="text"><![CDATA[re: Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></title>
+          <content type="text"><![CDATA[@Res vielen Dank f&#252;r die tolle R&#252;ckmeldung. Ist sch&#246;n zu h&#246;ren das meine Arbeit in die Anleitung nicht vergebens war. ]]></content>
+        </comment>
+        <comment id="ddce7cc2-b906-4d53-b893-c0b583a6ffbc" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-05-04T23:17:09" date-modified="2010-05-04T23:17:09" approved="true" user-name="Tungdil" user-email="tungdil_taharqa@yahoo.de" user-ip="78.55.164.210" user-url="">
+          <title type="text"><![CDATA[re: Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></title>
+          <content type="text"><![CDATA[Vielen Dank f&#252;r den Tipp! Nach dem Umstieg auf Windows 7 war ich schon ziemlich genervt von der Auswahlbox. Jetzt funktioniert alles wieder wie unter Windows XP gewohnt. Der Fehler beim Registrieren ist bei mir allerdings nicht aufgetreten.]]></content>
+        </comment>
+        <comment id="8f53d587-da3e-4808-bf67-517495f07829" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-06-03T10:38:51" date-modified="2010-06-03T10:38:51" approved="true" user-name="FLorian" user-email="kingchaoz@hotmail.com" user-ip="88.78.174.121" user-url="">
+          <title type="text"><![CDATA[re: Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></title>
+          <content type="text"><![CDATA[Hallo,
+
+Ich habe aber das Problem das ich nur ca 15x Photoshop zur Auswahl habe. Wie bekomme ich da andere Programme rein? ]]></content>
+        </comment>
+        <comment id="720d11f3-d6ff-4996-a5c7-25148a5eb178" parentid="00000000-0000-0000-0000-000000000000" date-created="2010-06-04T19:29:17" date-modified="2010-06-04T19:29:17" approved="true" user-name="Philipp K&amp;#252;ng" user-email="i@philippkueng.ch" user-ip="83.76.93.216" user-url="http://philippkueng.ch/">
+          <title type="text"><![CDATA[re: Starten des Scanvorgangs beim drücken der Schnellwahltaste an einem Canon Scanner unter Windows Vista / 7]]></title>
+          <content type="text"><![CDATA[@FLorian
+So wie ich das sehe, sollten nur Programme zur Auswahl stehen die nicht nur Bilder anzeigen k&#246;nnen, sondern ebenfalls den Scanprozess durchf&#252;hren. Falls also dein Programm nicht aufgelistet ist, empfehle ich das Programm mal neu zu installieren mit der Hoffnung das die Registry Eintr&#228;ge aktualisiert werden.
+Falls dies dein Problem nicht l&#246;st, w&#228;ren weitere Details sehr hilfreich f&#252;r das L&#246;sen.]]></content>
+        </comment>
+      </comments>
+      <trackbacks />
+    </post>
+    <post id="004688cf-7371-451f-a431-4056aff89d9c" date-created="2009-12-04T16:29:00" date-modified="2009-12-04T16:31:04" approved="true" post-url="/post/Xbox-Hardware-Architektur-mit-Nick-Baker.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Xbox Hardware Architektur mit Nick Baker]]></title>
+      <content type="text"><![CDATA[<p><strong>Nick Baker</strong>, General Manager für das <strong>Xbox Architektur Design</strong> Team stand <strong>Robert Hess</strong> dem Mann hinter der Studio Sendung von Microsoft, <strong>Behind the Code</strong>, eine Stunde lang rede und Antwort, was seine Karriere und die Xbox Architektur angeht. Sehr interessant was man mit einem <a href="http://www.ee.ethz.ch">Master in Electrical Engineering and Information Technology</a> alles erreichen kann.</p> <object data="data:application/x-silverlight-2," type="application/x-silverlight-2" width="666" height="500"> <param name="source" value="http://channel9.msdn.com/App_Themes/default/vp09_11_30.xap" /> <param name="initParams" value="deferredLoad=true,duration=0,m=http://ecn.channel9.msdn.com/o9/ch9/1/6/2/5/0/5/BTCNickBaker_ch9.wmv,autostart=false,autohide=true,showembed=true, postid=505261" /> <param name="background" value="#00FFFFFF" /> <a href="http://go.microsoft.com/fwlink/?LinkID=124807" style="text-decoration: none;"> <img src="http://go.microsoft.com/fwlink/?LinkId=108181" alt="Get Microsoft Silverlight" style="border-style: none" /> </a> </object>]]></content>
+      <post-name type="text"><![CDATA[Xbox Hardware Architektur mit Nick Baker]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="xbox" />
+        <tag ref="architektur" />
+        <tag ref="hardware" />
+        <tag ref="behind the code" />
+        <tag ref="microsoft" />
+        <tag ref="nick baker" />
+        <tag ref="electrical engineering" />
+      </tags>
+    </post>
+    <post id="6740aaec-e021-4aa1-8636-8c1408de2a2b" date-created="2009-12-02T16:44:00" date-modified="2012-01-05T00:20:53" approved="true" post-url="/post/Using-the-ZuneHD-outside-the-US-with-error-code-C00D11CD.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Using the ZuneHD outside the US with error code C00D11CD]]></title>
+      <content type="text"><![CDATA[<p><img title="zunehd_error_c00d11cd" alt="zunehd_error_c00d11cd" src="/image.axd?picture=zunehd_error_c00d11cd.png" /> Yesterday my ZuneHD was delivered straight from the US. But unfortunately I wasn’t able to sync it with my computer (German Windows 7). After some research I stumbled upon this <a href="http://www.anythingbutipod.com/forum/showthread.php?p=400108">forum thread in anythingbutipod.com (Zune Hd first sync)</a> which gave which gave me the solution.</p>  <p>My ZuneHD was shipped with firmware 4.0 which only support English, Spanish and French Windows language. To upgrade it you will either have to use an <strong>Windows XP / Vista / Windows 7 with English OS language</strong> or download and install the <strong>English Language Pack</strong> (I haven’t done this, but it was mentioned in the forum thread).</p>  <p>After the firmware update is on the device (currently 4.3) you should be able to plug it in any Windows computer no matter what the language of the OS is. (if you use the <a href="http://www.withinwindows.com/2009/09/17/restore-zune-4-0s-missing-features/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+WithinWindows+(Within+Windows)&amp;utm_content=Google+Reader">Zune Marketplace Registry Hack</a> you have to set the region option to US)</p>]]></content>
+      <post-name type="text"><![CDATA[Using the ZuneHD outside the US with error code C00D11CD]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="zunehd" />
+        <tag ref="error" />
+        <tag ref="c00d11cd" />
+        <tag ref="zune" />
+      </tags>
+      <comments />
+      <trackbacks />
+    </post>
+    <post id="2a64d292-333e-43f2-9fcb-2c04cd061c04" date-created="2009-11-22T20:56:00" date-modified="2012-01-05T00:21:21" approved="true" post-url="/post/Visual-Studio-2008-SP1-installation-failed-on-x64-Windows.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Visual Studio 2008 SP1 installation failed on x64 Windows with Error 1324]]></title>
+      <content type="text"><![CDATA[<p>If you&rsquo;ve installed Visual Studio 2008 on an x64 Windows Computer you may getting into trouble trying to install Service Pack 1. First of all you will get an error message (Error 1324) which will tell you that <strong>Program Files</strong> contains an invalid character. After the installation finished you can access the log file. (shown below)</p>
+<p><img title="vs08sp1_installation_log" src="/image.axd?picture=vs08sp1_installation_log_thumb.png" alt="vs08sp1_installation_log" /></p>
+<p>In there select the link (marked yellow).</p>
+<p><img title="vs08sp1_installation_error_log" src="/image.axd?picture=vs08sp1_installation_error_log_thumb.png" alt="vs08sp1_installation_error_log" /> And now search for <strong>pfiles</strong>. You will find something like G:\PFiles. On my computer G was a virtual drive. So the solution was to deactivate all virtual and physical read-only drives and then try the installation all over again. This time it worked seamlessly.</p>]]></content>
+      <post-name type="text"><![CDATA[Visual Studio 2008 SP1 installation failed on x64 Windows with Error 1324]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="12d4405b-4f4d-469d-ab9c-91cbd3120787" />
+      </categories>
+      <tags>
+        <tag ref="visual studio" />
+        <tag ref="vs2008" />
+        <tag ref="service pack" />
+        <tag ref="sp1" />
+        <tag ref="error 1324" />
+      </tags>
+    </post>
+    <post id="07ea5c37-8a31-42ff-bde7-be19cd9b5e0b" date-created="2009-11-20T00:11:00" date-modified="2010-04-20T07:13:44" approved="true" post-url="/post/Hello-World.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Hello World]]></title>
+      <content type="text"><![CDATA[<p><img src="/image.axd?picture=2009%2f6%2fhello-world.jpg" alt="" /></p>
+<p>Nun ist es wieder einmal soweit, und ich er&ouml;ffne voller stolz mein neues, pers&ouml;nliches, virtuelles Tagebuch.</p>
+<p>Mein anderer Blog <a href="http://www.enlightentheweb.com/">www.enlightentheweb.com</a> hat mich in letzter Zeit thematisch zu stark eingeschr&auml;nkt, sodass ich seit geraumer Zeit gar nichts mehr ver&ouml;ffentlichte. Als Ausgleich <a href="http://twitter.com/agentcmos">twitterte</a> ich aktiv, was auf die Dauer nicht&nbsp;wirklich befriedigend ist, da einem die 140 Zeichen doch st&auml;rker zusetzen. Aus diesem und anderen Gr&uuml;nden habe ich nun diesen Blog ins Leben gerufen, auf dem ich &uuml;ber pers&ouml;nliche und andere Interessante Dinge berichten kann, ohne dass mich dabei etwas einschr&auml;nkt.</p>
+<p><a href="http://www.enlightentheweb.com/">www.enlightentheweb.com</a> wird irgendwann in n&auml;chster Zeit gel&ouml;scht, einige popul&auml;re Artikel werden jedoch erhalten&nbsp;bleiben. Ich werde diese erneuern und danach hier integrieren.</p>
+<p>Es w&auml;re daher sch&ouml;n wenn du diesen Blog <a href="http://philippkueng.ch/syndication.axd">abonnieren</a> w&uuml;rdest, und ab und zu einen Kommentar abgibst.</p>]]></content>
+      <post-name type="text"><![CDATA[Hello World]]></post-name>
+      <authors>
+        <author ref="Philipp Küng" />
+      </authors>
+      <categories>
+        <category ref="29bd325b-9a73-4f6b-b6da-0c690a22fd97" />
+      </categories>
+      <tags>
+        <tag ref="hello world" />
+        <tag ref="start" />
+        <tag ref="erster post" />
+      </tags>
+    </post>
+  </posts>
+</blog>
