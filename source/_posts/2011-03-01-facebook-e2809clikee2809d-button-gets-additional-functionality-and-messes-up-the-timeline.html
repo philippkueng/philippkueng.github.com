@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Facebook “like” button gets additional functionality and messes up the timeline"
+comments: true
+---
+<p><a href="http://picplz.com/user/philippkueng/pic/s7nz/"><img src="/images/2011/2/bc9b685a90f5553b56df7c84fd02df7e082154db_wmlg.jpg" alt="" /></a></p>
+<p><strong>Last week Facebook decided to get rid of their share button and instead add the functionality on top of their like button.</strong> (<a href="http://mashable.com/2011/02/27/facebook-like-button-takes-over-share-button-functionality/">read more about it on Mashable</a>)</p>
+<p style="display: inline !important;">I think it's fair to say that that their photo upload is what drove Facebook&rsquo;s popularity in the first place. They realized early on that they have to trigger certain emotions in order to keep visitors on their site. For this an image is simply much better than a plain line for catching the visitor&rsquo;s eye and encouraging that visitor to stay on the page.</p>
+<p>Now, that Facebook changed the &ldquo;like&rdquo; button functionality, whenever a reader likes a blog post, Facebook starts a spider instance to fetch the content for a specific page and extract the title, the lead text and an image if available.&nbsp;</p>
+<p>The way Facebook grabs the image is not really clear and may change in future iterations. For now it&rsquo;s best to choose one of your images to appear in the Facebook timeline by defining the image in the &lt;head&gt; area of the html. Just add <strong>&lt;meta property="og:image" content="the full url to the image" /&gt;</strong> and whenever your post&rsquo;s page gets parsed, the Facebook bot will include that image in the timeline.&nbsp;</p>
+<p>For more information head on over to the <a href="http://developers.facebook.com/docs/reference/plugins/like/">Facebook Like Button documentation</a>.</p>
+<p>Thanks @zurcherart for proof-reading.</p>
