@@ -1,0 +1,50 @@
+html {
+  background: $page-bg;
+}
+
+body {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+body > div > div {
+  border-right: none;
+}
+
+body > #main {
+  background: none;
+}
+
+body > #main > #content > div > article > header > h1 {
+  font-size: 2.2em;
+}
+
+body > header, body > #main > #content > div > article, body > #main > #content > div > section, body > footer {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#content > div > article > header {
+  position: relative;
+  padding-top: 0;
+  p.meta {
+    margin-top: 0.3em;
+    position: relative;
+  }
+}
+
+div.entry-content {
+  line-height: 175%;
+}
+
+body div.pagination {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+body > footer > #contact > ul{
+  list-style: none;
+  display: block;
+  width: 40%;
+  float: left;
+}
