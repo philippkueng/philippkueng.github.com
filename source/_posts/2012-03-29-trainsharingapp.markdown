@@ -53,7 +53,7 @@ Additionally there'll be a join table (routes_users, see below) for matching the
 |1|423|234412345|12:03
 |2|5122|967512345|14:34
 
-So much for the storage part, now over to the API. There'll there will be three endpoints at least, `/login`, `/checkin` and `/read`.
+So much for the storage part, now over to the API. There will be three endpoints at least, `/login`, `/checkin` and `/read`.
 
 **/login** will be used to send the social network authentication tokens over to the server to allow us to do the bandwith heavy parts. The request should be one of type POST with the credentials in it's body. Which will give a trainsharingID back as a response. This trainsharingID will then be stored on the client device and used for every single request as a querystring.
 
