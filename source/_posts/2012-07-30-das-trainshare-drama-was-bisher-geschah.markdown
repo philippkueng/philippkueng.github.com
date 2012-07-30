@@ -77,5 +77,6 @@ In diesem Sinne bitte ich euch Blogger und Twitterer alle, mit dem Shitstorm geg
 Zudem nehme ich die öffentliche Einladung von @rueetschli, dem Projektleiter von @SBBConnect, gerne an und komme ihn in Bern besuchen:
 <blockquote class="twitter-tweet tw-align-center"><p><a href="http://t.co/wC7HsiWn" title="http://www.sonntagszeitung.ch/multimedia/artikel-detailseite/?newsid=225293">sonntagszeitung.ch/multimedia/art…</a>Biete dem @<a href="https://twitter.com/philippkueng">philippkueng</a> hiermit gerne an,uns in Bern zu besuchen,damit er weiter an @<a href="https://twitter.com/trainshare">trainshare</a> arbeiten kann @<a href="https://twitter.com/BarJack">BarJack</a></p>&mdash; Michael Rueetschli (@rueetschli) <a href="https://twitter.com/rueetschli/status/229490401772466177" data-datetime="2012-07-29T08:15:50+00:00">July 29, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
-Weitere Informationen und allfällige Lehren wurden von Hannes Gassert auf dem OpenData.ch Blog veröffentlicht.
+<br/><br/>
+
+Bezüglich den Lehren und einer Interpretation der Geschehnisse empfehle ich den [Artikel von Hannes Gassert auf dem OpenData.ch Blog](http://opendata.ch/2012/07/30/trainshare-learnings/).
