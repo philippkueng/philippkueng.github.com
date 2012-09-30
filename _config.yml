@@ -4,7 +4,7 @@
 
 url: http://philippkueng.ch
 title: "Philipp Küng"
-subtitle: "Co-Founder of @bitfondue"
+subtitle: "Guy behind @bitfondue, @sharelephant and @trainshare"
 author: "Philipp Küng"
 # simple_search: http://google.com/search
 simple_search:
@@ -37,7 +37,7 @@ category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 5          # Posts per page on the blog index
+paginate: 3          # Posts per page on the blog index
 pagination_dir:       # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 0       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
