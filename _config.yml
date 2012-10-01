@@ -99,7 +99,7 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-4050995-6
 
 # Mixpanel Analytics
-mixpanel_analytics_tracking_id: 6fdc5d35ad5eabcfb018e0b3a9eef78f
+mixpanel_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
