@@ -14,3 +14,148 @@ $nav-border-bottom: #222;
 $page-border-bottom: #fff;
 // $footer-border-bottom: #fff;
 $footer-border-top: #000;
+
+
+@font-face {
+    font-family: 'AlegreyaRegular';
+    src: url('/files/webfonts/Alegreya-Regular-webfont.eot');
+    src: url('/files/webfonts/Alegreya-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/Alegreya-Regular-webfont.woff') format('woff'),
+         url('/files/webfonts/Alegreya-Regular-webfont.ttf') format('truetype'),
+         url('/files/webfonts/Alegreya-Regular-webfont.svg#AlegreyaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaItalic';
+    src: url('/files/webfonts/Alegreya-Italic-webfont.eot');
+    src: url('/files/webfonts/Alegreya-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/Alegreya-Italic-webfont.woff') format('woff'),
+         url('/files/webfonts/Alegreya-Italic-webfont.ttf') format('truetype'),
+         url('/files/webfonts/Alegreya-Italic-webfont.svg#AlegreyaItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaBold';
+    src: url('/files/webfonts/Alegreya-Bold-webfont.eot');
+    src: url('/files/webfonts/Alegreya-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/Alegreya-Bold-webfont.woff') format('woff'),
+         url('/files/webfonts/Alegreya-Bold-webfont.ttf') format('truetype'),
+         url('/files/webfonts/Alegreya-Bold-webfont.svg#AlegreyaBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaBoldItalic';
+    src: url('/files/webfonts/Alegreya-BoldItalic-webfont.eot');
+    src: url('/files/webfonts/Alegreya-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/Alegreya-BoldItalic-webfont.woff') format('woff'),
+         url('/files/webfonts/Alegreya-BoldItalic-webfont.ttf') format('truetype'),
+         url('/files/webfonts/Alegreya-BoldItalic-webfont.svg#AlegreyaBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaBlack';
+    src: url('/files/webfonts/Alegreya-Black-webfont.eot');
+    src: url('/files/webfonts/Alegreya-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/Alegreya-Black-webfont.woff') format('woff'),
+         url('/files/webfonts/Alegreya-Black-webfont.ttf') format('truetype'),
+         url('/files/webfonts/Alegreya-Black-webfont.svg#AlegreyaBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaBlackItalic';
+    src: url('/files/webfonts/Alegreya-BlackItalic-webfont.eot');
+    src: url('/files/webfonts/Alegreya-BlackItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/Alegreya-BlackItalic-webfont.woff') format('woff'),
+         url('/files/webfonts/Alegreya-BlackItalic-webfont.ttf') format('truetype'),
+         url('/files/webfonts/Alegreya-BlackItalic-webfont.svg#AlegreyaBlackItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaSCRegular';
+    src: url('/files/webfonts/AlegreyaSC-Regular-webfont.eot');
+    src: url('/files/webfonts/AlegreyaSC-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/AlegreyaSC-Regular-webfont.woff') format('woff'),
+         url('/files/webfonts/AlegreyaSC-Regular-webfont.ttf') format('truetype'),
+         url('/files/webfonts/AlegreyaSC-Regular-webfont.svg#AlegreyaSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaSCItalic';
+    src: url('/files/webfonts/AlegreyaSC-Italic-webfont.eot');
+    src: url('/files/webfonts/AlegreyaSC-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/AlegreyaSC-Italic-webfont.woff') format('woff'),
+         url('/files/webfonts/AlegreyaSC-Italic-webfont.ttf') format('truetype'),
+         url('/files/webfonts/AlegreyaSC-Italic-webfont.svg#AlegreyaSCItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaSCBold';
+    src: url('/files/webfonts/AlegreyaSC-Bold-webfont.eot');
+    src: url('/files/webfonts/AlegreyaSC-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/AlegreyaSC-Bold-webfont.woff') format('woff'),
+         url('/files/webfonts/AlegreyaSC-Bold-webfont.ttf') format('truetype'),
+         url('/files/webfonts/AlegreyaSC-Bold-webfont.svg#AlegreyaSCBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaSCBoldItalic';
+    src: url('/files/webfonts/AlegreyaSC-BoldItalic-webfont.eot');
+    src: url('/files/webfonts/AlegreyaSC-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/AlegreyaSC-BoldItalic-webfont.woff') format('woff'),
+         url('/files/webfonts/AlegreyaSC-BoldItalic-webfont.ttf') format('truetype'),
+         url('/files/webfonts/AlegreyaSC-BoldItalic-webfont.svg#AlegreyaSCBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaSCBlack';
+    src: url('/files/webfonts/AlegreyaSC-Black-webfont.eot');
+    src: url('/files/webfonts/AlegreyaSC-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/AlegreyaSC-Black-webfont.woff') format('woff'),
+         url('/files/webfonts/AlegreyaSC-Black-webfont.ttf') format('truetype'),
+         url('/files/webfonts/AlegreyaSC-Black-webfont.svg#AlegreyaSCBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AlegreyaSCBlackItalic';
+    src: url('/files/webfonts/AlegreyaSC-BlackItalic-webfont.eot');
+    src: url('/files/webfonts/AlegreyaSC-BlackItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/webfonts/AlegreyaSC-BlackItalic-webfont.woff') format('woff'),
+         url('/files/webfonts/AlegreyaSC-BlackItalic-webfont.ttf') format('truetype'),
+         url('/files/webfonts/AlegreyaSC-BlackItalic-webfont.svg#AlegreyaSCBlackItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

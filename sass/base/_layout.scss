@@ -89,7 +89,7 @@ body {
   }
 }
 
-#content { > div, > article { width: 100%; }}
+#content { > article { width: 100%; }}
 
 aside.sidebar {
   float: none;
