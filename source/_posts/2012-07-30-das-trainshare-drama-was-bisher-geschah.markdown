@@ -3,6 +3,7 @@ layout: post
 title: "Das Trainshare-”Drama”: Was bisher geschah"
 date: 2012-07-30 10:24
 comments: true
+photo: "DSC_4670.jpg"
 --- 
 
 Ein [Artikel der Sonntagszeitung](http://www.sonntagszeitung.ch/multimedia/artikel-detailseite/?newsid=225293) zum [Projekt Trainshare](http://trainshare.ch) hat am Sonntagmorgen einen doch beträchtlichen Twitter-”Shitstorm” gegen die SBB ausgelöst. Als Beteiligter am Projekt möchte ich gerne schildern, wie es überhaupt so weit kam.

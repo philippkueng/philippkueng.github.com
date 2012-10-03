@@ -3,6 +3,7 @@ layout: post
 title: "Podcast about data related topics?"
 date: 2012-02-10 15:56
 comments: true
+photo: "DSC_6377.jpg"
 ---
 [OpenData](http://en.wikipedia.org/wiki/Open_data), [BigData](Big_data),  Infographics, [Visualizations](http://datavisualization.ch/) and [Data journalism](http://www.guardian.co.uk/news/datablog/2011/jul/28/data-journalism) are all buzz words and movements which started to get quite some traction lately.
 

@@ -3,9 +3,8 @@ layout: post
 title: "TrainsharingApp"
 date: 2012-03-29 01:00
 comments: true
+photo: "DSC_4670.jpg"
 ---
-![into image](images/DSC_4670.jpg)
-
 Sharing a train, something the Swiss twitter community has done for years via the hashtag [#trainsharing](https://twitter.com/#!/search/%23trainsharing) should now be brought to the masses with a dedicated app.
 
 My goal is to realize the backend as well as various mobile clients with the help of other hackers during the [make.opendata.ch hackathon](http://make.opendata.ch) to show what can be done by leveraging publicly accessible data. And just for the fun of jumping on the buzzword bandwagon, it will be [SoLoMo (social-local-mobile)](http://techcrunch.com/2012/03/24/die-solomo-die/) ;-).

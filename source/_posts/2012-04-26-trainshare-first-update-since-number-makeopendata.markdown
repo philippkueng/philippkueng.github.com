@@ -3,6 +3,7 @@ layout: post
 title: "trainshare - first update"
 date: 2012-04-26 10:38
 comments: true
+photo: "DSC_4670.jpg"
 ---
 
 ![trainshare app mockups](images/trainshareapp.png)
