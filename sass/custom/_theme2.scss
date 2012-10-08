@@ -5,6 +5,7 @@ html {
 body {
   max-width: none;
   margin: 0px;
+  word-wrap: break-word;
   /*
   margin: 0 auto;
   max-width: 654px;
@@ -146,6 +147,6 @@ blockquote {
 }
 
 strong {
-  font-family: "AlegreyaBold", "Georgia", "Helvetica Neue", Arial, sans-serif;
-  font-weight: normal;
+  font-family: "Merriweather", "Georgia", "Helvetica Neue", Arial, sans-serif;
+  font-weight: strong;
 }
