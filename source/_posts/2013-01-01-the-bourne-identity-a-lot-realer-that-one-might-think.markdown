@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bourne Identity - A lot realer that one might think"
+title: "The Bourne Identity - A lot realer than one might think"
 date: 2013-01-01 16:42
 comments: true
 photo: "drone.jpg"
