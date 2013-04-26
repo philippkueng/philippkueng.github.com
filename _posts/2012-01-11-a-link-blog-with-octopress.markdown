@@ -10,7 +10,7 @@ While I'm not sure yet if I'll ever do the same, I started wondering on how to r
 
 First modify the `article.html` inside source/_includes and exchange the lower `<h1>` part which is responsible for the page view title with an if-else clause.
 
-{% codeblock article.html %}
+``` html
 <h1 class="entry-title">
   {{ "{% if page.ref_url" }} %}
     <a class="reference" href="{{ "{{ page.ref_url" }} }}">{{ "{{ page.title" }} }}</a>
@@ -18,21 +18,21 @@ First modify the `article.html` inside source/_includes and exchange the lower `
     {{ "{% if site.titlecase" }} %}{{ "{{ page.title | titlecase" }} }}{{ "{% else" }} %}{{ "{{ page.title" }} }}{{ "{% endif" }} %}
   {{ "{% endif" }} %}
 </h1>
-{% endcodeblock %}
+```
 
 Then continue with adding an if-else clause to the `atom.xml` file too. Extend the `<link>` element inside the parent `<entry>` with the code below. Done.
   
-{% codeblock atom.xml %}
+``` xml
 {{ "{% if post.ref_url" }} %}
   <link href="{{ "{{ post.ref_url" }} }}"/>
 {{ "{% else" }} %}
   <link href="{{ "{{ site.url" }} }}{{ "{{ post.url" }} }}"/>
 {{ "{% endif" }} %}
-{% endcodeblock %}
+```
 
 If you want to create a Link-Blog post now, add `ref_url` to the markdown file header and Octopress takes care of the rest.
 
-{% codeblock %}
+``` markdown
 ---
 layout: post
 title: "This Awesome Article"
@@ -41,7 +41,7 @@ comments: true
 ref_url: http://somesite.com/thisawesomearticle.html
 ---
 This one is really great, check it out.
-{% endcodeblock %}
+```
 
 ##Alternatives
 
