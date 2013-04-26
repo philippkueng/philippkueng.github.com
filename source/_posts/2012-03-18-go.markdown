@@ -1,0 +1,23 @@
+---
+layout: post
+title: "The Go programming language"
+date: 2012-03-18 21:03
+comments: true
+---
+[Go](http://golang.org/) is a new programming language and sort of a mixture of C, Python, Oberon and other languages. It tries to solve many problems where other languages are failing when deployed on a very large scale, eg. on Googles infrastructure.
+
+Below are the recordings of last week's joint event by the [IT geeks Zurich](http://www.meetup.com/zh-geeks/events/47295912/) and [GTUG Zurich](http://zurich.gtugs.org/events/go-march-2012). At this event Luuk van Dijk a staff software engineer at Google who's currently working on the Go compiler and [Johan Euphrosine](http://twitter.com/proppy) a Developer Programs Engineer working on [App Engine](http://code.google.com/appengine/) offered some insights on how Go can be leveraged and what it does internally to do so.
+
+Also many thanks to the organizer [Muharem Hrnjadovic](http://twitter.com/al_maisan) for making this second amazing IT geeks event possible.
+
+And without further ado, enjoy the talks below and excuse the Pizza distribution dilemma we luckily had to deal with.
+
+<iframe width="654" height="362" src="https://www.youtube-nocookie.com/embed/wjLK-WMNVgM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="654" height="362" src="https://www.youtube-nocookie.com/embed/sAh8x3_RFQE" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="654" height="362" src="https://www.youtube-nocookie.com/embed/jmQLawO30eA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="654" height="362" src="https://www.youtube-nocookie.com/embed/G0ODQcL8Jhk" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="654" height="362" src="https://www.youtube-nocookie.com/embed/wRIkSWBRMD8" frameborder="0" allowfullscreen></iframe>

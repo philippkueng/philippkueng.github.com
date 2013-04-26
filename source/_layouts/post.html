@@ -1,0 +1,29 @@
+---
+layout: default
+single: true
+---
+
+{% if page.photo %}
+<span id="photo" data-id="{{ page.photo }}" data-url="/images/{{ page.photo }}" data-original-width="0" data-original-height="0" style="background-image: url(/images/{{ page.photo }});">
+</span>
+{% else %}
+<span id="photo" data-id="default_header_image.jpg" data-url="/images/default_header_image.jpg" data-original-width="0" data-original-height="0" style="background-image: url(/images/default_header_image.jpg);">
+</span>
+{% endif %}
+
+<div>
+<article class="hentry" role="article">
+  {% include article.html %}
+  <footer>
+    {% unless page.sharing == false %}
+      {% include post/sharing.html %}
+    {% endunless %}
+  </footer>
+</article>
+{% if site.disqus_short_name and page.comments == true %}
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+  </section>
+{% endif %}
+</div>
