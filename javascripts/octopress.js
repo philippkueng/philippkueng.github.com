@@ -13,31 +13,6 @@ function getNav() {
   });
 }
 
-// function addSidebarToggler() {
-//   if(!$('body').hasClass('sidebar-footer')) {
-//     $('#content').append('<span class="toggle-sidebar"></span>');
-//     $('.toggle-sidebar').bind('click', function(e) {
-//       e.preventDefault();
-//       if ($('body').hasClass('collapse-sidebar')) {
-//         $('body').removeClass('collapse-sidebar');
-//       } else {
-//         $('body').addClass('collapse-sidebar');
-//       }
-//     });
-//   }
-//   var sections = $('aside.sidebar > section');
-//   if (sections.length > 1) {
-//     sections.each(function(section, index){
-//       if ((sections.length >= 3) && index % 3 === 0) {
-//         $(section).addClass("first");
-//       }
-//       var count = ((index +1) % 2) ? "odd" : "even";
-//       $(section).addClass(count);
-//     });
-//   }
-//   if (sections.length >= 3){ $('aside.sidebar').addClass('thirds'); }
-// }
-
 function testFeatures() {
   var features = ['maskImage'];
   $(features).map(function(feature) {
@@ -122,7 +97,6 @@ $.domReady(function() {
   flashVideoFallback();
   addCodeLineNumbers();
   getNav();
-  addSidebarToggler();
 });
 
 // iOS scaling bug fix
