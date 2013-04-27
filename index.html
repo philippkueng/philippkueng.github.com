@@ -10,17 +10,17 @@ layout: default
       {% include article.html %}
     </article>
   {% endfor %}
-  <nav id="pagination">
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-      <a href="/" title="Previous Page">&laquo; Previous</a>
-      {% else %}
-      <a href="/page{{ paginator.previous_page }}/" title="Older">&larr; Older</a>
-      {% endif %}
+  <div class="pagination" id="pagination">
+    {% if paginator.next_page %} 
+    <a class="next" href="/page{{ paginator.next_page }}/" title="Older">Older &rarr;</a>
     {% endif %}
     <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.next_page %} 
-    <a href="/page{{ paginator.next_page }}/" title="Newer">Newer &rarr;</a>
-    {% endif %} 
-  </nav>
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+      <a class="prev" href="/" title="Newer">&larr; Newer</a>
+      {% else %}
+      <a class="prev" href="/page{{ paginator.previous_page }}/" title="Newer">&larr; Newer</a>
+      {% endif %}
+    {% endif %}
+  </div>
 </div>
