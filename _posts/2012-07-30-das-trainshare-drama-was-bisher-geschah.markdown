@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Das Trainshare-”Drama”: Was bisher geschah"
-date: 2012-07-30 10:24
 comments: true
 photo: "DSC_4670.jpg"
 --- 

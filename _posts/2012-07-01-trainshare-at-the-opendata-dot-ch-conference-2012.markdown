@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Trainshare at the OpenData.ch Conference 2012"
-date: 2012-07-01 21:17
 comments: true
 photo: "DSC_4670.jpg"
 ---

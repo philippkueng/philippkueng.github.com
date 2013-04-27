@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Link-Blog with Octopress"
-date: 2012-01-11 21:20
 comments: true
 ---
 During the last week well known bloggers have started turning off comments in a move to not having to care about sorting out SPAM and having more time for the actual writing. [Matt Gemmell](http://mattgemmell.com/) has written an [excellent summary](http://mattgemmell.com/2012/01/07/comments-commentary/) about this, for those of you interested.

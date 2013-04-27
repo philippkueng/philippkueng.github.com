@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Structured Procrastination"
-date: 2012-02-02 18:29
 comments: true
 ref_url: "http://www.structuredprocrastination.com/"
 ---

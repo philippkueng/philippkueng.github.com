@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Why do most programmers work so hard at pretending that they’re not doing math?"
-date: 2012-01-16 13:32
 comments: true
 ref_url: "http://richardminerich.com/2012/01/why-do-most-programmers-work-so-hard-at-pretending-that-theyre-not-doing-math/"
 ---

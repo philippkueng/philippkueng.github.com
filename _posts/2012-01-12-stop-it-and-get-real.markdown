@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Stop it and get real"
-date: 2012-01-12 23:47
 comments: true
 ref_url: http://the99percent.com/videos/7110/Tony-Schwartz-The-Myths-of-the-Overworked-Creative
 ---

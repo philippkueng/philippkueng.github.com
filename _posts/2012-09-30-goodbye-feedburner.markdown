@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Goodbye Feedburner"
-date: 2012-09-30 22:00
 comments: true
 photo: "DSC_7186.jpg"
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Go programming language"
-date: 2012-03-18 21:03
 comments: true
 ---
 [Go](http://golang.org/) is a new programming language and sort of a mixture of C, Python, Oberon and other languages. It tries to solve many problems where other languages are failing when deployed on a very large scale, eg. on Googles infrastructure.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Recovering From a Computer Science Education"
-date: 2012-01-17 07:38
 comments: true
 ref_url: "http://prog21.dadgum.com/123.html"
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "My Worst Mistakes in Programming"
-date: 2012-01-13 17:03
 comments: true
 ref_url: "http://pilif.github.com/2012/01/my-worst-mistakes/"
 ---

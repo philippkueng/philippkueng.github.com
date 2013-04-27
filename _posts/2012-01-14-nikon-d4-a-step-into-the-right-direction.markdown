@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Nikon D4 - A step into the right direction"
-date: 2012-01-14 15:41
 comments: true
 ---
 Ten days back Nikon announced their new flagship model, the [Nikon D4](http://en.wikipedia.org/wiki/Nikon_D4). It's clearly got a higher Megapixel value - as needed for marketing purposes. On the side it has gotten some long awaited features such as proper HD video recording with all the bells and whistles you'd expect. For more details listen to James Banfield below.

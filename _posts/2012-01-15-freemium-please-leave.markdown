@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Freemium - please leave"
-date: 2012-01-15 16:46
 comments: true
 ---
 Last december Maciej Ceglowski, founder of pinboard has written a [post](http://blog.pinboard.in/2011/12/don_t_be_a_free_user/) about the fact that all great services which don't charge are very likely going to disappear in the long run.

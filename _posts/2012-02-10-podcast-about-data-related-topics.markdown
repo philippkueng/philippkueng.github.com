@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Podcast about data related topics?"
-date: 2012-02-10 15:56
 comments: true
 photo: "DSC_6377.jpg"
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "OpenData.ch - Switzerland's OpenData Association"
-date: 2012-01-20 11:13
 comments: true
 ref_url: "http://opendata.ch/2012/01/verein-opendata-ch-offiziell-gegrundet-manifest-und-agenda-2012/"
 ---

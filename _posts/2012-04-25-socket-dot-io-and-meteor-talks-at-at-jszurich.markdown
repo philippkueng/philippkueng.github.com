@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Socket.io and Meteor Talks at @JSZurich"
-date: 2012-04-25 16:02
 comments: true
 ---
 For the april event of [@JSZurich](https://twitter.com/#!/jszurich), @streunerlein and i had the honor of talking about [socket.io](http://socket.io/) and the new kid on the block, [meteor](http://meteor.com/). As you can see the slides and recordings are embedded below. Enjoy. As for the recordings, sorry it's raw, MTS is not the friendliest format.

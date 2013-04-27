@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Migrate from BlogEngine.NET to Jekyll"
-date: 2012-01-10 17:35
 comments: true
 ---
 This is the second part of steps you have to take in order to migrate smoothly over to [Jekyll](https://github.com/mojombo/jekyll/), [Octopress](http://octopress.org) in my case, coming from [BlogEngine](http://dotnetblogengine.net/) land. I'd recommend you first have a look at [moving your comments to disqus](http://philippkueng.ch/migrate-the-blogenginenet-commenting-system-over-to-disqus.html), before following this post.

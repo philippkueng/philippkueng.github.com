@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "TrainsharingApp"
-date: 2012-03-29 01:00
 comments: true
 photo: "DSC_4670.jpg"
 ---
