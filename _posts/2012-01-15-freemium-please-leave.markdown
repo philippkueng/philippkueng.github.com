@@ -18,7 +18,7 @@ That said, please startups and SaaS companies, remove the free model and make pr
 
 As for Wufoo, i'd guess replacing the free plan with one where you'd pay 2 dollars a month would make them more profit than showing ads on those confirmation pages.
 
-When talking about showing ads to free users checkout the [tweet](https://twitter.com/romeroabelleira/status/157804033229340673) by @romeroabelleira and give it some thought (translated):
+When talking about showing ads to free users checkout the [tweet](https://twitter.com/romeroabelleira/status/157804033229340673) by [@romeroabelleira](https://twitter.com/romeroabelleira) and give it some thought (translated):
 > Dear Advertisers on Spotify, I don't even pay for Spotify, I'm therefore worth nothing to you too. Sorry, Juan
 
 And don't waste your time looking for the contact form, I'd just put the e-mail address into the footer for now.

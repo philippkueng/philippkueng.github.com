@@ -3,7 +3,7 @@ layout: post
 title: "Socket.io and Meteor Talks at @JSZurich"
 comments: true
 ---
-For the april event of [@JSZurich](https://twitter.com/#!/jszurich), @streunerlein and i had the honor of talking about [socket.io](http://socket.io/) and the new kid on the block, [meteor](http://meteor.com/). As you can see the slides and recordings are embedded below. Enjoy. As for the recordings, sorry it's raw, MTS is not the friendliest format.
+For the april event of [@JSZurich](https://twitter.com/jszurich), [@streunerlein](https://twitter.com/streunerlein) and i had the honor of talking about [socket.io](http://socket.io/) and the new kid on the block, [meteor](http://meteor.com/). As you can see the slides and recordings are embedded below. Enjoy. As for the recordings, sorry it's raw, MTS is not the friendliest format.
 
 ## Socket.io
 
@@ -31,4 +31,4 @@ An example for such a use-case is the todos application which comes bundled with
 
 Just to state it again, the words above do reflect my personal experience when playing with Meteor 2 weeks after its initial appearance in April 2012, and I will be happy to give it another try once it has somewhat matured.
 
-As for the @JSZurich event, thanks to @ikr for hosting us and @seldaek for organizing it.
+As for the @JSZurich event, thanks to [@ikr](https://twitter.com/ikr) for hosting us and [@seldaek](https://twitter.com/seldaek) for organizing it.

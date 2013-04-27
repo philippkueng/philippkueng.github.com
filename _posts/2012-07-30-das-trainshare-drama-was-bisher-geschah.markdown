@@ -18,7 +18,7 @@ Aufgrund der obigen Informationen beschlossen wir, die Trainshare App weiter zu 
 ## Chronologie der Geschehnisse
 
 **30. März 2012 - Hackathon**<br/>
-Nachdem wir uns unterhalten hatten, schrieb Bruno Spicher wohlwollend auf Twitter über @trainshare und erwähnte dabei Michael Rüetschli, den Projektleiter von @SBBConnect:
+Nachdem wir uns unterhalten hatten, schrieb Bruno Spicher wohlwollend auf Twitter über [@trainshare](https://twitter.com/trainshare) und erwähnte dabei Michael Rüetschli, den Projektleiter von [@SBBConnect](https://twitter.com/SBBConnect):
 <blockquote class="twitter-tweet tw-align-center"><p>Interessante <a href="https://twitter.com/search/%2523trainsharingApp">#trainsharingApp</a> Idee von @<a href="https://twitter.com/philippkueng">philippkueng</a> <a href="http://t.co/zcXjx2UL" title="http://philippkueng.ch/trainsharingapp.html">philippkueng.ch/trainsharingap…</a> <a href="https://twitter.com/search/%2523makeopendata">#makeopendata</a> /cc @<a href="https://twitter.com/rueetschli">rueetschli</a></p>&mdash; Spicher Bruno (@brunospicher) <a href="https://twitter.com/brunospicher/status/185708347868196864" data-datetime="2012-03-30T12:41:35+00:00">March 30, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
@@ -30,15 +30,13 @@ Da wir unser Projekt während dem Hackathon nicht beenden konnten, schalteten wi
 Die [Swisscom berichtet auf ihrem Blog über das @trainshare Projekt](http://www.bluewin.ch/de/index.php/53,574679/Trainshare__So_findet_man_Freunde_im_Zug_/de/digital/?scrss=de_digital). Dies provoziert wiederum 18 zusätzliche Anmeldungen, was zeigt, dass wir eine Nische entdeckt hatten.
 
 **14. Mai 2012**<br/>
-Erste Anzeichen von @SBBConnect gesehen durch einen Retweet von @rueetschli. Nebenbei, wir beide folgen uns schon seit ca. einem Jahr gegenseitig auf Twitter:
+Erste Anzeichen von @SBBConnect gesehen durch einen Retweet von [@rueetschli](https://twitter.com/rueetschli). Nebenbei, wir beide folgen uns schon seit ca. einem Jahr gegenseitig auf Twitter:
 <blockquote class="twitter-tweet tw-align-center"><p>SBB.Connect coming this autumn <a href="https://twitter.com/search/%2523SBB">#SBB</a></p>&mdash; SBB.Connect (@SBBConnect) <a href="https://twitter.com/SBBConnect/status/202044850512740352" data-datetime="2012-05-14T14:37:00+00:00">May 14, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
 **18. Mai 2012**<br/>
 @SBBConnect ist ab jetzt nicht mehr nur ein Konzept, sondern wird gebaut. Hab mir damals nichts weiter dabei gedacht, da gemäss unserem Stand des Wissens @SBBConnect der Gleis7 App ähnlich sein wird, und wir mit der Twitter- und Facebook-Integration von @trainshare ein ganz anderes Publikum ansprechen werden:
 <blockquote class="twitter-tweet tw-align-center"><p>Soeben die letzte Anforderung spezifiziert. Damit endet genau jetzt die 4-monatige Konzeptionsphase.<a href="https://twitter.com/search/%2523SBB">#SBB</a> <a href="https://twitter.com/search/%2523SBBConnect">#SBBConnect</a></p>&mdash; SBB.Connect (@SBBConnect) <a href="https://twitter.com/SBBConnect/status/203391038767894528" data-datetime="2012-05-18T07:46:17+00:00">May 18, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
 **28. Juni 2012**<br/>
@@ -47,8 +45,7 @@ Ein "Hallo, wir machen exakt dasselbe. Ihr könnt euch die Zeit also sparen" ode
 
 **19. Juli 2012**<br/>
 Danilo, ebenfalls ein OpenData Hackathon Teilnehmer wies mich darauf hin, dass die @trainshare App Konkurrenz bekommt durch @SBBConnect. Als ich daraufhin den Artikel der Bernerzeitung las und sah, dass die App der SBB ebenfalls eine Integration der Sozialen Plattformen anbieten wird, bekam ich einen Schreck, da es doch hiess, sie soll wie die Gleis7 App werden:
-<blockquote class="twitter-tweet tw-align-center"><p>@<a href="https://twitter.com/philippkueng">philippkueng</a> kriegt trainshare konkurrenz? :) <a href="https://t.co/buEp8aML" title="https://twitter.com/rueetschli/status/225843359149858818/photo/1/large">twitter.com/rueetschli/sta…</a> zeitlich könntest du sie allerdings schlagen!</p>&mdash; Danilo (@dbrgn) <a href="https://twitter.com/dbrgn/status/225861547073892352" data-datetime="2012-07-19T07:56:03+00:00">July 19, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p>@<a href="https://twitter.com/philippkueng">philippkueng</a> kriegt trainshare konkurrenz? :) <a href="https://t.co/buEp8aML" title="https://twitter.com/rueetschli/status/225843359149858818/photo/1/large">twitter.com/rueetschli/sta…</a> zeitlich könntest du sie allerdings schlagen!</p>&mdash; Danilo ([@dbrgn](https://twitter.com/dbrgn)) <a href="https://twitter.com/dbrgn/status/225861547073892352" data-datetime="2012-07-19T07:56:03+00:00">July 19, 2012</a></blockquote>
 <br/>
 
 Darauf kontaktierte ich die Team-Mitglieder Adrian und Alain und fragte sie, wie sie zu einer Beendigung unseres Projekts stehen. Dies, weil wir in einer Konkurrenzsituation die SBB niemals werbetechnisch hätten überbieten können und es keinen Sinn macht, eine Plattform für bloss ein paar Nutzer zu unterhalten. Zudem konnte es aus meiner Sicht nicht darum gehen, sich gegenseitig zu bekriegen, sondern darum, der reisenden Community einen Nutzen zu liefern.

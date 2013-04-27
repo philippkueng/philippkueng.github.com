@@ -9,7 +9,7 @@ photo: "DSC_4670.jpg"
 
 It has been quite a while since [#MakeOpenData](http://makeopendata.ch) took place, the event where [trainshare](http://trainshare.ch) transformed from being [purely an idea](http://philippkueng.ch/trainsharingapp.html) to something more tangible.
 
-Since @AdrianKuendig, @visualcontext, @koma5 and I were not able to deliver a running prototype until the end of the event, we continued working on [the App](https://github.com/akuendig/TrainShareApp) as well as [the API](https://github.com/philippkueng/trainsharingapp) whenever we had some spare time. While it is neither done nor available in the AppStore yet, we just wanted to give you a sneak peak of what is to come.
+Since [@AdrianKuendig](https://twitter.com/AdrianKuendig), [@visualcontext](https://twitter.com/visualcontext), [@koma5](https://twitter.com/koma5) and I were not able to deliver a running prototype until the end of the event, we continued working on [the App](https://github.com/akuendig/TrainShareApp) as well as [the API](https://github.com/philippkueng/trainsharingapp) whenever we had some spare time. While it is neither done nor available in the AppStore yet, we just wanted to give you a sneak peak of what is to come.
 
 <iframe src="http://player.vimeo.com/video/41043505?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="654" height="368" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
