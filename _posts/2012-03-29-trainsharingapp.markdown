@@ -20,16 +20,16 @@ Obviously yes. Let us create a mobile app that allows to checkin to a train and 
 
 When starting the app for the first time you are using one of those buttons on the login screen to connect to your favourite network and start using the TrainsharingApp.
 
-![trainsharing-login](images/trainsharing-login.png)
+![trainsharing-login](/images/trainsharing-login.png)
 
 The subsequent window you will get is the home screen on which you can enter your commuting route. This will make a call to sbb.ch to get the timetable and save it locally for later reuse. If you have already used this route there is a quick dial button to select your route and then select the departure time on the following view.
 
-![trainsharing-home](images/trainsharing-home.png)
+![trainsharing-home](/images/trainsharing-home.png)
 
 As soon as you have chosen a time, you are automatically checked in to that train-route which will trigger a push notification to users on the same train or users who will share part of your route and with whom you are friends on one of the social networks offered at login. 
 After sending those notifications to friends or receiving one you are able to initiate a Meetup by selecting their name, selecting optional information and tipping the "Meetup" button.
 
-![trainsharing-social](images/trainsharing-social.png)
+![trainsharing-social](/images/trainsharing-social.png)
 
 ## The Technical Implementation
 
@@ -61,7 +61,7 @@ So much for the storage part, now over to the API. There will be three endpoints
 
 **/checkin** is, as the name suggests, the endpoint for when a user wants to check in to a train ride. For clarification, a train ride consists of multiple routes (Station-to-Station) and may also involve switching trains. Requests to `/checkin` should also be of type POST with the trainsharingID in the URL as follows `/checkin?trainsharingID=your_trainsharing_id`. As for the POST body, it is the information getting delivered when clicking on the details section for the specific connection timetable on sbb.ch.
 
-![sbb timetable screenshot](images/sbb_timetable_screenshot.png)
+![sbb timetable screenshot](/images/sbb_timetable_screenshot.png)
 
 |Key|Value|  |Key|Value|
 |:--|:----|:-|:--|:----|

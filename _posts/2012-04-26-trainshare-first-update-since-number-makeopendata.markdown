@@ -5,7 +5,7 @@ comments: true
 photo: "DSC_4670.jpg"
 ---
 
-![trainshare app mockups](images/trainshareapp.png)
+![trainshare app mockups](/images/trainshareapp.png)
 
 It has been quite a while since [#MakeOpenData](http://makeopendata.ch) took place, the event where [trainshare](http://trainshare.ch) transformed from being [purely an idea](http://philippkueng.ch/trainsharingapp.html) to something more tangible.
 

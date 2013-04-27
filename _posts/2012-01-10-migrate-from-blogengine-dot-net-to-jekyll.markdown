@@ -13,33 +13,40 @@ Log into your BlogEngine site and head over to **Settings** where you click on t
 ##Setup Octopress
 
 Octopress? - Isn't this tutorial for Jekyll? - you might ask. Well Octopress is built on top of Jekyll and brings some plugins and clever defaults to make your life easier. Start off by following the official [Octopress Setup tutorial](http://octopress.org/docs/setup/). If your working on an OS X machine you might want to consider installing [POW](http://pow.cx) since it's making it much easier to work with Jekyll locally. Once POW is installed open your Terminal and go to ~/.pow and create a symlink to the octopress-repo root.
-``` bash
+
+{% highlight bash %}
 $ ln -s /Users/yourUsername/Documents/octopress myapp
-```
+{% endhighlight %}
+
 Now open [http://myapp.dev](http://myapp.dev) in your browser to check if it's working so far.
 
 ##Import the "old data"
 
 Create a folder `_import` inside the octopress/source directory and put the [blogml.rb](https://github.com/philippkueng/philippkueng.github.com/blob/source/source/_import/blogml.rb) conversion file in there.
-``` bash
+
+{% highlight bash %}
 $ cd octopress/source
 $ mkdir _import
 $ cd _import
 $ wget https://github.com/philippkueng/philippkueng.github.com/blob/source/source/_import/blogml.rb --no-check-certificate
-```
+{% endhighlight %}
+
 This import script was actually created by @derekmorrison to assist him by [Moving to Jekyll](http://doingthedishes.com/2011/04/14/moving-to-jekyll.html). Since URLs have to be rewritten because of the .aspx extensions which are part of BlogEngine I slightly modified the script to additionally create an .htaccess file and to play nice with non-ASCII encoded post-titles.
 
 Next, move the BlogML.xml file inside the source directory and also create two seperate folders called `files` and `images` inside source. Then copy the contents of the previously dumped App_Data/files folder to their respective folders (images or files) by keeping the path structure intact. Means, that App_Data/files/2010/2/file.zip will go to octopress/source/files/2010/2/file.zip.
 
 Now to the fun part, open your Terminal and navigate inside your octopress/source directory. Then execute:
-``` bash
+
+{% highlight bash %}
 $ ruby -r './_import/blogml.rb' -e 'Jekyll::BlogML.process("BlogML.xml")'
-```
+{% endhighlight %}
+
 This should have imported all your existing posts so that you can now generate your Jekyll blog from it by exiting the source directory and issuing the rake command.
-``` bash
+
+{% highlight bash %}
 $ cd ..
 $ bundle exec rake generate
-```
+{% endhighlight %}
 
 ##Deploying
 
