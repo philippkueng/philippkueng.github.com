@@ -2,15 +2,6 @@
 layout: default
 single: true
 ---
-
-{% if page.photo %}
-<span id="photo" data-id="{{ page.photo }}" data-url="/images/{{ page.photo }}" data-original-width="0" data-original-height="0" style="background-image: url(/images/{{ page.photo }});">
-</span>
-{% else %}
-<span id="photo" data-id="default_header_image.jpg" data-url="/images/default_header_image.jpg" data-original-width="0" data-original-height="0" style="background-image: url(/images/default_header_image.jpg);">
-</span>
-{% endif %}
-
 <div>
 <article class="hentry" role="article">
   {% include article.html %}

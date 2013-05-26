@@ -2,7 +2,6 @@
 layout: post
 title: "Trainshare at the OpenData.ch Conference 2012"
 comments: true
-photo: "DSC_4670.jpg"
 ---
 <script async class="speakerdeck-embed" data-id="4fec27775cd901001f01f331" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
