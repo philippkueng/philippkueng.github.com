@@ -5,7 +5,7 @@ comments: true
 ---
 **It is nice when the data which is needed is already available but in case it is not, that should not be a hindrance.**
 
-Since 2009, when the British Guardian started publishing articles based on hard — non negotiable — data, people have been embracing the interdisciplinary nature of data journalism.
+Since 2009, when the British Guardian started publishing articles based on — non negotiable — data, people have been embracing the interdisciplinary nature of data journalism.
 
 That means working together with all kinds of people to get a story out the door. In my case I was happy to help [David Bauer](http://www.davidbauer.ch/) from the newspaper [TagesWoche](http://www.tageswoche.ch/) with an article about the miserable parking situation in Basel. The story was politically motivated though lacked the data to prove either side.
 
@@ -19,7 +19,7 @@ In our case the data is getting served through an HTML page, without gimmicky th
 
 ## The other objective
 
-Besides writing code that gathers the data, I also wanted to create something as easy and reusable as possible so others can scrape too. For this project I decided to go with Python since it is a bit more popular in the science world than Ruby and thus might be more useful to journalists. Also it is fairly easy to pick up; for example with the [Python course on Codeacademy](http://www.codecademy.com/tracks/python))
+Besides writing code that gathers the data, I also wanted to create something as easy and reusable as possible so others it will enable others to scrape aswell. I decided to go with Python for this project since it is a bit more popular in the science world than Ruby and thus might be more useful to journalists. Also it is fairly easy to pick up; for example with the [Python course on Codeacademy](http://www.codecademy.com/tracks/python))
 
 ## Hello World
 First of all we create a file called `app.py` and insert the code below to create a Hello World application.
@@ -32,8 +32,10 @@ sys.stdout.write('Hello World')
 
 Go ahead and execute it with the command `python app.py` from within your terminal. If you are seeing a “Hello World” message you are all set. Press Ctrl + C to terminate it.
 
+In case you are forced to work from a Windows Computer you might not have Python installed, if so head over to [python.org](http://www.python.org/download/) and get yourself a binary, take a 2.7.x release.
+
 ## Scraping the website
-Next up we are tackling the fetch & parse part. For this we extend our example above by adding a requirements.txt file to the folder and filling it with packages we will for the scraper.
+Next up we are tackling the fetch and parse part. For this we extend our example above by adding a requirements.txt file to the folder and filling it with packages we will for the scraper.
 
 {% highlight python %}
 # requirements.txt
@@ -42,6 +44,8 @@ wsgiref==0.1.2
 urllib3==1.5
 gdata==2.0.17
 {% endhighlight %}
+
+Make sure you have pip and virtualenv installed before continuing.
 
 Before we can startup the application for the second time we need to make sure all dependencies are installed. For this we create a virtual environment with the command `virtualenv venv --no-site-packages`, so packages are not getting installed globally.  Then we activate the environment by sourcing it `source venv/bin/activate`. Finally we can install the dependencies by issuing `pip install -r requirements.txt`.
 
