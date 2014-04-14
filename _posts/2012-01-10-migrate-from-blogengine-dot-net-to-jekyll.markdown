@@ -28,7 +28,7 @@ Create a folder `_import` inside the octopress/source directory and put the [blo
 $ cd octopress/source
 $ mkdir _import
 $ cd _import
-$ wget https://github.com/philippkueng/philippkueng.github.com/blob/source/source/_import/blogml.rb --no-check-certificate
+$ wget https://github.com/philippkueng/philippkueng.github.com/blob/30ef1570f06d33938b18d5eee7767d6641b9a779/source/_import/blogml.rb --no-check-certificate
 {% endhighlight %}
 
 This import script was actually created by @derekmorrison to assist him by [Moving to Jekyll](http://doingthedishes.com/2011/04/14/moving-to-jekyll.html). Since URLs have to be rewritten because of the .aspx extensions which are part of BlogEngine I slightly modified the script to additionally create an .htaccess file and to play nice with non-ASCII encoded post-titles.
