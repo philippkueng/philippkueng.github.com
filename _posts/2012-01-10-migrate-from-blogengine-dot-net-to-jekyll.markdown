@@ -28,7 +28,7 @@ Create a folder `_import` inside the octopress/source directory and put the [blo
 $ cd octopress/source
 $ mkdir _import
 $ cd _import
-$ wget https://github.com/philippkueng/philippkueng.github.com/blob/source/source/_import/blogml.rb --no-check-certificate
+$ wget https://github.com/philippkueng/philippkueng.github.com/blob/30ef1570f06d33938b18d5eee7767d6641b9a779/source/_import/blogml.rb --no-check-certificate
 {% endhighlight %}
 
 This import script was actually created by @derekmorrison to assist him by [Moving to Jekyll](http://doingthedishes.com/2011/04/14/moving-to-jekyll.html). Since URLs have to be rewritten because of the .aspx extensions which are part of BlogEngine I slightly modified the script to additionally create an .htaccess file and to play nice with non-ASCII encoded post-titles.
@@ -59,3 +59,7 @@ If your hosting provider is only offering FTP, then deploy manually by uploading
 We're not quite done yet. Log into your [Google](http://www.google.com/webmasters/) and [Bing Webmaster](http://www.bing.com/toolbox/webmaster/) account and replace the sitemap.axd entry with sitemap.xml. The same goes for your [Feedburner](http://feedburner.com/) account, log in and replace feeds.axd with atom.xml.
 
 Finally fix the [disqus](http://disqus.com/) comments. Log into their dashboard and select the account you want to migrate. Then click on the **Tools** tab and afterwards the **Migrate Threads** navigation entry. Hit the **Start Crawling** button for the Redirect Crawler Migration and your done.
+
+##Update - 14th april 2014
+
+[Eric Duncan](https://twitter.com/eduncan911) migrated his CommunityServer blog to Jekyll too by modifying the [BlogML import script (see comment below)](#comment-1327752341). For further details on how he did the migration, head on over to [his blog](http://eduncan911.com/software/please-put-your-blog-under-source-control.html) where he also provides a couple of ethical reasons why one should move to a public and versioned blog.
