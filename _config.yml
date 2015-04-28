@@ -29,10 +29,10 @@ root: /
 permalink: /:title.html
 code_dir: downloads/code
 category_dir: blog/categories
-pygments: true # default python pygments have been replaced by pygments.rb
 markdown: redcarpet
 redcarpet:
   extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+highlighter: pygments
 safe: true
 lsi: false
 
