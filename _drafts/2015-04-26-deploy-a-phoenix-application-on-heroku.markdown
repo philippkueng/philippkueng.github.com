@@ -11,7 +11,29 @@ However when it came to deploying it to Heroku there were a couple of things tha
 * https://github.com/ddollar/heroku-buildpack-multi
 * https://github.com/HashNuke/heroku-buildpack-elixir
 
-## Putting the brunch build command as a npm post-install command
+```
+# .buildpacks
+https://github.com/heroku/heroku-buildpack-nodejs.git#34cffc9b6397bc1ce97a4b5e911fa771fc4e7907
+https://github.com/HashNuke/heroku-buildpack-elixir.git#36f2ff22d0236589256d9044091b950b7cc565d2
+```
+
+## Adding the brunch build command as a npm post-install command
+
+```json
+# package.json
+{
+  "dependencies": {
+    ...
+  },
+  "engines": {
+    "node": "~ 0.12.1"
+  },
+  "scripts": {
+    "postinstall": "node_modules/.bin/brunch build"  
+  }
+}
+```
+
 ## Adding the Database_url extraction method to the prod_secret.exs
 
 ```elixir
@@ -41,4 +63,8 @@ config :librarian, Librarian.Repo,
   |> Heroku.database_config
 ```
 
-## Run the database migrations `heroku run mix ecto.migrate`
+## Run the database migrations
+
+```bash
+heroku run mix ecto.migrate
+```
