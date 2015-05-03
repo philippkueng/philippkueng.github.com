@@ -7,6 +7,8 @@ comments: true
 Since hearing of [Phoenix](http://www.phoenixframework.org/) the [Elixir](http://elixir-lang.org/) framework on [The Changelog Podcast](https://changelog.com/147/), I've spent some time getting familiar with the framework.
 However when it became time to deploy it on Heroku there were a couple of things that weren't obvious to me initially like how to run [brunch](http://brunch.io/) to compile the assets or how to parse the `DATABASE_URL` environment variable provided.
 
+## Buildpacks
+
 First we have to change the currently used buildpack to the multi buildpack which makes it possible to run the Node.js besides the Elixir buildpack.
 
 ```bash
