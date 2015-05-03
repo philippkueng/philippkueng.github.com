@@ -23,7 +23,9 @@ https://github.com/heroku/heroku-buildpack-nodejs.git#34cffc9b6397bc1ce97a4b5e91
 https://github.com/HashNuke/heroku-buildpack-elixir.git#36f2ff22d0236589256d9044091b950b7cc565d2
 ```
 
-## Adding the brunch build command as a npm post-install command
+## Compile the assets
+
+Now that we have multiple buildpacks we need to tell the Node.js buildpack to run the `postinstall` hook after all the dependencies are installed. Just add the `scripts` part to your `package.json` and you're all set for Heroku to run the `brunch build` command.
 
 ```json
 # package.json
