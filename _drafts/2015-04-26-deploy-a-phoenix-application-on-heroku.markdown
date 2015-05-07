@@ -42,14 +42,17 @@ Now that we have multiple buildpacks we need to tell the Node.js buildpack to ru
 }
 ```
 
-## Adding the Database_url extraction method to the prod_secret.exs
+## Parse the environment variable
+
+When deploying the application to Heroku, the configuration variables will be exposed to the application via environment variables. For the database that means, there will be a single String from which the `username`, `password`, `host`, etc. have to be extracted. You could theoretically do that by hand and just define those variables inidividually, however what happens if your database provider has an issue and suddenly decides to change the value behind your environment variable? - therefore in order to avoid it, just put the code below in your `prod.secret.exs` file to help you split the configuration variable for the database.
 
 ```elixir
+# config/prod.secret.exs
 defmodule Heroku do
   def database_config(uri) do
     parsed_uri = URI.parse(uri)
     [username, password] = parsed_uri.userinfo
-                          |> String.split(":")
+                           |> String.split(":")
     [_, database] = parsed_uri.path
                     |> String.split("/")
 
@@ -64,7 +67,7 @@ end
 ```
 
 ```elixir
-# Configure your database
+# config/prod.secret.exs
 config :librarian, Librarian.Repo,
   "DATABASE_URL"
   |> System.get_env
