@@ -66,6 +66,8 @@ defmodule Heroku do
 end
 ```
 
+Then instead of defining the arguments for your app separately call the `database_config` function and you're all set.
+
 ```elixir
 # config/prod.secret.exs
 config :librarian, Librarian.Repo,
