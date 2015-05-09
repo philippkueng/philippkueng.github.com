@@ -81,3 +81,5 @@ config :librarian, Librarian.Repo,
 ```bash
 heroku run mix ecto.migrate
 ```
+
+Since I'm pretty new to Elixir and even newer to the Phoenix Framework, this tutorial might lack some best practices, in which case please let me know so this post can be updated to reflect them.
