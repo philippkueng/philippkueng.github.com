@@ -70,7 +70,7 @@ Then instead of defining the arguments for your app separately call the `databas
 
 ```elixir
 # config/prod.secret.exs
-config :librarian, Librarian.Repo,
+config :yourapplication, Yourapplication.Repo,
   "DATABASE_URL"
   |> System.get_env
   |> Heroku.database_config
