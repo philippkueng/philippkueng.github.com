@@ -5,7 +5,7 @@ comments: true
 ---
 
 Since I heard of [Phoenix](http://www.phoenixframework.org/) the [Elixir](http://elixir-lang.org/) framework on [The Changelog Podcast](https://changelog.com/147/), I've spent some time getting familiar with the framework.
-However when it became time to deploy it on Heroku there were a couple of things that weren't obvious to me initially like how to run [brunch](http://brunch.io/) to compile the assets or how to parse the `DATABASE_URL` environment variable provided.
+However when time came to deploy the application onto Heroku there were a couple of things that weren't obvious to me initially, like how to run [brunch](http://brunch.io/) to compile the assets or how to parse the `DATABASE_URL` environment variable.
 
 ## Buildpacks
 
