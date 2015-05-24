@@ -15,7 +15,7 @@ First we have to change the currently used buildpack to the multi buildpack whic
 heroku config:add BUILDPACK_URL=https://github.com/ddollar/heroku-buildpack-multi.git
 ```
 
-Then add the file `.buildpacks` with the contents below which will pull in the buildpacks and run their compile script. The buildpack listed last will be used to run the application.
+Then add the file `.buildpacks` with the contents below which will pull in the buildpacks and run their compile script. The buildpack listed last will hereby be used to run the application.
 
 ```
 # .buildpacks
