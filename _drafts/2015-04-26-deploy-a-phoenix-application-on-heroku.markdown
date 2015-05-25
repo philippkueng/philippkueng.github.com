@@ -4,8 +4,8 @@ title: "Deploy a Phoenix Application on Heroku"
 comments: true
 ---
 
-Since I heard of [Phoenix](http://www.phoenixframework.org/) the [Elixir](http://elixir-lang.org/) framework on [The Changelog Podcast](https://changelog.com/147/), I've spent some time getting familiar with the framework.
-However when time came to deploy the application onto Heroku there were a couple of things that weren't obvious to me initially, like how to run [brunch](http://brunch.io/) to compile the assets or how to parse the `DATABASE_URL` environment variable.
+Since I heard of [Phoenix](http://www.phoenixframework.org/), the [Elixir](http://elixir-lang.org/) framework on [The Changelog Podcast](https://changelog.com/147/), I've spent some time getting familiar with the framework.
+However when time came to deploy the application onto Heroku there were a couple of things that weren't initially obvious to me, like how to run [brunch](http://brunch.io/) to compile the assets or how to parse the `DATABASE_URL` environment variable.
 
 ## Buildpacks
 
@@ -25,7 +25,7 @@ https://github.com/HashNuke/heroku-buildpack-elixir.git#36f2ff22d0236589256d9044
 
 ## Compile the assets
 
-Now that we have multiple buildpacks we need to tell the Node.js buildpack to run the `postinstall` hook after all the dependencies are installed. Just add the `scripts` part to your `package.json` and you're all set for Heroku to run the `brunch build` command.
+Now that we have multiple buildpacks we need to tell the Node.js one to run the `postinstall` hook after all the dependencies are installed. Just add the `scripts` part to your `package.json` and you're all set for Heroku to run the `brunch build` command.
 
 ```json
 # package.json
@@ -44,7 +44,7 @@ Now that we have multiple buildpacks we need to tell the Node.js buildpack to ru
 
 ## Parse the environment variable
 
-When deploying the application to Heroku, the configuration variables will be exposed to the application via environment variables. For the database that means, there will be a single String from which the `username`, `password`, `host`, etc. have to be extracted. You could theoretically do that by hand and just define those variables inidividually, however what happens if your database provider has an issue and suddenly decides to change the value behind your environment variable? - therefore in order to avoid it, just put the code below in your `prod.secret.exs` file to help you split the configuration variable for the database.
+When deploying the application to Heroku, the configuration variables will be exposed to the application via environment variables. For the database that means there will be a single String from which the `username`, `password`, `host`, etc. will have to be extracted. You could theoretically do that by hand defining those variables individually, however what happens if your database provider has an issue and suddenly decides to change the value behind your environment variable? - in order to avoid that, just put the code below in your `prod.secret.exs` file to help you split the configuration variable for the database.
 
 ```elixir
 # config/prod.secret.exs
@@ -66,7 +66,7 @@ defmodule Heroku do
 end
 ```
 
-Then instead of defining the arguments for your app separately call the `database_config` function and you're all set.
+Then instead of defining the arguments for your app separately, call the `database_config` function and you're all set.
 
 ```elixir
 # config/prod.secret.exs
