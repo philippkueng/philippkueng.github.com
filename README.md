@@ -1,6 +1,6 @@
 # philippkueng.github.io
 
-This is the repo for my personal blog on [http://philippkueng.ch](http://philippkueng.ch).
+This is the repo for my personal blog on [https://philippkueng.ch](https://philippkueng.ch).
 
 ## Writing
 
