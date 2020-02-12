@@ -29,14 +29,15 @@ root: /
 permalink: /:title.html
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: redcarpet
-redcarpet:
-  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 highlighter: rouge
 # safe: true
 lsi: false
 
-plugins: ["jekyll-paginate", "redcarpet"]
+plugins: ["jekyll-paginate"]
 paginate: 3          # Posts per page on the blog index
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
