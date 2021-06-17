@@ -50,6 +50,3 @@ titlecase: false       # Converts page and post titles to tilecase
 # Disqus Comments
 disqus_short_name: philippkueng
 disqus_show_comment_count: false
-
-# Google Analytics
-google_analytics_tracking_id: UA-4050995-6
