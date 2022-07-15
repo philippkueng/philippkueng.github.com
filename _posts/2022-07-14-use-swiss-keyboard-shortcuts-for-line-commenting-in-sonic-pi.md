@@ -18,36 +18,40 @@ The configuration you'll want is:
 
 ```json
 {
-	"title": "Remap CH comment combo to EN comment combo",
-	"rules": [
-		{
-			"description": "Remap CH comment combo to EN comment combo",
-			"manipulators": [
-				{
-					"conditions": [{
-                        "bundle_identifiers": [
-                            "net\\.sonic\\-pi\\.app"
-                        ],
-                        "type": "frontmost_application_if"
-                    }],
-					"from": {
-						"key_code": "7",
-                        "modifiers": {
-							"mandatory": [
-								"left_command",
-								"left_shift"
-							]
-						} 
-					},
-					"to": {
-						"key_code": "keypad_slash",
-						"modifiers": ["left_command"]
-					},
-					"type": "basic"
-				}
-			]
-		}
-	]
+  "title": "Remap CH comment combo to EN comment combo",
+  "rules": [
+    {
+      "description": "Remap CH comment combo to EN comment combo",
+      "manipulators": [
+        {
+          "conditions": [
+            {
+              "bundle_identifiers": [
+                "net\\.sonic\\-pi\\.app"
+              ],
+              "type": "frontmost_application_if"
+            }
+          ],
+          "from": {
+            "key_code": "7",
+            "modifiers": {
+              "mandatory": [
+                "left_command",
+                "left_shift"
+              ]
+            }
+          },
+          "to": {
+            "key_code": "keypad_slash",
+            "modifiers": [
+              "left_command"
+            ]
+          },
+          "type": "basic"
+        }
+      ]
+    }
+  ]
 }
 ```
 
