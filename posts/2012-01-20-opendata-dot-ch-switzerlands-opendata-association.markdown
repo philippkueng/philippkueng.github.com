@@ -1,9 +1,9 @@
----
-layout: post
-title: "OpenData.ch - Switzerland's OpenData Association"
-comments: true
-ref_url: "http://opendata.ch/2012/01/verein-opendata-ch-offiziell-gegrundet-manifest-und-agenda-2012/"
----
+Date: 2012-01-20
+Title: OpenData.ch - Switzerland's OpenData Association
+Comments: true
+Reference-URL: http://opendata.ch/2012/01/verein-opendata-ch-offiziell-gegrundet-manifest-und-agenda-2012/
+Tags: OpenData, OpenData.ch
+
 Yesterday, on january 19th, Swiss OpenData enthusiasts and activists have [founded the OpenData.ch Association in Bern](http://opendata.ch/2012/01/verein-opendata-ch-offiziell-gegrundet-manifest-und-agenda-2012/). It's goal is to bring together citizens, journalists, designers and developers to realize ideas based on publicly available [OpenData](http://en.wikipedia.org/wiki/Opendata) and OpenGovernmentData.
 
 More about the goals and mindset of OpenData.ch can be found in the [German-Only - Open Government Data for Switzerland Manifesto](http://opendata.ch/wp-content/uploads/2011/06/OGD-Manifest-Schweiz-1.0.pdf).

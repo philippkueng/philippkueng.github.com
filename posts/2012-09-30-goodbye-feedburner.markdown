@@ -1,8 +1,8 @@
----
-layout: post
-title: "Goodbye Feedburner"
-comments: true
----
+Date: 2012-09-30
+Title: Goodbye Feedburner
+Tags: Google Feedburner
+Comments: true
+
 ![RSS Feed](/images/DSC_7186.jpg)
 
 During the last couple of weeks many have announced that they are moving away from [Google Feedburner](http://feedburner.com).  The reason for this move, the [Feedburner API](https://developers.google.com/feedburner/) will be shut down in October of this year, probably leading to a similar fate for the feed proxy parts serving this feed.

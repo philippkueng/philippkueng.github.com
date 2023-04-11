@@ -1,8 +1,8 @@
----
-layout: post
-title: "Nikon D4 - A step into the right direction"
-comments: true
----
+Date: 2012-01-14
+Title: Nikon D4 - A step into the right direction
+Comments: true
+Tags: Nikon, DSLR
+
 Ten days back Nikon announced their new flagship model, the [Nikon D4](http://en.wikipedia.org/wiki/Nikon_D4). It's clearly got a higher Megapixel value - as needed for marketing purposes. On the side it has gotten some long awaited features such as proper HD video recording with all the bells and whistles you'd expect. For more details listen to James Banfield below.
 
 <iframe src="http://player.vimeo.com/video/34720376?title=0&amp;byline=0&amp;portrait=0&amp;color=59a5d1" width="654" height="368" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/34720376">Dslrnewsshooter video: Nikon D4 - video feature run through</a> from <a href="http://vimeo.com/danchung">Dan Chung</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

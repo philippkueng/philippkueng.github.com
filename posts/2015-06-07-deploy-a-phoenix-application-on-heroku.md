@@ -1,8 +1,7 @@
----
-layout: post
-title: "Deploy a Phoenix Application on Heroku"
-comments: true
----
+Date: 2015-06-07
+Title: Deploy a Phoenix Application on Heroku
+Tags: Phoenix, Elixir, Heroku
+Comments: true
 
 Since I heard of [Phoenix](http://www.phoenixframework.org/), the [Elixir](http://elixir-lang.org/) framework on [The Changelog Podcast](https://changelog.com/147/), I've spent some time getting familiar with the framework.
 However when time came to deploy the application onto Heroku there were a couple of things that weren't initially obvious to me, like how to run [brunch](http://brunch.io/) to compile the assets or how to parse the `DATABASE_URL` environment variable.
@@ -37,7 +36,7 @@ Now that we have multiple buildpacks we need to tell the Node.js one to run the 
     "node": "~ 0.12.1"
   },
   "scripts": {
-    "postinstall": "node_modules/.bin/brunch build"  
+    "postinstall": "node_modules/.bin/brunch build"
   }
 }
 ```

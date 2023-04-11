@@ -1,8 +1,8 @@
----
-layout: post
-title: "Das Trainshare-”Drama”: Was bisher geschah"
-comments: true
---- 
+Date: 2012-07-30
+Title: Das Trainshare-”Drama”: Was bisher geschah
+Tags: trainshare, SBB, Open Data Hackday, Hackathon
+Comments: true
+
 ![Train in Pfäffikon](/images/DSC_4670.jpg)
 
 Ein [Artikel der Sonntagszeitung](http://www.sonntagszeitung.ch/multimedia/artikel-detailseite/?newsid=225293) zum [Projekt Trainshare](http://trainshare.ch) hat am Sonntagmorgen einen doch beträchtlichen Twitter-”Shitstorm” gegen die SBB ausgelöst. Als Beteiligter am Projekt möchte ich gerne schildern, wie es überhaupt so weit kam.

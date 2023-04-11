@@ -4,6 +4,9 @@
  :tasks
  {:requires ([quickblog.cli :as cli])
   :init (def opts {:blog-title "Philipp Küng"
-                   :blog-description "Parent and Software Engineer with lots of interests"})
+                   :blog-root "https://philippkueng.ch"
+                   :blog-author "Philipp Küng"
+                   :blog-description "Parent and Software Engineer with lots of interests"
+                   :force-render true})
   quickblog {:doc "Start blogging quickly! Run `bb quickblog help` for details."
              :task (cli/dispatch opts)}}}

@@ -1,8 +1,8 @@
----
-layout: post
-title: "Migrate the BlogEngine.NET commenting system over to Disqus"
-comments: true
----
+Date: 2011-07-05
+Title: Migrate the BlogEngine.NET commenting system over to Disqus
+Comments: true
+Tags: Blog, BlogEngine.NET, Disqus
+
 ![comments](/images/2011/7/DSC_6717.jpg)
 
 Offloading comments to a third party, namely [disqus](http://disqus.com/), is the initial step I'll take for migrating my current blog to a static alternative called [Jekyll](http://github.com/mojombo/jekyll/). But more on my decision in a later post. Let's focus on the steps necessary to get those comments up to disqus.
@@ -22,8 +22,8 @@ Let's import. Log into your disqus account and select the blog you want the comm
 Next up we need to make a minor modification to the BlogEngine source. Open up your FTP browser, select the file post.aspx in the root of your BlogEngine installation and open it. In there remove the following line
 ``` javascript
 var disqus_url = '...';
-``` 
-and add the line 
+```
+and add the line
 ``` javascript
 var disqus_shortname = 'fill in your disqus domain username';
 ```

@@ -1,8 +1,7 @@
----
-layout: post
-title: "Reset your Synology NAS after a SynoLocker attack"
-comments: true
----
+Date: 2014-08-21
+Title: Reset your Synology NAS after a SynoLocker attack
+Tags: Synology NAS, SynoLocker
+Comments: true
 
 ![Encrypted Data](/images/cryptolocker.jpg)
 

@@ -1,8 +1,8 @@
----
-layout: post
-title: "Freemium - please leave"
-comments: true
----
+Date: 2012-01-15
+Title: Freemium - please leave
+Comments: true
+Tags: SaaS, Pricing
+
 Last december Maciej Ceglowski, founder of pinboard has written a [post](http://blog.pinboard.in/2011/12/don_t_be_a_free_user/) about the fact that all great services which don't charge are very likely going to disappear in the long run.
 
 Maciej Ceglowski:
@@ -14,7 +14,7 @@ Now after having [migrated this blog over to a static version](http://philippkue
 
 While having used the **free** version of [Wufoo](http://wufoo.com/) in the past I thought it's a no brainer to go back and leverage it again. Obviously paying for it this time. Then it hit me while checking the [pricing page](http://wufoo.com/signup/). The cheapest subscription is 15 dollars per month, while free plans are displaying ads to your visitor. What are they thinking! Paying 15 dollars, which is more than I pay for hosting, while only receiving about two messages during that time period.
 
-That said, please startups and SaaS companies, remove the free model and make premium reasonably priced. 
+That said, please startups and SaaS companies, remove the free model and make premium reasonably priced.
 
 As for Wufoo, i'd guess replacing the free plan with one where you'd pay 2 dollars a month would make them more profit than showing ads on those confirmation pages.
 

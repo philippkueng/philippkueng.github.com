@@ -1,8 +1,6 @@
----
-layout: post
-title: "Use Swiss keyboard shortcuts for line commenting in Sonic Pi"
-comments: false
----
+Date: 2022-07-14
+Title: Use Swiss keyboard shortcuts for line commenting in Sonic Pi
+Tags: Sonic Pi, Karabiner-Elements
 
 Every now and then after a day at work I enjoy toying around with [Sonic Pi](https://sonic-pi.net/), an amazing application for making music with code.
 
@@ -60,5 +58,4 @@ If you also got this need then following these steps should set you up.
 1. Install [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 2. In your terminal go to `~/.config/karabiner/assets/complex_modifications`
 3. In there create a file `remap_ch_comment_combo_to_en_comment_combo.json` and fill it with the configuration above.
-4. Then start Karabiner Elements, go to the Complex Modifications tab ![Complex Modifications tab](/images/2022-07-14-1.png) and there click the Enable button for the new configuration ![Enable button](/images/2022-07-14-2.png).
-
+4. Then start Karabiner Elements, go to the Complex Modifications tab ![Complex Modifications tab](/assets/images/2022-07-14-1.png) and there click the Enable button for the new configuration ![Enable button](/assets/images/2022-07-14-2.png).

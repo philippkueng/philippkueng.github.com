@@ -1,8 +1,8 @@
----
-layout: post
-title: "A Link-Blog with Octopress"
-comments: true
----
+Date: 2012-01-11
+Title: A Link-Blog with Octopress
+Comments: true
+Tags: Octopress, Blog
+
 During the last week well known bloggers have started turning off comments in a move to not having to care about sorting out SPAM and having more time for the actual writing. [Matt Gemmell](http://mattgemmell.com/) has written an [excellent summary](http://mattgemmell.com/2012/01/07/comments-commentary/) about this, for those of you interested.
 
 While I'm not sure yet if I'll ever do the same, I started wondering on how to realize something like a Link-Blog with Octopress. Turns out it's pretty easy.
@@ -24,7 +24,7 @@ First modify the `article.html` inside source/_includes and exchange the lower `
 {% endhighlight %}
 
 Then continue with adding an if-else clause to the `atom.xml` file too. Extend the `<link>` element inside the parent `<entry>` with the code below. Done.
-  
+
 {% highlight html %}
 {{ "{% if post.ref_url" }} %}
   <link href="{{ "{{ post.ref_url" }} }}"/>
@@ -36,13 +36,10 @@ Then continue with adding an if-else clause to the `atom.xml` file too. Extend t
 If you want to create a Link-Blog post now, add `ref_url` to the markdown file header and Octopress takes care of the rest.
 
 {% highlight text %}
----
-layout: post
-title: "This Awesome Article"
+Title: This Awesome Article"
 date: 2012-01-13 21:20
-comments: true
+Comments: true
 ref_url: http://somesite.com/thisawesomearticle.html
----
 This one is really great, check it out.
 {% endhighlight %}
 

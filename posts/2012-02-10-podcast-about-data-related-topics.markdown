@@ -1,13 +1,13 @@
----
-layout: post
-title: "Podcast about data related topics?"
-comments: true
----
+Date: 2012-02-10
+Title: Podcast about data related topics?
+Comments: true
+Tags: Podcast
+
 ![Audio Mixer](/images/DSC_6377.jpg)
 
 [OpenData](http://en.wikipedia.org/wiki/Open_data), [BigData](Big_data),  Infographics, [Visualizations](http://datavisualization.ch/) and [Data journalism](http://www.guardian.co.uk/news/datablog/2011/jul/28/data-journalism) are all buzz words and movements which started to get quite some traction lately.
 
-Whilst there are lively ecosystems of blogs around niche topics like visualizations, processing or data journalism there is not enough interdisciplinary communication going on in my opinion. 
+Whilst there are lively ecosystems of blogs around niche topics like visualizations, processing or data journalism there is not enough interdisciplinary communication going on in my opinion.
 
 Well, how about creating it by interviewing those experts, giving them some airtime and maybe even connect previously unknown scientists, journalists, hackers, politicians and ideators to each other.
 

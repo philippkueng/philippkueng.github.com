@@ -1,8 +1,8 @@
----
-layout: post
-title: "TrainsharingApp"
-comments: true
----
+Date: 2012-03-29
+Title: TrainsharingApp
+Tags: trainshare, Open Data Hackday, Hackathon
+Comments: true
+
 ![Train in Pfäffikon](/images/DSC_4670.jpg)
 Sharing a train, something the Swiss twitter community has done for years via the hashtag [#trainsharing](https://twitter.com/#!/search/%23trainsharing) should now be brought to the masses with a dedicated app.
 
@@ -26,7 +26,7 @@ The subsequent window you will get is the home screen on which you can enter you
 
 ![trainsharing-home](/images/trainsharing-home.png)
 
-As soon as you have chosen a time, you are automatically checked in to that train-route which will trigger a push notification to users on the same train or users who will share part of your route and with whom you are friends on one of the social networks offered at login. 
+As soon as you have chosen a time, you are automatically checked in to that train-route which will trigger a push notification to users on the same train or users who will share part of your route and with whom you are friends on one of the social networks offered at login.
 After sending those notifications to friends or receiving one you are able to initiate a Meetup by selecting their name, selecting optional information and tipping the "Meetup" button.
 
 ![trainsharing-social](/images/trainsharing-social.png)

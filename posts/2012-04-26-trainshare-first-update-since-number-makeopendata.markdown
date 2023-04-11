@@ -1,8 +1,8 @@
----
-layout: post
-title: "trainshare - first update"
-comments: true
----
+Date: 2012-04-26
+Title: trainshare - first update
+Tags: trainshare, Open Data Hackday, Hackathon
+Comments: true
+
 ![trainshare app mockups](/images/trainshareapp.png)
 
 It has been quite a while since [#MakeOpenData](http://makeopendata.ch) took place, the event where [trainshare](http://trainshare.ch) transformed from being [purely an idea](http://philippkueng.ch/trainsharingapp.html) to something more tangible.

@@ -1,9 +1,9 @@
----
-layout: post
-title: "Structured Procrastination"
-comments: true
-ref_url: "http://www.structuredprocrastination.com/"
----
+Date: 2012-02-02
+Title: Structured Procrastination
+Comments: true
+Tags: Life-Hacks, Procrastination
+Reference-URL: http://www.structuredprocrastination.com/
+
 John Perry:
 > One needs to be able to recognize and commit oneself to tasks with inflated importance and unreal deadlines, while making oneself feel that they are important and urgent.
 
