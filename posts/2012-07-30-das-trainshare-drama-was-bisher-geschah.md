@@ -3,13 +3,13 @@ Title: Das Trainshare-”Drama”: Was bisher geschah
 Tags: trainshare, SBB, Open Data Hackday, Hackathon
 Comments: true
 
-![Train in Pfäffikon](/images/DSC_4670.jpg)
+![Train in Pfäffikon](/assets/images/DSC_4670.jpg)
 
-Ein [Artikel der Sonntagszeitung](http://www.sonntagszeitung.ch/multimedia/artikel-detailseite/?newsid=225293) zum [Projekt Trainshare](http://trainshare.ch) hat am Sonntagmorgen einen doch beträchtlichen Twitter-”Shitstorm” gegen die SBB ausgelöst. Als Beteiligter am Projekt möchte ich gerne schildern, wie es überhaupt so weit kam.
+Ein [Artikel der Sonntagszeitung](http://www.sonntagszeitung.ch/multimedia/artikel-detailseite/?newsid=225293) zum [Projekt Trainshare](https://trainshare.ch) hat am Sonntagmorgen einen doch beträchtlichen Twitter-”Shitstorm” gegen die SBB ausgelöst. Als Beteiligter am Projekt möchte ich gerne schildern, wie es überhaupt so weit kam.
 
 Der Hauptgrund für die Situation ist höchstwahrscheinlich ein Missverständnis am 30. März 2012: An diesem Datum fand in Zürich ein [Open Data Hackday](http://opendata.ch/projects/make-opendata-ch-mobiliat/) statt, ein Anlass an dem Programmierer, Designer und andere mit offenen Daten an tollen neuen Anwendungen für die Öffentlichkeit arbeiteten.
 
-An diesem Event, nach einem [vorhergehenden Blogeintrag](http://philippkueng.ch/trainsharingapp.html), riefen [Alain](http://twitter.com/visualcontext), [Adrian](http://twitter.com/AdrianKuendig) und ich die [Trainshare App](http://trainshare.ch) ins Leben. Nachdem wir einen halben Tag daran gearbeitet hatten, setzten sich [Bruno Spicher](https://www.xing.com/profile/Bruno_Spicher) und [Jean-Philippe Picard](https://www.xing.com/profile/JeanPhilippe_Picard) von den SBB zu uns, um mit uns zu diskutieren, worum es bei der Trainshare App geht. Ich erklärte ihnen ganz offen, was der Plan war und was unsere Beweggründe waren. Anschliessend liess uns Bruno Spicher wissen, dass sie “an etwas Ähnlichem” bauen, das im Herbst 2012 veröffentlicht werden solle. Diese neue SBB App werde gleich funktionieren wie die bestehende Gleis7 App, zusätzlich aber “CheckIns” erlauben. Tiefe “social media” Integration von Twitter und Facebook wurden weder im Gespräch erwähnt, noch gibt es derlei in der Gleis7 App.
+An diesem Event, nach einem [vorhergehenden Blogeintrag](https://philippkueng.ch/trainsharingapp.html), riefen [Alain](https://twitter.com/visualcontext), [Adrian](https://twitter.com/AdrianKuendig) und ich die [Trainshare App](https://trainshare.ch) ins Leben. Nachdem wir einen halben Tag daran gearbeitet hatten, setzten sich [Bruno Spicher](https://www.xing.com/profile/Bruno_Spicher) und [Jean-Philippe Picard](https://www.xing.com/profile/JeanPhilippe_Picard) von den SBB zu uns, um mit uns zu diskutieren, worum es bei der Trainshare App geht. Ich erklärte ihnen ganz offen, was der Plan war und was unsere Beweggründe waren. Anschliessend liess uns Bruno Spicher wissen, dass sie “an etwas Ähnlichem” bauen, das im Herbst 2012 veröffentlicht werden solle. Diese neue SBB App werde gleich funktionieren wie die bestehende Gleis7 App, zusätzlich aber “CheckIns” erlauben. Tiefe “social media” Integration von Twitter und Facebook wurden weder im Gespräch erwähnt, noch gibt es derlei in der Gleis7 App.
 
 Aufgrund der obigen Informationen beschlossen wir, die Trainshare App weiter zu entwickeln, und den Pendlern als kostenloses, werbefreies “social travel” Experiment anzubieten. Die anfallenden Daten wollten wir aufbereiten und visualisieren, sodass den SBB indirekt ebenfalls ein Nutzen erwächst – neben zufriedeneren Kunden vielleicht gar mehr Fahrten.
 
@@ -40,7 +40,7 @@ Erste Anzeichen von @SBBConnect gesehen durch einen Retweet von [@rueetschli](ht
 <br/>
 
 **28. Juni 2012**<br/>
-Hatte die Ehre und präsentierte [@trainshare an der OpenData Konferenz 2012](http://philippkueng.ch/trainshare-at-the-opendata-dot-ch-conference-2012.html). Das Medienecho war gross und somit sollten auch bislang OpenData-fremde SBB-Mitarbeitende von der App Wind bekommen haben.
+Hatte die Ehre und präsentierte [@trainshare an der OpenData Konferenz 2012](https://philippkueng.ch/trainshare-at-the-opendata-dot-ch-conference-2012.html). Das Medienecho war gross und somit sollten auch bislang OpenData-fremde SBB-Mitarbeitende von der App Wind bekommen haben.
 Ein "Hallo, wir machen exakt dasselbe. Ihr könnt euch die Zeit also sparen" oder "Hi, wir finden es toll, lasst uns das zusammen bauen" oder jegliche andere Signale seitens der Bahn bleiben aus.
 
 **19. Juli 2012**<br/>

@@ -3,21 +3,21 @@ Title: Eine Woche mit Jolicloud - Ein Erfahrungsbericht
 Comments: true
 Tags: untagged
 
-<img src="/images/2010/1/jolicloud-logo.png" alt="" />
+<img src="/assets/images/2010/1/jolicloud-logo.png" alt="" />
 <p>In der letzten Semesterwoche vor den Studienferien habe ich mich einem radikalen Test unterzogen. Die Idee war eine
-    Woche nur mit <a href="http://www.jolicloud.com">Jolicloud</a> OS zu arbeiten (wenigstens auf dem Laptop) um danach
+    Woche nur mit <a href="https://www.jolicloud.com">Jolicloud</a> OS zu arbeiten (wenigstens auf dem Laptop) um danach
     objektiv ein Urteil über das Produkt fällen zu können.</p>
 <strong>Microsoft OneNote und Windows Live Writer vs. OpenOffice.org</strong><br />
-<img src="/images/2010/1/OneNote_und_Windows_Live_Writer_vs_OOo_und_Dropbox_Sketch.jpg" alt="" />
+<img src="/assets/images/2010/1/OneNote_und_Windows_Live_Writer_vs_OOo_und_Dropbox_Sketch.jpg" alt="" />
 <p>Zu allererst mussten natürlich passende Programme gefunden werden wie ich sie in der Windows Welt verwende. Trotz <a
-        href="http://de.wikipedia.org/wiki/Wine">Wine</a> das per Jolicloud problemlos installiert werden konnte brachte
-    ich es nicht fertig Microsoft OneNote oder <a href="http://download.live.com">Windows Live Writer</a> zu
+        href="https://de.wikipedia.org/wiki/Wine">Wine</a> das per Jolicloud problemlos installiert werden konnte brachte
+    ich es nicht fertig Microsoft OneNote oder <a href="https://download.live.com">Windows Live Writer</a> zu
     installieren, wäre wohl auch zu einfach gewesen ;-). Das Problem hätte mit einer virtuellen Windows Machine gelöst
     werden können. Jedoch virtuelle Maschine auf Netbook, keine besonders gute Idee! Daher musste ich wohl oder übel
     darauf verzichten.</p>
 <p>Doch zum Glück gab es da noch Evernote, das sogar auch per Jolicloud installiert werden konnte. Naiv installierte ich
     es mit einem klick auf das schöne Evernote Icon, doch musste danach feststellen das dies lediglich ein Bookmark für
-    Firefox war das auf <a href="http://www.evernote.com">Evernote.com</a> verwies. Das ganze wäre nicht weiter schlimm,
+    Firefox war das auf <a href="https://www.evernote.com">Evernote.com</a> verwies. Das ganze wäre nicht weiter schlimm,
     könnte ich ein Mobiles Internet Abo mein eigen nennen, ohne ist es dann aber einfach nur nutzlos. Evernote aufgeben
     stand noch nicht zur Debatte, so versuchte ich es mit der Evernote Beta Installation 3.5 unter Wine. Die Beta
     benötigte leider das .NET Framework 3.5 SP1 woran dann auch dieser Versuch scheiterte. Glücklicherweise
@@ -29,16 +29,16 @@ Tags: untagged
 <p><em>Nebenbei auch das Team von Jolicloud findet diese Lösung genial, sodass sie sie ausbauen wollen wie, im Interview
         mit Techcrunch Michael Arrington, verkündet wurde (Video unten).
     </em></p><object width="666" height="400">
-    <param name="movie" value="http://www.youtube.com/v/5-foFuQkL1I&hl=en_US&fs=1&">
+    <param name="movie" value="https://www.youtube.com/v/5-foFuQkL1I&hl=en_US&fs=1&">
     </param>
     <param name="allowFullScreen" value="true">
     </param>
     <param name="allowscriptaccess" value="always">
-    </param><embed src="http://www.youtube.com/v/5-foFuQkL1I&hl=en_US&fs=1&" type="application/x-shockwave-flash"
+    </param><embed src="https://www.youtube.com/v/5-foFuQkL1I&hl=en_US&fs=1&" type="application/x-shockwave-flash"
         allowscriptaccess="always" allowfullscreen="true" width="666" height="400"></embed>
 </object>
 <br /><br /><strong>Gute Performance</strong><br />
-<img src="/images/2010/1/Jolicloud_Performance.jpg" alt="" />
+<img src="/assets/images/2010/1/Jolicloud_Performance.jpg" alt="" />
 <p>Bezüglich der Geschwindigkeit kann ich nur bedingt Auskunft geben, da Jolicloud auf einem 16GB USB Stick installiert
     wurde und nicht wie normalerweise auf der internen Festplatte. Auch die Hardware ein HP 2710P (obwohl schon 1.5
     Jahre alt) liegt in der Leistungsklasse einiges höher als ein Durchschnitts-Netbook.</p>

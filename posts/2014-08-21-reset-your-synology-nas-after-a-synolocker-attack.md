@@ -3,7 +3,7 @@ Title: Reset your Synology NAS after a SynoLocker attack
 Tags: Synology NAS, SynoLocker
 Comments: true
 
-![Encrypted Data](/images/cryptolocker.jpg)
+![Encrypted Data](/assets/images/cryptolocker.jpg)
 
 Personal NAS-es are quite handy, however their wide spread usage and the fact that people don't often check their system via the web dashboard makes it a perfect target for crackers trying to extort you for money or just using your machine to mine bitcoins for them.
 

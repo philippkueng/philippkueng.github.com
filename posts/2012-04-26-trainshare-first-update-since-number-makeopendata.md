@@ -3,9 +3,9 @@ Title: trainshare - first update
 Tags: trainshare, Open Data Hackday, Hackathon
 Comments: true
 
-![trainshare app mockups](/images/trainshareapp.png)
+![trainshare app mockups](/assets/images/trainshareapp.png)
 
-It has been quite a while since [#MakeOpenData](http://makeopendata.ch) took place, the event where [trainshare](http://trainshare.ch) transformed from being [purely an idea](http://philippkueng.ch/trainsharingapp.html) to something more tangible.
+It has been quite a while since [#MakeOpenData](https://makeopendata.ch) took place, the event where [trainshare](https://trainshare.ch) transformed from being [purely an idea](https://philippkueng.ch/trainsharingapp.html) to something more tangible.
 
 Since [@AdrianKuendig](https://twitter.com/AdrianKuendig), [@visualcontext](https://twitter.com/visualcontext), [@koma5](https://twitter.com/koma5) and I were not able to deliver a running prototype until the end of the event, we continued working on [the App](https://github.com/akuendig/TrainShareApp) as well as [the API](https://github.com/philippkueng/trainsharingapp) whenever we had some spare time. While it is neither done nor available in the AppStore yet, we just wanted to give you a sneak peak of what is to come.
 

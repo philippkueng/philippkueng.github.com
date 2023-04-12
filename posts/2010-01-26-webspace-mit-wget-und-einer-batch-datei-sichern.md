@@ -7,9 +7,9 @@ Tags: untagged
     sp&auml;t ist. Dabei w&auml;ren zumindest Website Backups so einfach zu bewerkstelligen. Wie das genau geht werde
     ich in mehreren Teilen zeigen.</p>
 <p>Um den Speicherplatz mit all den wichtigen Bildern und Dateien zu sichern bedienen wir uns des unter der <a
-        href="http://en.wikipedia.org/wiki/GPLv3#Version_3">GPL Version 3 Lizenz</a> stehenden <a
-        href="http://www.gnu.org/software/wget/">WGET</a> Programms. Da WGET in <a
-        href="http://de.wikipedia.org/wiki/C_(Programmiersprache)">C</a> geschrieben ist, sollten &auml;hnliche Backup
+        href="https://en.wikipedia.org/wiki/GPLv3#Version_3">GPL Version 3 Lizenz</a> stehenden <a
+        href="https://www.gnu.org/software/wget/">WGET</a> Programms. Da WGET in <a
+        href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">C</a> geschrieben ist, sollten &auml;hnliche Backup
     Methoden mit diesem Programm auch auf anderen Betriebssystemen m&ouml;glich sein. Der Einfachheit halber (und weil
     ich kein Mac besitze) werde ich hier jedoch nur die Sicherung unter Windows demonstrieren.</p>
 <p><strong>Zuerst einmal was ist eine Batch Datei?</strong><br />
@@ -17,7 +17,7 @@ Tags: untagged
     Datei zu verwandeln ist, diese in Notepad zu &ouml;ffnen, und danach auf Datei &gt; Speichern unter zu klicken. Im
     nun erscheinenden Dialog w&auml;hlt man f&uuml;r Dateityp Alle Dateien (*.*) aus. Nun kann der neue Dateinamen mit
     der Endung .bat eingegeben werden. <i>Bsp.: website-sicherung.bat</i>. Danach auf Speichern klicken und man hat eine
-    eigene Batch Datei erstellt.</p><img src="/images/2010/1/website-sicherung-bat-notepad.png"
+    eigene Batch Datei erstellt.</p><img src="/assets/images/2010/1/website-sicherung-bat-notepad.png"
     alt="Batch Datei in Notepad erstellen" />
 <p>Die Anweisungen, welche in die Batch Datei kommen sind aufgebaut wie folgt. <br /><strong>Wichtig:</strong> Es gilt
     alles auf nur eine Linie zu schreiben, da dies sonst als 2 verschiedene Befehle interpretiert wird.</p>

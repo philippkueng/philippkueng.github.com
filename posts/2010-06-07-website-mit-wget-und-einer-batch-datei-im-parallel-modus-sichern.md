@@ -3,13 +3,13 @@ Title: Website mit WGET und einer Batch Datei im Parallel-Modus sichern
 Comments: true
 Tags: untagged
 
-<img alt="festplatte" src="/images/festplatte.jpg" />
+<img alt="festplatte" src="/assets/images/festplatte.jpg" />
 <p>Im Januar 2010 habe ich hier auf diesem Blog eine Möglichkeit vorgestellt wie mithilfe einer Batchdatei und des Open
     Source Programms WGET die eigenen Webseiten offline gesichert werden können. <a
-        href="http://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Website mit WGET und
+        href="https://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Website mit WGET und
         einer Batch Datei sichern</a></p>
 <p>Bei vielen verschiedenen Webseiten kann der Sicherungsvorgang leider ganz schön viel Zeit beanspruchen da <a
-        href="http://www.gnu.org/software/wget/">WGET</a> und das Batch Skript lediglich seriell ausgeführt werden. Es
+        href="https://www.gnu.org/software/wget/">WGET</a> und das Batch Skript lediglich seriell ausgeführt werden. Es
     gibt allerdings eine Möglichkeit wie das Backup quasi parallel ausgeführt wird. Als Ausgangspunkt brauchen wir das
     schon erstellte Backup Skript vom Januar 2010 (backup_skript), welches ungefähr so aussieht:</p>
 

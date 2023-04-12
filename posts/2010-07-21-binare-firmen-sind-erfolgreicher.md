@@ -20,13 +20,13 @@ Tags: untagged
     wird. Einfach nur #epic #fail.</p>
 <p><strong>Alles in allem, Entscheidungen werden nie leichter, der Fragende kann aber alles daran setzten damit sie uns
         leichter erscheinen.</strong></p>
-<p>Das folgende <a href="http://www.ted.com/">TED</a> Video zeigt eine Präsentation von Barry Schwartz der genau diesen
+<p>Das folgende <a href="https://www.ted.com/">TED</a> Video zeigt eine Präsentation von Barry Schwartz der genau diesen
     Entscheidungsüberfluss thematisiert.</p> <object width="654" height="515">
-    <param name="movie" value="http://www.youtube.com/v/VO6XEQIsCoM&amp;hl=en_US&amp;fs=1">
+    <param name="movie" value="https://www.youtube.com/v/VO6XEQIsCoM&amp;hl=en_US&amp;fs=1">
     </param>
     <param name="allowFullScreen" value="true">
     </param>
     <param name="allowscriptaccess" value="always">
-    </param><embed src="http://www.youtube.com/v/VO6XEQIsCoM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash"
+    </param><embed src="https://www.youtube.com/v/VO6XEQIsCoM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash"
         allowscriptaccess="always" allowfullscreen="true" width="654" height="516"></embed>
 </object>

@@ -3,10 +3,10 @@ Title: Livestream vs. kein Livestream - nicht Erfolg vs. Erfolg
 Comments: true
 Tags: untagged
 
-<a href="http://www.flickr.com/photos/acaben/541444577/"><img alt="541444577_ffd86b5a25_b[1]"
-        src="/images/541444577_ffd86b5a25_b%5B1%5D.jpg" /></a>
+<a href="https://www.flickr.com/photos/acaben/541444577/"><img alt="541444577_ffd86b5a25_b[1]"
+        src="/assets/images/541444577_ffd86b5a25_b%5B1%5D.jpg" /></a>
 <p>Am 7. Juni 2010, traute ich mich als nicht Apple-Gerät-Besitzer nach Bern an das <a
-        href="http://twtvite.com/wwdcbe">#wwdcbe</a> Tweetup wo die WWDC Keynote von Steve Jobs per Liveticker verfolgt
+        href="https://twtvite.com/wwdcbe">#wwdcbe</a> Tweetup wo die WWDC Keynote von Steve Jobs per Liveticker verfolgt
     wurde. Anstatt die Demos von Steve als Video zu schauen, besprachen wir die Features untereinander oder checkten die
     Twitter Timeline. Am Ende des Abends wussten wir, sofern ich es jetzt sagen kann, über alles Bescheid obwohl nur
     kurze Meldungen und Bilder zu uns durchsickerten.</p>

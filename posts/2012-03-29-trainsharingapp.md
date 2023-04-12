@@ -3,10 +3,10 @@ Title: TrainsharingApp
 Tags: trainshare, Open Data Hackday, Hackathon
 Comments: true
 
-![Train in Pfäffikon](/images/DSC_4670.jpg)
+![Train in Pfäffikon](/assets/images/DSC_4670.jpg)
 Sharing a train, something the Swiss twitter community has done for years via the hashtag [#trainsharing](https://twitter.com/#!/search/%23trainsharing) should now be brought to the masses with a dedicated app.
 
-My goal is to realize the backend as well as various mobile clients with the help of other hackers during the [make.opendata.ch hackathon](http://make.opendata.ch) to show what can be done by leveraging publicly accessible data. And just for the fun of jumping on the buzzword bandwagon, it will be [SoLoMo (social-local-mobile)](http://techcrunch.com/2012/03/24/die-solomo-die/) ;-).
+My goal is to realize the backend as well as various mobile clients with the help of other hackers during the [make.opendata.ch hackathon](https://make.opendata.ch) to show what can be done by leveraging publicly accessible data. And just for the fun of jumping on the buzzword bandwagon, it will be [SoLoMo (social-local-mobile)](https://techcrunch.com/2012/03/24/die-solomo-die/) ;-).
 
 ## What led to the idea
 
@@ -20,49 +20,56 @@ Obviously yes. Let us create a mobile app that allows to checkin to a train and 
 
 When starting the app for the first time you are using one of those buttons on the login screen to connect to your favourite network and start using the TrainsharingApp.
 
-![trainsharing-login](/images/trainsharing-login.png)
+![trainsharing-login](/assets/images/trainsharing-login.png)
 
 The subsequent window you will get is the home screen on which you can enter your commuting route. This will make a call to sbb.ch to get the timetable and save it locally for later reuse. If you have already used this route there is a quick dial button to select your route and then select the departure time on the following view.
 
-![trainsharing-home](/images/trainsharing-home.png)
+![trainsharing-home](/assets/images/trainsharing-home.png)
 
 As soon as you have chosen a time, you are automatically checked in to that train-route which will trigger a push notification to users on the same train or users who will share part of your route and with whom you are friends on one of the social networks offered at login.
 After sending those notifications to friends or receiving one you are able to initiate a Meetup by selecting their name, selecting optional information and tipping the "Meetup" button.
 
-![trainsharing-social](/images/trainsharing-social.png)
+![trainsharing-social](/assets/images/trainsharing-social.png)
 
 ## The Technical Implementation
 
-As for the backend, there exists an already scraped static dataset of train lines with their corresponding numbers, eg. S8 18898 and each route (Station to Station, see below). All in all about 230'000 routes which will reside inside a MySQL DB. In case you want to play around with the dataset, here is a [routes table dump](files/trainsharing_routes.sql).
+As for the backend, there exists an already scraped static dataset of train lines with their corresponding numbers, eg. S8 18898 and each route (Station to Station, see below). All in all about 230'000 routes which will reside inside a MySQL DB. In case you want to play around with the dataset, here is a [routes table dump](/assets/files/trainsharing_routes.sql).
 
+```
 |id|linename|dep_station|dep_time|arr_station|arr_time|
 |:-|:-------|:----------|:-------|:----------|:-------|
 |1|S2725920|Waldshut|06:24|Koblenz|06:29
 |2|S2725920|Koblenz|06:44|Klingnau|06:47
+```
 
 For matching friends there will be some kind of NoSQL DB instance since MySQL is not that good at it without creating a lot of table and row overhead. Still needs to be figured out, suggestions are welcome.
 
 Additionally there will be a join table (routes_users, see below) for matching the routes with users. Since the routes_users table can fill up quite fast and past data does not need to be held warm, it will be pushed to S3 for later analysis and then cleared every 24 hours.
 
+```
 |id|routes_id|users_id|start_time|
 |:-|:--------|:-------|:---------|
 |1|423|234412345|12:03
 |2|5122|967512345|14:34
+```
 
 So much for the storage part, now over to the API. There will be three endpoints at least, `/login`, `/checkin` and `/read`.
 
 **/login** will be used to send the social network authentication tokens over to the server to allow us to do the bandwith heavy parts. The request should be one of type POST with the credentials in its body, which will give a trainsharingID back as a response. This trainsharingID will then be stored on the client device and used for every single request as a querystring.
 
+```
 |Key|Value|
 |:--|:----|
 |network|facebook, twitter or foursquare
 |token|network_token
 |token_secret|network_token_secret
+```
 
 **/checkin** is, as the name suggests, the endpoint for when a user wants to check in to a train ride. For clarification, a train ride consists of multiple routes (Station-to-Station) and may also involve switching trains. Requests to `/checkin` should also be of type POST with the trainsharingID in the URL as follows `/checkin?trainsharingID=your_trainsharing_id`. As for the POST body, it is the information getting delivered when clicking on the details section for the specific connection timetable on sbb.ch.
 
-![sbb timetable screenshot](/images/sbb_timetable_screenshot.png)
+![sbb timetable screenshot](/assets/images/sbb_timetable_screenshot.png)
 
+```
 |Key|Value|  |Key|Value|
 |:--|:----|:-|:--|:----|
 |dep_st-1|Siebnen-Wangen|  |dep_st-2|Pfäffikon SZ
@@ -70,6 +77,7 @@ So much for the storage part, now over to the API. There will be three endpoints
 |arr_st-1|Pfäffikon SZ|  |arr_st-2|Zürich HB
 |arr_t-1|06:13|  |arr_t-2|06:48
 |train_id-1|S2 18220|  |train_id-2|IR 1754
+```
 
 **/read** will be the only endpoint accessible via a GET request, though it still needs the trainsharingID in the querystring. `/read` is for manually asking if new overlaps have been found since checking in. The goal however should be that this endpoint is only used for development and new overlaps are sent to the user via PUSH notifications in a production setup.
 
@@ -83,4 +91,4 @@ Both a proper UI and API endpoints for the meetup functionality still need to be
 
 Well, that is all there is to say about the TrainsharingApp at the moment. Have I missed something? Or do you have a specific suggestion concerning changes, additions, or removal of features?
 
-In case you are interested in creating a native mobile client besides the one for WindowsPhone, which is already being covered by [Adrian](http://www.facebook.com/adriankue), let me know either via twitter or the comments below so I can get in touch with you. The same goes for designers too.
+In case you are interested in creating a native mobile client besides the one for WindowsPhone, which is already being covered by [Adrian](https://www.facebook.com/adriankue), let me know either via twitter or the comments below so I can get in touch with you. The same goes for designers too.

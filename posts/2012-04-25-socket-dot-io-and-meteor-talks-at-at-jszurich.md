@@ -3,7 +3,7 @@ Title: Socket.io and Meteor Talks at @JSZurich
 Tags: Socket.io, Meteor, JSZurich, Talk
 Comments: true
 
-For the april event of [@JSZurich](https://twitter.com/jszurich), [@streunerlein](https://twitter.com/streunerlein) and i had the honor of talking about [socket.io](http://socket.io/) and the new kid on the block, [meteor](http://meteor.com/). As you can see the slides and recordings are embedded below. Enjoy. As for the recordings, sorry it's raw, MTS is not the friendliest format.
+For the april event of [@JSZurich](https://twitter.com/jszurich), [@streunerlein](https://twitter.com/streunerlein) and i had the honor of talking about [socket.io](https://socket.io/) and the new kid on the block, [meteor](https://meteor.com/). As you can see the slides and recordings are embedded below. Enjoy. As for the recordings, sorry it's raw, MTS is not the friendliest format.
 
 ## Socket.io
 

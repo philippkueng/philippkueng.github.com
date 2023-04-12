@@ -3,9 +3,9 @@ Title: Commit early and often
 Comments: true
 Tags: Life-Hacks
 
-<img src="/images/2011/7/commit_early_and_often.png" alt="" />
+<img src="/assets/images/2011/7/commit_early_and_often.png" alt="" />
 <p>Last night I had the task to fix a clients custom built website which I wrote quite a while ago on top of an early
-    version of <a href="http://github.com/philippkueng/hammyoncoffeine">hammyoncoffeine</a>.</p>
+    version of <a href="https://github.com/philippkueng/hammyoncoffeine">hammyoncoffeine</a>.</p>
 
 <p>Nothing difficult you might think, in the end I should be familiar with it, additionally I was using Version Control
     which

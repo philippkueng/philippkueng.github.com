@@ -3,11 +3,11 @@ Title: Hacking for fun and profit
 Comments: true
 Tags: Hackathon
 
-<p style="text-align:center;"><a href="http://twitter.com/#!/yabadabidu/status/24911191532896256"><img
-            src="/images/2011/1/Screen+shot+2011-01-14+at+14.32.56.png" /></a></p>
-<p style="text-align:center;"><a href="http://yfrog.com/h8qp9nj"><img src="/images/2011/1/qp9n.jpg" alt="" /></a></p>
-<p>At the last&nbsp;<a href="http://techup.ch/98/webtuesday-zurich-lightning-talks">#webtuesday</a>, <a
-        href="http://twitter.com/zurcherart">Steve</a> and I had the opportunity to talk about the 2 day Hackathon we
+<p style="text-align:center;"><a href="https://twitter.com/#!/yabadabidu/status/24911191532896256"><img
+            src="/assets/images/2011/1/Screen+shot+2011-01-14+at+14.32.56.png" /></a></p>
+<p style="text-align:center;"><a href="https://yfrog.com/h8qp9nj"><img src="/assets/images/2011/1/qp9n.jpg" alt="" /></a></p>
+<p>At the last&nbsp;<a href="https://techup.ch/98/webtuesday-zurich-lightning-talks">#webtuesday</a>, <a
+        href="https://twitter.com/zurcherart">Steve</a> and I had the opportunity to talk about the 2 day Hackathon we
     held during the christmas break. (slides below)</p>
 <p>If you want to make a hackday yourself be warned that:</p>
 <ul>
@@ -26,11 +26,11 @@ Tags: Hackathon
 <div id="__ss_6561530" style="width: 655px;">
     <object id="__sse6561530" width="655" height="547">
         <param name="movie"
-            value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=webtuesdaypresentation-110114071424-phpapp01&amp;stripped_title=hacking-for-fun-and-profit&amp;userName=Agentcmos" />
+            value="https://static.slidesharecdn.com/swf/ssplayer2.swf?doc=webtuesdaypresentation-110114071424-phpapp01&amp;stripped_title=hacking-for-fun-and-profit&amp;userName=Agentcmos" />
         <param name="allowFullScreen" value="true" />
         <param name="allowScriptAccess" value="always" /><embed type="application/x-shockwave-flash" width="655"
             height="547"
-            src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=webtuesdaypresentation-110114071424-phpapp01&amp;stripped_title=hacking-for-fun-and-profit&amp;userName=Agentcmos"
+            src="https://static.slidesharecdn.com/swf/ssplayer2.swf?doc=webtuesdaypresentation-110114071424-phpapp01&amp;stripped_title=hacking-for-fun-and-profit&amp;userName=Agentcmos"
             name="__sse6561530" allowscriptaccess="always" allowfullscreen="true"></embed>
     </object>
 </div>

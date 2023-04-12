@@ -3,7 +3,7 @@ Title: A Mashup is not a Blog
 Comments: true
 Tags: Blog
 
-<p><img src="/images/2011/7/DSC_5540.jpg" alt="A quality connection" /></p>
+<p><img src="/assets/images/2011/7/DSC_5540.jpg" alt="A quality connection" /></p>
 <p>Most people use a blog to build up a personal brand for whatever reason. Having profiles on various networks (social
     or not) might help multiplying the impact, however doing so doesn&#8217;t make you any more credible and in the
     worst case just pollutes the internet, maybe even weakens the goal you&#8217;re aiming for.</p>

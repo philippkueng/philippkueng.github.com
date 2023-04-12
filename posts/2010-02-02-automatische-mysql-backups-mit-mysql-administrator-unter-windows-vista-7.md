@@ -4,7 +4,7 @@ Comments: true
 Tags: untagged
 
 <p>Letzte Woche haben wir gesehen wie man den <a
-        href="http://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Webspace sichern</a>
+        href="https://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Webspace sichern</a>
     kann. Dieses mal werden wir uns ums Backup der MySQL Datenbank kümmern.
     Kurz vorweg, ich werde ich in diesem Beitrag nur über das sichern einer von aussen zugänglichen Datenbank schreiben.
     Ebenfalls ist das hier gezeigte für Windows Vista / 7 vorgesehen.
@@ -26,7 +26,7 @@ Tags: untagged
 </p>
 <p>Nachdem die Passwort Angelegenheiten geklärt sind können wir endlich mit der Sicherung der DB beginnen. Dafür
     benötigen wir das Programm MySQL Administrator welches Bestandteil der <a
-        href="http://dev.mysql.com/downloads/gui-tools/5.0.html">MySQL GUI Tools</a> ist. Am einfachsten die Windows
+        href="https://dev.mysql.com/downloads/gui-tools/5.0.html">MySQL GUI Tools</a> ist. Am einfachsten die Windows
     (x86) Variante (aktuell Version 5.0-r17) auswählen und herunterladen.
 </p>
 <p>
@@ -37,14 +37,14 @@ Tags: untagged
         storage method</i> die Option <i>Obscured</i> aus. Bestätige alles mit einem klick auf <i>Apply</i> und
     anschliessend <i>Close</i>.
 </p>
-<img src="/images/2010/2/mysql-administrator-options-password.png" alt="MySQL Administrator Options Window" />
+<img src="/assets/images/2010/2/mysql-administrator-options-password.png" alt="MySQL Administrator Options Window" />
 <p>
     <strong>Sicherungsprojekt erstellen</strong><br />Nun zum Backup, klicke in der linken Spalte auf <i>Backup</i> und
     dann auf den Knopf <i>New Project</i>.Gib einen Namen für die Sicherung ein und füge zu sichernde Datenbanken mit
     eine klick auf den <i>></i> Knopf hinzu. Sobald alle notwendigen DBs hinzugefügt wurden, kann auf den Tab Reiter
     <i>Schedule</i> geklickt werden um die Sicherungsintervalle festzulegen.
 </p>
-<img src="/images/2010/2/mysql-administrator-create-backup.png" alt="MySQL Administrator Backup erstellen" />
+<img src="/assets/images/2010/2/mysql-administrator-create-backup.png" alt="MySQL Administrator Backup erstellen" />
 <p><strong>Sicherungsintervalle einstellen</strong><br />Setze zuerst das Häkchen bei <i>Schedule this backup
         project</i> und gib den Pfad und den Dateinamen an unter welchem die MySQL Datei auf dem Computer abgelegt
     werden soll. Weiter unten findet man die ziemlich selbst erklärenden Einstellungen wo festgelegt werden kann wann
@@ -52,7 +52,7 @@ Tags: untagged
     Anforderungen eingestellt sind genügt ein klick auf <i>Save</i> und die Angabe des Passwortes des aktuellen Windows
     Benutzerkontos um die automatischen Backups zu aktivieren.
 </p>
-<img src="/images/2010/2/mysql-administrator-schedule-backup.png" alt="" />
+<img src="/assets/images/2010/2/mysql-administrator-schedule-backup.png" alt="" />
 <p>
     <strong>Tipp:</strong> Der Speicherort für die .sql Datei sollte falls möglich nicht auf dem C Laufwerk liegen, da
     das Backup sonst aus Grund ungenügender Rechte scheitern könnte.

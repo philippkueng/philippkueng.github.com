@@ -3,10 +3,10 @@ Title: Google - Killer des eigenen Fortschritts
 Comments: true
 Tags: Opinion
 
-<a title="Jet Engine by wwarby, on Flickr" href="http://www.flickr.com/photos/wwarby/4782920540/" ;=";"><img
-        alt="Jet Engine" src="http://farm5.static.flickr.com/4135/4782920540_1fc6a1a0dd_b.jpg" ;=";" /></a>
-<p>Das Titelbild ist von <a href="http://www.flickr.com/photos/wwarby">wwarby</a> und steht unter <a
-        href="http://creativecommons.org/licenses/by/2.0/">CC-BY 2.0</a>.</p>
+<a title="Jet Engine by wwarby, on Flickr" href="https://www.flickr.com/photos/wwarby/4782920540/" ;=";"><img
+        alt="Jet Engine" src="https://farm5.static.flickr.com/4135/4782920540_1fc6a1a0dd_b.jpg" ;=";" /></a>
+<p>Das Titelbild ist von <a href="https://www.flickr.com/photos/wwarby">wwarby</a> und steht unter <a
+        href="https://creativecommons.org/licenses/by/2.0/">CC-BY 2.0</a>.</p>
 <p><strong>Google’s Irrfahrt</strong> <br />Es werden zu diesem Zeitpunkt wohl alle Wissen, dass Google das Wave Projekt
     offiziell für beendet erklärt hat. An dieser Stelle lässt sich streiten ob wirklich die vermeintlich wenigen Nutzer,
     oder ein Entscheider in der Chefetage dem innovativen Produkt den Todesstoß verpasste. <br />Ähnlich verwirrt agiert

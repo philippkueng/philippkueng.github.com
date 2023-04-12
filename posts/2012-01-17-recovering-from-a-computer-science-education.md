@@ -9,4 +9,4 @@ James Hague:
 
 Seems funny now, but had the most difficult time to let go of all those other things when started studying. No more philosophy or politics just algorithm runtimes and graph theory.
 
-via the [codeproject newsletter](http://www.codeproject.com/)
+via the [codeproject newsletter](https://www.codeproject.com/)

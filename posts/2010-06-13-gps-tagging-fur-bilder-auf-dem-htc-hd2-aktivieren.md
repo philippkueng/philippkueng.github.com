@@ -3,18 +3,18 @@ Title: GPS Tagging für Bilder auf dem HTC HD2 aktivieren
 Comments: true
 Tags: Windows Mobile
 
-<a href="http://www.flickr.com/groups/mobilecitywalkzuerich/pool/map?mode=group"><img alt="flickr GPS Karte"
-        src="/images/flickr_gps_map.png" /></a>
-<p>Beim <a href="http://www.pixelfreund.ch/2010/04/mobile-city-walk-zuerich/">Mobile City Walk Zürich</a> (<a
-        href="http://www.flickr.com/groups/mobilecitywalkzuerich/">flickr Gruppe</a>) von Gestern war eine der
+<a href="https://www.flickr.com/groups/mobilecitywalkzuerich/pool/map?mode=group"><img alt="flickr GPS Karte"
+        src="/assets/images/flickr_gps_map.png" /></a>
+<p>Beim <a href="https://www.pixelfreund.ch/2010/04/mobile-city-walk-zuerich/">Mobile City Walk Zürich</a> (<a
+        href="https://www.flickr.com/groups/mobilecitywalkzuerich/">flickr Gruppe</a>) von Gestern war eine der
     Anforderungen, dass die Bilder mit GPS Daten versehen, hochgeladen werden. GPS Tagging mag bei anderen Smartphones
     Standard sein, leider nicht so bei meinem Modell dem HTC HD2, was auf Windows Mobile 6.5 basiert.</p>
 <p>Um dennoch die Bilder mit GPS Informationen in den EXIF Daten zu versehen muss eine kleine Registry Änderung auf dem
-    Smartphone vollzogen werden. Dafür wird <a href="http://ceregeditor.mdsoft.pl">CERegEdit</a> gebraucht, was nicht
+    Smartphone vollzogen werden. Dafür wird <a href="https://ceregeditor.mdsoft.pl">CERegEdit</a> gebraucht, was nicht
     Open Source, jedoch gratis erhältlich ist. <br />Nach dem herunterladen und installieren von CERegEdit, wird das
     Smartphone per ActiveSync mit dem Computer verbunden und CERegEdit gestartet. Auf Windows Vista oder Windows 7
     sollte CERegEdit unbedingt mit Administrator Rechten gestartet werden, da die Applikation ansonsten nicht richtig
-    funktioniert. </p> <img alt="htc_camera_app" src="/images/htc_camera_app.jpg" />
+    funktioniert. </p> <img alt="htc_camera_app" src="/assets/images/htc_camera_app.jpg" />
 <p>Anschliessend nun die Schritte um GPS Tagging für Bilder zu aktivieren.</p>
 <ol>
     <li>Wähle in CERegEdit links oben <strong>Connection</strong> und anschliessend <strong>Connect</strong>, was die

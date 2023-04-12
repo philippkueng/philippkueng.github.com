@@ -3,11 +3,11 @@ Title: Foursquare BlogEngine.NET widget version 0.3
 Comments: true
 Tags: untagged
 
-<img src="/images/2010/2/foursquare-logo.png" alt="foursquare logo" />
+<img src="/assets/images/2010/2/foursquare-logo.png" alt="foursquare logo" />
 <p>Hi users of blogengine. I'd like to announce another minor update to the <a
-        href="http://4squarebewidget.codeplex.com/releases/view/43399"
+        href="https://4squarebewidget.codeplex.com/releases/view/43399"
         title="foursquare blogengine.net widget">foursquare widget</a> for your favourite blogging platform which can be
-    downloaded from <a href="http://4squarebewidget.codeplex.com/releases/view/43399"
+    downloaded from <a href="https://4squarebewidget.codeplex.com/releases/view/43399"
         title="foursquare blogengine.net widget">codeplex</a>.
     By the way this will be the last release working with the feeds, the next release will be running with the
     foursquare API.</p>

@@ -3,10 +3,10 @@ Title: Chrome Web Store - der Anfang vom Ende von Apple?
 Comments: true
 Tags: untagged
 
-<img src="/images/2010/5/chrome-web-store.png" alt="Chrome Web Store" />
-<p>Gestern an der <a href="http://code.google.com/events/io/2010/" title="Google I/O">Google I/O</a>, der alljährlichen
+<img src="/assets/images/2010/5/chrome-web-store.png" alt="Chrome Web Store" />
+<p>Gestern an der <a href="https://code.google.com/events/io/2010/" title="Google I/O">Google I/O</a>, der alljährlichen
     Entwicklerkonferenz des Suchmaschinenriesen, wurde bekanntgegeben, dass nun auch Chrome einen <a
-        href="http://chrome.google.com/webstore " title="Chrome Web Store">Web Store</a> bekommt aka. Goldesel für IT
+        href="https://chrome.google.com/webstore " title="Chrome Web Store">Web Store</a> bekommt aka. Goldesel für IT
     Firmen. Das Konzept an sich ist sicher nicht neu, da Apple schon seit einigen Jahren einen solchen für das iPhone
     und nun auch deren Tablet betreibt, und genau da wird es spannend. Google hat mit dem Chrome eine relativ einfache
     Umgebung geschaffen in der mit HTML (neu HTML5) etwas CSS und Javascript voll funktionsfähige Applikationen erstellt

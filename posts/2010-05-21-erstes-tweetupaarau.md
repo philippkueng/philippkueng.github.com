@@ -3,10 +3,10 @@ Title: Erstes #tweetupaarau
 Comments: true
 Tags: untagged
 
-<img src="/images/2010/5/tweetupaarau-geheimprojekt-praesentation.jpg" alt="tweetupaarau Geheimprojekt Präsentation" />
+<img src="/assets/images/2010/5/tweetupaarau-geheimprojekt-praesentation.jpg" alt="tweetupaarau Geheimprojekt Präsentation" />
 <p>
     Gestern am 20. Mai wurde das wahrscheinlich erste Tweetup auf Argauer Boden durchgeführt, das <a
-        href="http://twtvite.com/tweetupaarau">#tweetupaarau</a>. Die Location wahr angenehm nahe am Bahnhof und konnte
+        href="https://twtvite.com/tweetupaarau">#tweetupaarau</a>. Die Location wahr angenehm nahe am Bahnhof und konnte
     auch sonst überzeugen.
 <p></p>
 Wie nicht anders zu erwarten, mit 2 iPads als spezial Gäste, war der Abend eher Apple lastig und Gadgets, wie den von

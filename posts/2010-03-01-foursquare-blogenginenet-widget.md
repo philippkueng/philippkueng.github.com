@@ -4,26 +4,26 @@ Comments: true
 Tags: untagged
 
 <p><strong>Notice</strong><br />There's a <a
-        href="http://philippkueng.ch/post/Foursquare-BlogEngineNET-widget-version-03.aspx">newer release</a> available.
+        href="https://philippkueng.ch/post/Foursquare-BlogEngineNET-widget-version-03.aspx">newer release</a> available.
 </p>
-<img src="/images/2010/2/foursquare-logo.png" alt="foursquare log" />
-<p>Last Sunday I decided to build a <a href="http://foursquare.com">foursquare</a> sidebar widget for <a
-        href="http://www.dotnetblogengine.net/" alt="BlogEngine.NET">BlogEngine.NET</a> since there wasn't anything
-    around yet. The <a href="http://4squarebewidget.codeplex.com/releases/view/41093">current version</a> simply shows
+<img src="/assets/images/2010/2/foursquare-logo.png" alt="foursquare log" />
+<p>Last Sunday I decided to build a <a href="https://foursquare.com">foursquare</a> sidebar widget for <a
+        href="https://www.dotnetblogengine.net/" alt="BlogEngine.NET">BlogEngine.NET</a> since there wasn't anything
+    around yet. The <a href="https://4squarebewidget.codeplex.com/releases/view/41093">current version</a> simply shows
     the last places you've checked-in and is mostly based on the twitter widget from <a
-        href="http://madskristensen.net/">Mads Kristensen</a>.</p>
-<img src="/images/2010/2/foursquare-blogengine-widget.png" alt="blogengine sidebar widget for foursquare" />
+        href="https://madskristensen.net/">Mads Kristensen</a>.</p>
+<img src="/assets/images/2010/2/foursquare-blogengine-widget.png" alt="blogengine sidebar widget for foursquare" />
 <p><strong>Requirements</strong><br />
     In order to use the widget you will need to have .NET 3.5 installed on your server. I will probably port everything
     to .NET 2.0 later, but since I was used to work with LINQ, I implemented everything in .NET 3.5.
 </p>
 <p><strong>Installation</strong><br />
-    First of all download the current version available at <a href="http://4squarebewidget.codeplex.com/">codeplex</a>.
+    First of all download the current version available at <a href="https://4squarebewidget.codeplex.com/">codeplex</a>.
     Extract it and upload everything to your BlogEngine directory into the widgets folder. If you've uploaded the files
     and switched your current BlogEngine installation to .NET 3.5 you're ready to open your site in the browser and add
     the widget to the sidebar.<br />
     After you've added the widget, you'll have to specify some settings regarding your foursquare feeds. Simply open <a
-        href="http://feeds.foursquare.com" alt="foursquare feeds">http://feeds.foursquare.com</a> and copy-paste the
+        href="https://feeds.foursquare.com" alt="foursquare feeds">https://feeds.foursquare.com</a> and copy-paste the
     urls for the rss and kml feeds into the according input fields inside the foursquare widget edit section. Then go to
     your foursquare page by clicking on me in the navigation bar at the top, copy and paste the url into the account url
     input field. Next decide how much your feed should be requested from foursquare. But keep in mind, that if you
@@ -36,5 +36,5 @@ Tags: untagged
     It's possible that the BlogEngine application has to be restarted, after you have added the foursquare widget.
 </p>
 <p>If you have any suggestions or ideas how the widget can be extended or improved please feel free to leave a comment,
-    <a href="http://philippkueng.ch/contact.aspx">send me an email</a> or contact me via <a
-        href="http://twitter.com/agentcmos">twitter</a>.</p>
+    <a href="https://philippkueng.ch/contact.aspx">send me an email</a> or contact me via <a
+        href="https://twitter.com/agentcmos">twitter</a>.</p>
