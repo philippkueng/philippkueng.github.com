@@ -1,6 +1,6 @@
 {:deps {io.github.borkdude/quickblog
         #_"You use the newest SHA here:"
-        {:git/sha "2f0043af0cd34c7ebe359a6c57dad48930740de4"}}
+        {:git/sha "792f952be8fe0f3326b293dde3251f6a09deaf0c"}}
  :tasks
  {:requires ([quickblog.cli :as cli])
   :init (def opts {:blog-title "Philipp Küng"
