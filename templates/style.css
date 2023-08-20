@@ -20,11 +20,6 @@ a {
   padding: 0 15px;
 }
 
-.wrapper img {
-  max-width: 100%;
-  height: auto;
-}
-
 h2 {
   margin-bottom: 0;
   margin-top: 0;
@@ -74,4 +69,9 @@ ul.index {
 
 code {
   white-space: pre;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
 }

@@ -4,7 +4,7 @@ Comments: true
 Tags: untagged
 
 <p>Letzte Woche haben wir gesehen wie man den <a
-        href="https://philippkueng.ch/post/Webspace-mit-WGET-und-einer-Batch-Datei-sichern.aspx">Webspace sichern</a>
+        href="https://philippkueng.ch/webspace-mit-wget-und-einer-batch-datei-sichern.html">Webspace sichern</a>
     kann. Dieses mal werden wir uns ums Backup der MySQL Datenbank kümmern.
     Kurz vorweg, ich werde ich in diesem Beitrag nur über das sichern einer von aussen zugänglichen Datenbank schreiben.
     Ebenfalls ist das hier gezeigte für Windows Vista / 7 vorgesehen.

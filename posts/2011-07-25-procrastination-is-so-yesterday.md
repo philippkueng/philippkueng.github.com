@@ -4,7 +4,7 @@ Comments: true
 Tags: Life-Hacks
 
 <p>After writing the last post about the <a
-        href="https://philippkueng.ch/post/Blame-the-Lizard-Brain-But-do-it!.aspx">Lizard Brain</a> I gave myself another
+        href="/2011-07-24-blame-the-lizard-brain-but-do-it!.html">Lizard Brain</a> I gave myself another
     episode of <a href="https://5by5.tv/b2w">Back to Work</a> it was <a href="https://5by5.tv/b2w/4">episode number 4</a>,
     and in there, at the end, Marlin Mann talks about the way he is handling Task Lists which mysteriously worked
     extremely well for me too.</p>

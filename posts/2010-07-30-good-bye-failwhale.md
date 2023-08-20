@@ -24,7 +24,7 @@ Tags: twittboat, failwhale
         href="https://www.flickr.com/groups/twittboat/pool/">Bildern des #twittboat</a> zu sehen ist.</p> <img
     title="failwhale-ebay-auktion" alt="failwhale-ebay-auktion" src="/assets/images/failwhale-ebay-auktion.png" />
 <p>Um den failwhale Hype positiv zu nutzen wurde dieser, wie im Beitrag <a
-        href="https://philippkueng.ch/post/twittboat-2010.aspx">#twittboat 2010</a> erwähnt, auf Ebay versteigert um
+        href="/2010-07-09-twittboat-2010.html">#twittboat 2010</a> erwähnt, auf Ebay versteigert um
     damit Gutes zu tun. Dank zahlreichen Helferinnen und Helfern kletterte der Preis innerhalb einiger Tage auf 51
     Franken die nun der Gruppe <a href="https://www.kiva.org/team/swisstweets">swisstweets</a> auf <a
         href="https://www.kiva.org/">Kiva</a> zugute kommen.</p>

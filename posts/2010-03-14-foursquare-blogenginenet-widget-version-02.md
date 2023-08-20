@@ -4,7 +4,7 @@ Comments: true
 Tags: untagged
 
 <p><strong>Notice</strong><br />
-    There's a <a href="https://philippkueng.ch/post/Foursquare-BlogEngineNET-widget-version-03.aspx">newer release</a>
+    There's a <a href="/2010-04-11-foursquare-blogenginenet-widget-version-03.html">newer release</a>
     available.</p>
 <img src="/assets/images/2010/3/foursquare-blogengine-widget-version-0.2.png" alt="Foursquare BlogEngine widget version 0.2" />
 <p>During the last week I've added <a href="https://maps.bing.com">Bing Maps</a> to the widget, so that you're last

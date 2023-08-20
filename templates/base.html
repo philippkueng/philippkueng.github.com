@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link type="application/atom+xml" rel="alternate" href="{{relative-path | safe}}atom.xml" title="{{title}}">
     <link rel="stylesheet" href="{{relative-path | safe}}style.css">
-    <link href="/assets/favicon.png" rel="icon">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/prism.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/components/prism-clojure.min.js"></script>
     {{watch | safe }}
@@ -50,23 +49,23 @@
         <div class="site-nav">
           <a class="page-link" href="{{relative-path | safe}}archive.html">Archive</a>
           <a class="page-link" href="{{relative-path | safe}}tags/index.html">Tags</a>
-	  <a class="page-link" href="{{relative-path | safe}}atom.xml">
+    <a class="page-link" href="{{relative-path | safe}}atom.xml">
             Feed
           </a>
-	  {% if twitter-handle %}
-	  <a class="page-link" href="https://twitter.com/{{twitter-handle}}">
+    {% if twitter-handle %}
+    <a class="page-link" href="https://twitter.com/{{twitter-handle}}">
             Twitter
           </a>
-	  {% endif %}
-	  {% if about-link %}
-	  <a class="page-link" href="{{about-link}}">About</a>
-	  {% endif %}
+    {% endif %}
+    {% if about-link %}
+    <a class="page-link" href="{{about-link}}">About</a>
+    {% endif %}
         </div>
         <div>
           <h1 class="site-title">
             <a class="page-link" href="{{relative-path | safe}}index.html">{{blog-title}}</a>
           </h1>
-	  <p>{{blog-description}}</p>
+    <p>{{blog-description}}</p>
         </div>
       </div>
     </div>

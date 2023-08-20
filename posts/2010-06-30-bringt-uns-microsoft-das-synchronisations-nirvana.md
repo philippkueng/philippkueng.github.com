@@ -45,7 +45,7 @@ Tags: untagged
 <p><strong>Fazit</strong> <br />Microsoft hat sicherlich hie und da noch etliche Schachstellen auszubügeln um im Markt
     gegen innovative Produkte wie Dropbox und Wuala bestehen zu können. Ein weiteres absolutes Killer Feature wäre
     beispielsweise, dass per Live Sync in die Cloud hochgeladene Dokumente auch mit den <a
-        href="https://philippkueng.ch/post/Docscom-der-Google-Docs-Killer.aspx">Office Web Apps</a> per Browser editiert
+        href="https://philippkueng.ch/docscom-der-google-docs-killer.html">Office Web Apps</a> per Browser editiert
     werden könnten, womit die ganze Nutzungs-Bandbreite unterstützt würde. <br />Man darf allerdings nicht vergessen,
     dass Live Sync momentan noch im Beta Status ist und hoffentlich auf die finale Version hin noch um einiges
     Attraktiver wird, ob es der Beginn des Synchronisations-Nirvana ist, diese Entscheidung überlasse ich dabei gerne

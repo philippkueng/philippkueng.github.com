@@ -4,7 +4,7 @@ Comments: true
 Tags: untagged
 
 <p><strong>Notice</strong><br />There's a <a
-        href="https://philippkueng.ch/post/Foursquare-BlogEngineNET-widget-version-03.aspx">newer release</a> available.
+        href="/2010-04-11-foursquare-blogenginenet-widget-version-03.html">newer release</a> available.
 </p>
 <img src="/assets/images/2010/2/foursquare-logo.png" alt="foursquare log" />
 <p>Last Sunday I decided to build a <a href="https://foursquare.com">foursquare</a> sidebar widget for <a
@@ -35,6 +35,5 @@ Tags: untagged
 <p><strong>Important</strong><br />
     It's possible that the BlogEngine application has to be restarted, after you have added the foursquare widget.
 </p>
-<p>If you have any suggestions or ideas how the widget can be extended or improved please feel free to leave a comment,
-    <a href="https://philippkueng.ch/contact.aspx">send me an email</a> or contact me via <a
-        href="https://twitter.com/agentcmos">twitter</a>.</p>
+<p>If you have any suggestions or ideas how the widget can be extended or improved please feel free to leave to contact me on <a
+        href="https://twitter.com/philippkueng">twitter</a>.</p>
